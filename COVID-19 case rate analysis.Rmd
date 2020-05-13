@@ -1,0 +1,283 @@
+---
+title: "COVID-19 case and death rate"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 4
+runtime: shiny
+resource_files:
+- Data/Shapefiles/County shapefiles/MNCounties_MNDOT.cpg
+- Data/Shapefiles/County shapefiles/MNCounties_MNDOT.dbf
+- Data/Shapefiles/County shapefiles/MNCounties_MNDOT.prj
+- Data/Shapefiles/County shapefiles/MNCounties_MNDOT.sbn
+- Data/Shapefiles/County shapefiles/MNCounties_MNDOT.sbx
+- Data/Shapefiles/County shapefiles/MNCounties_MNDOT.shp.xml
+- Data/Shapefiles/County shapefiles/MNCounties_MNDOT.shx
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(tidyverse)
+library(sf)
+library(ggrepel)
+library(scales)
+library(shiny)
+library(shinycssloaders)
+library(ggiraph)
+library(kableExtra)
+library(rmapshaper)
+library(cowplot)
+library(DT)
+library(htmlwidgets)
+library(lubridate)
+library(viridis)
+```
+
+```{r loading jon docs and shapefiles, cache=TRUE, include=FALSE}
+theme_bar <- theme_bw() +
+  theme(panel.grid.major = element_line(color = "grey70", size = 0.1),
+        panel.grid.minor = element_blank(),
+        axis.ticks = element_blank(),
+        axis.text = element_text(face = "bold"),
+        panel.border = element_blank(),
+        legend.background = element_rect(fill = "transparent", color = "transparent"),
+        legend.key = element_rect(fill = "transparent"),
+        legend.title = element_blank(),
+        legend.text = element_text(margin = margin(l = 2)))
+
+theme_line <- theme_bw() +
+  theme(legend.background = element_rect(fill = "transparent", color = "transparent"),
+        legend.key = element_rect(fill = "transparent"),
+        legend.text = element_text(margin = margin(l = 2)),
+        panel.grid.minor = element_blank(),
+        panel.grid.major = element_line(color = "grey70", size = 0.1),
+        axis.ticks = element_blank(),
+        axis.text = element_text(face = "bold"),
+        panel.border = element_blank())
+
+theme_sf <- theme_bw() +
+  theme(axis.text.x=element_blank(),
+        axis.text.y=element_blank(),
+        axis.ticks=element_blank(),
+        panel.background = element_blank(),
+        panel.grid.major = element_line(color = "white"),
+        panel.border = element_blank(),
+        plot.title = element_text(hjust = 0.5),
+        legend.text = element_text(margin = margin(l = 2))
+  )
+
+regions <- read_csv("Data/Join docs/county_regions.csv") %>%
+    select(5,6) %>%
+    unique() %>%
+    mutate(edr = str_replace(edr, "  ", " "),
+           planning.region = str_replace(planning.region, " Minnesota", ""),
+           planning.region = fct_relevel(planning.region, "Northwest", "Northeast", "Central", "Seven County Mpls-St Paul", "Southwest", "Southeast"),
+           edr = fct_relevel(edr, "EDR 1 - Northwest", "EDR 2 - Headwaters", "EDR 3 - Arrowhead", "EDR 4 - West Central", "EDR 5 - North Central", "EDR 6E- Southwest Central", "EDR 6W- Upper Minnesota Valley", "EDR 7E- East Central", "EDR 7W- Central", "EDR 8 - Southwest", "EDR 9 - South Central", "EDR 10 - Southeast", "EDR 11 - 7 County Twin Cities", "Minnesota"))
+
+counties.regions <- read_csv("Data/Join docs/county_regions.csv") %>%
+  mutate(countyfp = formatC(countyfp, width = 3, flag = "0"),
+         Name = str_to_title(Name),
+         Name = str_replace(Name, "Q", "q"),
+         Name = str_replace(Name, "Of The", "of the"),
+         Name = str_replace(Name, "Mcleod", "McLeod"),
+         Dem_Desc = ifelse(Name == "Minnesota", "Minnesota", Dem_Desc) ,
+         edr = str_replace(edr, "  ", " "),
+         planning.region = str_replace(planning.region, " Minnesota", ""),
+         planning.region = fct_relevel(planning.region, "Northwest", "Northeast", "Central", "Seven County Mpls-St Paul", "Southwest", "Southeast"),
+         edr = fct_relevel(edr, "EDR 1 - Northwest", "EDR 2 - Headwaters", "EDR 3 - Arrowhead", "EDR 4 - West Central", "EDR 5 - North Central", "EDR 6E- Southwest Central", "EDR 6W- Upper Minnesota Valley", "EDR 7E- East Central", "EDR 7W- Central", "EDR 8 - Southwest", "EDR 9 - South Central", "EDR 10 - Southeast", "EDR 11 - 7 County Twin Cities", "Minnesota"))
+
+color.ruca <- c("Entirely rural" = "#009933", "Town/rural mix" = "#99CC33", "Urban/town/rural mix" = "#CC9966", "Entirely urban" = "#754C29", "Minnesota" = "black")
+
+color.pr <- c("Northwest" = "#4575b4","Northeast" = "#e0f3f8", "Central" = "#fee090", "Seven County Mpls-St Paul" = "#d73027", "Southwest" = "#91bfdb", "Southeast" = "#fc8d59", "Minnesota" = "black")
+
+color.edr <- c("EDR 1 - Northwest" = "#b3cde3", "EDR 2 - Headwaters" = "#8c96c6", "EDR 3 - Arrowhead" = "#fe9929", "EDR 4 - West Central" = "#8856a7", "EDR 5 - North Central" = "#810f7c", "EDR 6E- Southwest Central" = "#e5f5f9", "EDR 6W- Upper Minnesota Valley" = "#bdc9e1", "EDR 7E- East Central" = "#99d8c9", "EDR 7W- Central" = "#2ca25f", "EDR 8 - Southwest" = "#74a9cf", "EDR 9 - South Central" = "#0570b0", "EDR 10 - Southeast" = "#d7301f", "EDR 11 - 7 County Twin Cities" = "#d8b365", "Minnesota" = "black")
+
+color.six <- c("#009933", "#FFFF00", "#FF9900", "#3366CC", "#FF0000", "#754C29")
+
+color.green.five <- c("#edf8fb", "#b2e2e2", "#66c2a4", "#2ca25f", "#006d2c")
+
+mn_counties <- st_read("Data/Shapefiles/county shapefiles/MNCounties_MNDOT.shp", quiet = TRUE) %>%
+  ms_simplify(keep = .01, keep_shapes = TRUE)
+```
+
+```{r master data, include=FALSE, cache=TRUE}
+master.cases <- read_csv("Data/Case data/Master-cases-county.csv") %>%
+  mutate(Dem_Desc = fct_relevel(Dem_Desc, "Entirely rural", "Town/rural mix", "Urban/town/rural mix", "Entirely urban"),
+         planning.region = fct_relevel(planning.region, "Northwest", "Northeast", "Central", "Seven County Mpls-St Paul", "Southwest", "Southeast"),
+edr = fct_relevel(edr, "EDR 1 - Northwest", "EDR 2 - Headwaters", "EDR 3 - Arrowhead", "EDR 4 - West Central", "EDR 5 - North Central", "EDR 6E- Southwest Central", "EDR 6W- Upper Minnesota Valley", "EDR 7E- East Central", "EDR 7W- Central", "EDR 8 - Southwest", "EDR 9 - South Central", "EDR 10 - Southeast", "EDR 11 - 7 County Twin Cities", "Minnesota"),
+Date = mdy(Date)) %>%
+  mutate(pop.100k = total.pop / 100000,
+         Cases = ifelse(is.na(Cases), 0, Cases),
+         Deaths = ifelse(is.na(Deaths), 0, Deaths))
+```
+
+<br>
+
+# Cases per 100k{.tabset}
+
+Summary here
+
+```{r prep cases per 100k , include=FALSE, cache=TRUE}
+case.county.map <- master.cases %>%
+  filter(Date == max(Date),
+         County != "Minnesota") %>%
+  mutate(cases.100k = Cases / pop.100k,
+         deaths.100k = Deaths / pop.100k) %>%
+  left_join(mn_counties[,c(4,7)], by = c("countyfp" = "FIPS_CODE")) %>%
+  st_as_sf()  
+
+case.county.centroid.map <- cbind(case.county.map, st_coordinates(st_centroid(case.county.map)))
+  
+case.100k.ruca <- master.cases %>%
+  filter(County != "Minnesota") %>%
+  group_by(Dem_Desc, Date) %>%
+  summarise(Cases = sum(Cases),
+            Deaths = sum(Deaths),
+            total.pop = sum(total.pop)) %>%
+  ungroup() %>%
+  mutate(pop.100k = total.pop / 100000,
+         cases.100k = Cases / pop.100k,
+         deaths.100k = Deaths / pop.100k)
+
+case.100k.pr <- master.cases %>%
+  filter(County != "Minnesota") %>%
+  group_by(planning.region, Date) %>%
+  summarise(Cases = sum(Cases),
+            Deaths = sum(Deaths),
+            total.pop = sum(total.pop)) %>%
+  ungroup() %>%
+  mutate(pop.100k = total.pop / 100000,
+         cases.100k = Cases / pop.100k,
+         deaths.100k = Deaths / pop.100k)
+
+case.100k.edr <- master.cases %>%
+  filter(County != "Minnesota") %>%
+  group_by(edr, planning.region, Date) %>%
+  summarise(Cases = sum(Cases),
+            Deaths = sum(Deaths),
+            total.pop = sum(total.pop)) %>%
+  ungroup() %>%
+  mutate(pop.100k = total.pop / 100000,
+         cases.100k = Cases / pop.100k,
+         deaths.100k = Deaths / pop.100k)
+
+```
+
+<br>
+
+## County map
+
+<br>
+
+```{r map cases per 100k map}
+cases.100k.county.map <- ggplot(case.county.centroid.map) +
+  geom_sf_interactive(fill = "grey", aes(tooltip = paste(County, "\nAs of: ", Date, "\nTotal cases: ", comma(Cases, accuracy = 1.0), "\nTotal population: ", comma(total.pop, accuracy = 1.0), "\nCases per 100,000 population: ", comma(cases.100k, accuracy = 0.01), sep = ""), data_id = County, geometry = geometry)) +
+  geom_point_interactive(aes(x = X, y = Y, size = cases.100k, color = cases.100k, data_id = County, tooltip = paste(County, "\nAs of: ", Date, "\nTotal cases: ", comma(Cases, accuracy = 1.0), "\nTotal population: ", comma(total.pop, accuracy = 1.0), "\nCases per 100,000 population: ", comma(cases.100k, accuracy = 0.01), sep = "")), alpha = .9) +
+  scale_size_continuous(range = c(1,6)) +
+  scale_color_viridis(trans = "log") +
+  theme_sf+
+  labs(title=paste("COVID-19 cases per 100,000 as of ", max(case.county.map$Date), sep = ""), x = "", y = "") +
+  theme(text = element_text(size = 10))
+
+girafe(ggobj = cases.100k.county.map, width_svg = 8) %>%
+  girafe_options(opts_selection(type = "none"),
+                 opts_toolbar(saveaspng = FALSE) ,
+                 opts_sizing(rescale = FALSE))
+
+```
+
+
+## RUCA
+
+<br>
+
+```{r chart cases per 100k ruca}
+cases.100k.ruca.plot <- ggplot(case.100k.ruca, aes(Date, cases.100k, color = Dem_Desc)) +
+  geom_smooth(se = FALSE, size = 2) +
+  geom_point_interactive(size = 3, aes(data_id = Dem_Desc, tooltip = paste(Dem_Desc, "\nDate: ", Date, "\nTotal cases: ", comma(Cases, accuracy = 1.0), "\nTotal population: ", comma(total.pop, accuracy = 1.0), "\nCases per 100,000 population: ", comma(cases.100k, accuracy = 0.01), sep = ""))) +
+  geom_label_repel(data = filter(case.100k.ruca, Date == max(Date)), aes(x = Date, y = cases.100k, label = comma(cases.100k, accuracy = 0.01)), show.legend = FALSE) +
+  labs(x="", y = "", color="", title = "COVID-19 cases per 100,000")+
+  scale_y_continuous(labels=scales::comma)+
+  theme_line+
+  scale_color_manual(values= color.ruca,
+                     guide = guide_legend(ncol = 3)) +
+  theme(legend.position = "bottom")
+
+girafe(ggobj = cases.100k.ruca.plot, width_svg = 8) %>%
+  girafe_options(opts_selection(type = "none"),
+                 opts_toolbar(saveaspng = FALSE) ,
+                 opts_sizing(rescale = FALSE))
+
+```
+
+## Planning Region
+
+<br>
+
+```{r chart cases per 100k pr}
+cases.100k.pr.plot <- ggplot(case.100k.pr, aes(Date, cases.100k, color = planning.region)) +
+  geom_smooth(se = FALSE, size = 2) +
+  geom_point_interactive(size = 3, aes(data_id = planning.region, tooltip = paste(planning.region, "\nDate: ", Date, "\nTotal cases: ", comma(Cases, accuracy = 1.0), "\nTotal population: ", comma(total.pop, accuracy = 1.0), "\nCases per 100,000 population: ", comma(cases.100k, accuracy = 0.01), sep = ""))) +
+  geom_label_repel(data = filter(case.100k.pr, Date == max(Date)), aes(x = Date, y = cases.100k, label = comma(cases.100k, accuracy = 0.01)), show.legend = FALSE) +
+  labs(x="", y = "", color="", title = "COVID-19 cases per 100,000")+
+  scale_y_continuous(labels=scales::comma)+
+  theme_line+
+  scale_color_manual(values= color.pr,
+                     guide = guide_legend(ncol = 3)) +
+  theme(legend.position = "bottom")
+
+girafe(ggobj = cases.100k.pr.plot, width_svg = 8) %>%
+  girafe_options(opts_selection(type = "none"),
+                 opts_toolbar(saveaspng = FALSE) ,
+                 opts_sizing(rescale = FALSE))
+
+```
+
+## EDR
+
+<br>
+
+```{r chart cases per 100k edr, fig.height=9}
+cases.100k.edr.plot <- ggplot(case.100k.edr, aes(Date, cases.100k, color = edr)) +
+  geom_smooth(se = FALSE, size = 2) +
+  facet_wrap(~planning.region, ncol = 2) +
+  geom_point_interactive(size = 3, aes(data_id = edr, tooltip = paste(edr, "\nDate: ", Date, "\nTotal cases: ", comma(Cases, accuracy = 1.0), "\nTotal population: ", comma(total.pop, accuracy = 1.0), "\nCases per 100,000 population: ", comma(cases.100k, accuracy = 0.01), sep = ""))) +
+  geom_label_repel(data = filter(case.100k.edr, Date == max(Date)), aes(x = Date, y = cases.100k, label = comma(cases.100k, accuracy = 0.01)), show.legend = FALSE) +
+  labs(x="", y = "", color="", title = "COVID-19 cases per 100,000")+
+  scale_y_continuous(labels=scales::comma)+
+  theme_line+
+  scale_color_manual(values= color.edr,
+                     guide = guide_legend(ncol = 3)) +
+  theme(legend.position = "bottom")
+
+girafe(ggobj = cases.100k.edr.plot, height_svg = 8) %>%
+  girafe_options(opts_selection(type = "none"),
+                 opts_toolbar(saveaspng = FALSE) ,
+                 opts_sizing(rescale = FALSE))
+
+```
+
+# Deaths per 100k{.tabset}
+
+Summary here
+
+<br>
+
+## County map
+
+<br>
+
+## RUCA
+
+<br>
+
+## Planning Region
+
+<br>
+
+## EDR
+
+<br>
+
+

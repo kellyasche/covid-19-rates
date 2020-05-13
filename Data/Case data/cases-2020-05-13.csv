@@ -1,0 +1,86 @@
+County,Cases,Deaths
+Aitkin,2,0
+Anoka,613,31
+Becker,25,0
+Beltrami,6,0
+Benton,100,2
+Big Stone,2,0
+Blue Earth,67,0
+Brown,9,1
+Carlton,65,0
+Carver,95,1
+Cass,8,2
+Chippewa,21,0
+Chisago,23,1
+Clay,254,17
+Clearwater,2,0
+Cottonwood,47,0
+Crow Wing,23,1
+Dakota,508,15
+Dodge,26,0
+Douglas,17,0
+Faribault,10,0
+Fillmore,14,1
+Freeborn,46,0
+Goodhue,26,0
+Grant,2,0
+Hennepin,"4,033",412
+Houston,2,0
+Isanti,10,0
+Itasca,35,2
+Jackson,33,0
+Kanabec,10,0
+Kandiyohi,367,1
+Kittson,1,0
+Koochiching,2,0
+Lac qui Parle,2,0
+Lake,1,0
+Le Sueur,31,1
+Lincoln,4,0
+Lyon,20,0
+Mahnomen,3,1
+Marshall,8,0
+Martin,112,4
+McLeod,14,0
+Meeker,23,0
+Mille Lacs,7,1
+Morrison,16,0
+Mower,45,0
+Murray,29,0
+Nicollet,22,2
+Nobles,"1,291",2
+Norman,11,0
+Olmsted,378,9
+Otter Tail,25,0
+Pennington,1,0
+Pine,73,0
+Pipestone,7,0
+Polk,54,1
+Pope,5,0
+Ramsey,"1,052",49
+Red Lake,2,0
+Redwood,3,0
+Renville,6,0
+Rice,134,2
+Rock,19,0
+Roseau,1,0
+Scott,168,1
+Sherburne,122,1
+Sibley,4,0
+St. Louis,96,12
+Stearns,"1,512",6
+Steele,73,0
+Stevens,1,0
+Swift,9,0
+Todd,42,0
+Traverse,3,0
+Wabasha,13,0
+Wadena,4,0
+Waseca,16,0
+Washington,266,16
+Watonwan,28,0
+Wilkin,11,3
+Winona,71,15
+Wright,119,1
+Yellow Medicine,3,0
+Unknown/missing,30,0
