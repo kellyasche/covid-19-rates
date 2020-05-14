@@ -1,6 +1,5 @@
 ---
 title: "COVID-19 case and death rate"
-output_dir: docs
 output:
   html_document:
     toc: true

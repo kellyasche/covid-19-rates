@@ -1,0 +1,1655 @@
+County,Date,Cases,Deaths,countyfp,Dem_RUCA,Dem_Desc,edr,planning.region,total.pop
+Aitkin,5/2/2020,1,0,001,A,Entirely rural,EDR 3 - Arrowhead,Northeast,15841
+Anoka,5/2/2020,260,14,003,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,344861
+Becker,5/2/2020,10,0,005,C,Urban/town/rural mix,EDR 4 - West Central,Northwest,33552
+Beltrami,5/2/2020,6,0,007,B,Town/rural mix,EDR 2 - Headwaters,Northwest,45847
+Benton,5/2/2020,29,1,009,C,Urban/town/rural mix,EDR 7W- Central,Central,39360
+Big Stone,5/2/2020,2,0,011,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,5039
+Blue Earth,5/2/2020,41,0,013,D,Entirely urban,EDR 9 - South Central,Southwest,65767
+Brown,5/2/2020,8,1,015,B,Town/rural mix,EDR 9 - South Central,Southwest,25243
+Carlton,5/2/2020,59,0,017,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,35408
+Carver,5/2/2020,25,0,019,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,98799
+Cass,5/2/2020,7,0,021,B,Town/rural mix,EDR 5 - North Central,Northwest,28810
+Chippewa,5/2/2020,2,0,023,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,12040
+Chisago,5/2/2020,13,1,025,D,Entirely urban,EDR 7E- East Central,Central,54297
+Clay,5/2/2020,169,13,027,D,Entirely urban,EDR 4 - West Central,Northwest,62040
+Clearwater,5/2/2020,2,0,029,B,Town/rural mix,EDR 2 - Headwaters,Northwest,8824
+Cook,5/2/2020,NA,NA,031,A,Entirely rural,EDR 3 - Arrowhead,Northeast,5270
+Cottonwood,5/2/2020,27,0,033,B,Town/rural mix,EDR 8 - Southwest,Southwest,11437
+Crow Wing,5/2/2020,21,1,035,B,Town/rural mix,EDR 5 - North Central,Northwest,63505
+Dakota,5/2/2020,189,11,037,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,414655
+Dodge,5/2/2020,22,0,039,D,Entirely urban,EDR 10 - Southeast,Southeast,20485
+Douglas,5/2/2020,3,0,041,B,Town/rural mix,EDR 4 - West Central,Northwest,36891
+Faribault,5/2/2020,6,0,043,B,Town/rural mix,EDR 9 - South Central,Southwest,13966
+Fillmore,5/2/2020,13,1,045,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,20825
+Freeborn,5/2/2020,35,0,047,B,Town/rural mix,EDR 10 - Southeast,Southeast,30619
+Goodhue,5/2/2020,21,0,049,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,46138
+Grant,5/2/2020,1,0,051,A,Entirely rural,EDR 4 - West Central,Northwest,5923
+Hennepin,5/2/2020,1980,259,053,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,1224763
+Houston,5/2/2020,1,0,055,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,18709
+Hubbard,5/2/2020,NA,NA,057,B,Town/rural mix,EDR 2 - Headwaters,Northwest,20743
+Isanti,5/2/2020,6,0,059,C,Urban/town/rural mix,EDR 7E- East Central,Central,38584
+Itasca,5/2/2020,7,0,061,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,45237
+Jackson,5/2/2020,18,0,063,B,Town/rural mix,EDR 8 - Southwest,Southwest,10104
+Kanabec,5/2/2020,1,0,065,C,Urban/town/rural mix,EDR 7E- East Central,Central,15948
+Kandiyohi,5/2/2020,145,1,067,B,Town/rural mix,EDR 6E- Southwest Central,Central,42577
+Kittson,5/2/2020,1,0,069,A,Entirely rural,EDR 1 - Northwest,Northwest,4384
+Koochiching,5/2/2020,1,0,071,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,12776
+Lac qui Parle,5/2/2020,1,0,073,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,6840
+Lake,5/2/2020,NA,NA,075,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,10578
+Lake of the Woods,5/2/2020,NA,NA,077,A,Entirely rural,EDR 2 - Headwaters,Northwest,3841
+Le Sueur,5/2/2020,25,0,079,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,27810
+Lincoln,5/2/2020,3,0,081,A,Entirely rural,EDR 8 - Southwest,Southwest,5724
+Lyon,5/2/2020,8,0,083,B,Town/rural mix,EDR 8 - Southwest,Southwest,25789
+Mahnomen,5/2/2020,2,0,087,A,Entirely rural,EDR 2 - Headwaters,Northwest,5500
+Marshall,5/2/2020,3,0,089,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,9397
+Martin,5/2/2020,110,4,091,B,Town/rural mix,EDR 9 - South Central,Southwest,20084
+McLeod,5/2/2020,4,0,085,C,Urban/town/rural mix,EDR 6E- Southwest Central,Central,35816
+Meeker,5/2/2020,14,0,093,B,Town/rural mix,EDR 6E- Southwest Central,Central,23105
+Mille Lacs,5/2/2020,2,1,095,C,Urban/town/rural mix,EDR 7E- East Central,Central,25635
+Morrison,5/2/2020,6,0,097,B,Town/rural mix,EDR 5 - North Central,Northwest,32880
+Mower,5/2/2020,28,0,099,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,39386
+Murray,5/2/2020,16,0,101,A,Entirely rural,EDR 8 - Southwest,Southwest,8394
+Nicollet,5/2/2020,15,2,103,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,33477
+Nobles,5/2/2020,899,1,105,B,Town/rural mix,EDR 8 - Southwest,Southwest,21854
+Norman,5/2/2020,8,0,107,A,Entirely rural,EDR 1 - Northwest,Northwest,6589
+Olmsted,5/2/2020,282,8,109,D,Entirely urban,EDR 10 - Southeast,Southeast,151685
+Otter Tail,5/2/2020,17,0,111,B,Town/rural mix,EDR 4 - West Central,Northwest,57790
+Pennington,5/2/2020,1,0,113,B,Town/rural mix,EDR 1 - Northwest,Northwest,14197
+Pine,5/2/2020,58,0,115,C,Urban/town/rural mix,EDR 7E- East Central,Central,29057
+Pipestone,5/2/2020,3,0,117,B,Town/rural mix,EDR 8 - Southwest,Southwest,9229
+Polk,5/2/2020,36,0,119,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,31564
+Pope,5/2/2020,NA,NA,121,B,Town/rural mix,EDR 4 - West Central,Northwest,10932
+Ramsey,5/2/2020,453,31,123,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,537893
+Red Lake,5/2/2020,1,0,125,A,Entirely rural,EDR 1 - Northwest,Northwest,4017
+Redwood,5/2/2020,3,0,127,B,Town/rural mix,EDR 8 - Southwest,Southwest,15430
+Renville,5/2/2020,5,0,129,A,Entirely rural,EDR 6E- Southwest Central,Central,14798
+Rice,5/2/2020,18,1,131,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,65251
+Rock,5/2/2020,16,0,133,C,Urban/town/rural mix,EDR 8 - Southwest,Southwest,9433
+Roseau,5/2/2020,1,0,135,B,Town/rural mix,EDR 1 - Northwest,Northwest,15537
+Scott,5/2/2020,52,1,139,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,141463
+Sherburne,5/2/2020,50,0,141,D,Entirely urban,EDR 7W- Central,Central,92024
+Sibley,5/2/2020,2,0,143,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,14888
+St. Louis,5/2/2020,74,11,137,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,200294
+Stearns,5/2/2020,531,0,145,C,Urban/town/rural mix,EDR 7W- Central,Central,155300
+Steele,5/2/2020,20,0,147,B,Town/rural mix,EDR 10 - Southeast,Southeast,36612
+Stevens,5/2/2020,NA,NA,149,B,Town/rural mix,EDR 4 - West Central,Northwest,9759
+Swift,5/2/2020,2,0,151,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9448
+Todd,5/2/2020,8,0,153,B,Town/rural mix,EDR 5 - North Central,Northwest,24423
+Traverse,5/2/2020,2,0,155,A,Entirely rural,EDR 4 - West Central,Northwest,3357
+Wabasha,5/2/2020,10,0,157,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,21490
+Wadena,5/2/2020,1,0,159,B,Town/rural mix,EDR 5 - North Central,Northwest,13626
+Waseca,5/2/2020,5,0,161,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,18898
+Washington,5/2/2020,142,12,163,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,250979
+Watonwan,5/2/2020,14,0,165,B,Town/rural mix,EDR 9 - South Central,Southwest,10936
+Wilkin,5/2/2020,11,3,167,B,Town/rural mix,EDR 4 - West Central,Northwest,6398
+Winona,5/2/2020,67,15,169,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,50992
+Wright,5/2/2020,48,1,171,C,Urban/town/rural mix,EDR 7W- Central,Central,131130
+Yellow Medicine,5/2/2020,3,0,173,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9930
+Aitkin,5/3/2020,1,0,001,A,Entirely rural,EDR 3 - Arrowhead,Northeast,15841
+Anoka,5/3/2020,281,17,003,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,344861
+Becker,5/3/2020,10,0,005,C,Urban/town/rural mix,EDR 4 - West Central,Northwest,33552
+Beltrami,5/3/2020,6,0,007,B,Town/rural mix,EDR 2 - Headwaters,Northwest,45847
+Benton,5/3/2020,32,1,009,C,Urban/town/rural mix,EDR 7W- Central,Central,39360
+Big Stone,5/3/2020,2,0,011,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,5039
+Blue Earth,5/3/2020,46,0,013,D,Entirely urban,EDR 9 - South Central,Southwest,65767
+Brown,5/3/2020,8,1,015,B,Town/rural mix,EDR 9 - South Central,Southwest,25243
+Carlton,5/3/2020,60,0,017,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,35408
+Carver,5/3/2020,26,0,019,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,98799
+Cass,5/3/2020,7,0,021,B,Town/rural mix,EDR 5 - North Central,Northwest,28810
+Chippewa,5/3/2020,3,0,023,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,12040
+Chisago,5/3/2020,13,1,025,D,Entirely urban,EDR 7E- East Central,Central,54297
+Clay,5/3/2020,176,13,027,D,Entirely urban,EDR 4 - West Central,Northwest,62040
+Clearwater,5/3/2020,2,0,029,B,Town/rural mix,EDR 2 - Headwaters,Northwest,8824
+Cook,5/3/2020,NA,NA,031,A,Entirely rural,EDR 3 - Arrowhead,Northeast,5270
+Cottonwood,5/3/2020,28,0,033,B,Town/rural mix,EDR 8 - Southwest,Southwest,11437
+Crow Wing,5/3/2020,21,1,035,B,Town/rural mix,EDR 5 - North Central,Northwest,63505
+Dakota,5/3/2020,202,11,037,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,414655
+Dodge,5/3/2020,22,0,039,D,Entirely urban,EDR 10 - Southeast,Southeast,20485
+Douglas,5/3/2020,3,0,041,B,Town/rural mix,EDR 4 - West Central,Northwest,36891
+Faribault,5/3/2020,6,0,043,B,Town/rural mix,EDR 9 - South Central,Southwest,13966
+Fillmore,5/3/2020,13,1,045,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,20825
+Freeborn,5/3/2020,35,0,047,B,Town/rural mix,EDR 10 - Southeast,Southeast,30619
+Goodhue,5/3/2020,21,0,049,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,46138
+Grant,5/3/2020,1,0,051,A,Entirely rural,EDR 4 - West Central,Northwest,5923
+Hennepin,5/3/2020,2151,277,053,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,1224763
+Houston,5/3/2020,1,0,055,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,18709
+Hubbard,5/3/2020,NA,NA,057,B,Town/rural mix,EDR 2 - Headwaters,Northwest,20743
+Isanti,5/3/2020,6,0,059,C,Urban/town/rural mix,EDR 7E- East Central,Central,38584
+Itasca,5/3/2020,11,0,061,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,45237
+Jackson,5/3/2020,18,0,063,B,Town/rural mix,EDR 8 - Southwest,Southwest,10104
+Kanabec,5/3/2020,1,0,065,C,Urban/town/rural mix,EDR 7E- East Central,Central,15948
+Kandiyohi,5/3/2020,167,1,067,B,Town/rural mix,EDR 6E- Southwest Central,Central,42577
+Kittson,5/3/2020,1,0,069,A,Entirely rural,EDR 1 - Northwest,Northwest,4384
+Koochiching,5/3/2020,1,0,071,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,12776
+Lac qui Parle,5/3/2020,1,0,073,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,6840
+Lake,5/3/2020,NA,NA,075,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,10578
+Lake of the Woods,5/3/2020,NA,NA,077,A,Entirely rural,EDR 2 - Headwaters,Northwest,3841
+Le Sueur,5/3/2020,26,0,079,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,27810
+Lincoln,5/3/2020,3,0,081,A,Entirely rural,EDR 8 - Southwest,Southwest,5724
+Lyon,5/3/2020,9,0,083,B,Town/rural mix,EDR 8 - Southwest,Southwest,25789
+Mahnomen,5/3/2020,2,0,087,A,Entirely rural,EDR 2 - Headwaters,Northwest,5500
+Marshall,5/3/2020,5,0,089,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,9397
+Martin,5/3/2020,109,4,091,B,Town/rural mix,EDR 9 - South Central,Southwest,20084
+McLeod,5/3/2020,4,0,085,C,Urban/town/rural mix,EDR 6E- Southwest Central,Central,35816
+Meeker,5/3/2020,15,0,093,B,Town/rural mix,EDR 6E- Southwest Central,Central,23105
+Mille Lacs,5/3/2020,2,1,095,C,Urban/town/rural mix,EDR 7E- East Central,Central,25635
+Morrison,5/3/2020,6,0,097,B,Town/rural mix,EDR 5 - North Central,Northwest,32880
+Mower,5/3/2020,28,0,099,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,39386
+Murray,5/3/2020,17,0,101,A,Entirely rural,EDR 8 - Southwest,Southwest,8394
+Nicollet,5/3/2020,15,2,103,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,33477
+Nobles,5/3/2020,940,1,105,B,Town/rural mix,EDR 8 - Southwest,Southwest,21854
+Norman,5/3/2020,8,0,107,A,Entirely rural,EDR 1 - Northwest,Northwest,6589
+Olmsted,5/3/2020,293,8,109,D,Entirely urban,EDR 10 - Southeast,Southeast,151685
+Otter Tail,5/3/2020,17,0,111,B,Town/rural mix,EDR 4 - West Central,Northwest,57790
+Pennington,5/3/2020,1,0,113,B,Town/rural mix,EDR 1 - Northwest,Northwest,14197
+Pine,5/3/2020,58,0,115,C,Urban/town/rural mix,EDR 7E- East Central,Central,29057
+Pipestone,5/3/2020,3,0,117,B,Town/rural mix,EDR 8 - Southwest,Southwest,9229
+Polk,5/3/2020,41,0,119,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,31564
+Pope,5/3/2020,NA,NA,121,B,Town/rural mix,EDR 4 - West Central,Northwest,10932
+Ramsey,5/3/2020,493,34,123,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,537893
+Red Lake,5/3/2020,1,0,125,A,Entirely rural,EDR 1 - Northwest,Northwest,4017
+Redwood,5/3/2020,3,0,127,B,Town/rural mix,EDR 8 - Southwest,Southwest,15430
+Renville,5/3/2020,5,0,129,A,Entirely rural,EDR 6E- Southwest Central,Central,14798
+Rice,5/3/2020,20,1,131,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,65251
+Rock,5/3/2020,16,0,133,C,Urban/town/rural mix,EDR 8 - Southwest,Southwest,9433
+Roseau,5/3/2020,1,0,135,B,Town/rural mix,EDR 1 - Northwest,Northwest,15537
+Scott,5/3/2020,58,1,139,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,141463
+Sherburne,5/3/2020,54,0,141,D,Entirely urban,EDR 7W- Central,Central,92024
+Sibley,5/3/2020,2,0,143,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,14888
+St. Louis,5/3/2020,75,11,137,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,200294
+Stearns,5/3/2020,589,0,145,C,Urban/town/rural mix,EDR 7W- Central,Central,155300
+Steele,5/3/2020,21,0,147,B,Town/rural mix,EDR 10 - Southeast,Southeast,36612
+Stevens,5/3/2020,NA,NA,149,B,Town/rural mix,EDR 4 - West Central,Northwest,9759
+Swift,5/3/2020,2,0,151,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9448
+Todd,5/3/2020,8,0,153,B,Town/rural mix,EDR 5 - North Central,Northwest,24423
+Traverse,5/3/2020,2,0,155,A,Entirely rural,EDR 4 - West Central,Northwest,3357
+Wabasha,5/3/2020,10,0,157,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,21490
+Wadena,5/3/2020,1,0,159,B,Town/rural mix,EDR 5 - North Central,Northwest,13626
+Waseca,5/3/2020,6,0,161,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,18898
+Washington,5/3/2020,146,12,163,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,250979
+Watonwan,5/3/2020,14,0,165,B,Town/rural mix,EDR 9 - South Central,Southwest,10936
+Wilkin,5/3/2020,11,3,167,B,Town/rural mix,EDR 4 - West Central,Northwest,6398
+Winona,5/3/2020,67,15,169,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,50992
+Wright,5/3/2020,50,1,171,C,Urban/town/rural mix,EDR 7W- Central,Central,131130
+Yellow Medicine,5/3/2020,3,0,173,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9930
+Aitkin,5/4/2020,1,0,001,A,Entirely rural,EDR 3 - Arrowhead,Northeast,15841
+Anoka,5/4/2020,299,17,003,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,344861
+Becker,5/4/2020,13,0,005,C,Urban/town/rural mix,EDR 4 - West Central,Northwest,33552
+Beltrami,5/4/2020,6,0,007,B,Town/rural mix,EDR 2 - Headwaters,Northwest,45847
+Benton,5/4/2020,35,1,009,C,Urban/town/rural mix,EDR 7W- Central,Central,39360
+Big Stone,5/4/2020,2,0,011,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,5039
+Blue Earth,5/4/2020,50,0,013,D,Entirely urban,EDR 9 - South Central,Southwest,65767
+Brown,5/4/2020,9,1,015,B,Town/rural mix,EDR 9 - South Central,Southwest,25243
+Carlton,5/4/2020,60,0,017,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,35408
+Carver,5/4/2020,27,0,019,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,98799
+Cass,5/4/2020,7,0,021,B,Town/rural mix,EDR 5 - North Central,Northwest,28810
+Chippewa,5/4/2020,3,0,023,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,12040
+Chisago,5/4/2020,13,1,025,D,Entirely urban,EDR 7E- East Central,Central,54297
+Clay,5/4/2020,190,13,027,D,Entirely urban,EDR 4 - West Central,Northwest,62040
+Clearwater,5/4/2020,2,0,029,B,Town/rural mix,EDR 2 - Headwaters,Northwest,8824
+Cook,5/4/2020,NA,NA,031,A,Entirely rural,EDR 3 - Arrowhead,Northeast,5270
+Cottonwood,5/4/2020,37,0,033,B,Town/rural mix,EDR 8 - Southwest,Southwest,11437
+Crow Wing,5/4/2020,21,1,035,B,Town/rural mix,EDR 5 - North Central,Northwest,63505
+Dakota,5/4/2020,215,11,037,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,414655
+Dodge,5/4/2020,21,0,039,D,Entirely urban,EDR 10 - Southeast,Southeast,20485
+Douglas,5/4/2020,7,0,041,B,Town/rural mix,EDR 4 - West Central,Northwest,36891
+Faribault,5/4/2020,7,0,043,B,Town/rural mix,EDR 9 - South Central,Southwest,13966
+Fillmore,5/4/2020,13,1,045,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,20825
+Freeborn,5/4/2020,36,0,047,B,Town/rural mix,EDR 10 - Southeast,Southeast,30619
+Goodhue,5/4/2020,23,0,049,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,46138
+Grant,5/4/2020,1,0,051,A,Entirely rural,EDR 4 - West Central,Northwest,5923
+Hennepin,5/4/2020,2298,284,053,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,1224763
+Houston,5/4/2020,1,0,055,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,18709
+Hubbard,5/4/2020,NA,NA,057,B,Town/rural mix,EDR 2 - Headwaters,Northwest,20743
+Isanti,5/4/2020,6,0,059,C,Urban/town/rural mix,EDR 7E- East Central,Central,38584
+Itasca,5/4/2020,12,0,061,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,45237
+Jackson,5/4/2020,24,0,063,B,Town/rural mix,EDR 8 - Southwest,Southwest,10104
+Kanabec,5/4/2020,1,0,065,C,Urban/town/rural mix,EDR 7E- East Central,Central,15948
+Kandiyohi,5/4/2020,188,1,067,B,Town/rural mix,EDR 6E- Southwest Central,Central,42577
+Kittson,5/4/2020,1,0,069,A,Entirely rural,EDR 1 - Northwest,Northwest,4384
+Koochiching,5/4/2020,1,0,071,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,12776
+Lac qui Parle,5/4/2020,2,0,073,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,6840
+Lake,5/4/2020,NA,NA,075,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,10578
+Lake of the Woods,5/4/2020,NA,NA,077,A,Entirely rural,EDR 2 - Headwaters,Northwest,3841
+Le Sueur,5/4/2020,26,0,079,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,27810
+Lincoln,5/4/2020,3,0,081,A,Entirely rural,EDR 8 - Southwest,Southwest,5724
+Lyon,5/4/2020,9,0,083,B,Town/rural mix,EDR 8 - Southwest,Southwest,25789
+Mahnomen,5/4/2020,2,0,087,A,Entirely rural,EDR 2 - Headwaters,Northwest,5500
+Marshall,5/4/2020,7,0,089,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,9397
+Martin,5/4/2020,108,4,091,B,Town/rural mix,EDR 9 - South Central,Southwest,20084
+McLeod,5/4/2020,4,0,085,C,Urban/town/rural mix,EDR 6E- Southwest Central,Central,35816
+Meeker,5/4/2020,17,0,093,B,Town/rural mix,EDR 6E- Southwest Central,Central,23105
+Mille Lacs,5/4/2020,3,1,095,C,Urban/town/rural mix,EDR 7E- East Central,Central,25635
+Morrison,5/4/2020,6,0,097,B,Town/rural mix,EDR 5 - North Central,Northwest,32880
+Mower,5/4/2020,32,0,099,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,39386
+Murray,5/4/2020,17,0,101,A,Entirely rural,EDR 8 - Southwest,Southwest,8394
+Nicollet,5/4/2020,16,2,103,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,33477
+Nobles,5/4/2020,1011,1,105,B,Town/rural mix,EDR 8 - Southwest,Southwest,21854
+Norman,5/4/2020,9,0,107,A,Entirely rural,EDR 1 - Northwest,Northwest,6589
+Olmsted,5/4/2020,305,8,109,D,Entirely urban,EDR 10 - Southeast,Southeast,151685
+Otter Tail,5/4/2020,18,0,111,B,Town/rural mix,EDR 4 - West Central,Northwest,57790
+Pennington,5/4/2020,1,0,113,B,Town/rural mix,EDR 1 - Northwest,Northwest,14197
+Pine,5/4/2020,60,0,115,C,Urban/town/rural mix,EDR 7E- East Central,Central,29057
+Pipestone,5/4/2020,4,0,117,B,Town/rural mix,EDR 8 - Southwest,Southwest,9229
+Polk,5/4/2020,42,0,119,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,31564
+Pope,5/4/2020,NA,NA,121,B,Town/rural mix,EDR 4 - West Central,Northwest,10932
+Ramsey,5/4/2020,535,34,123,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,537893
+Red Lake,5/4/2020,1,0,125,A,Entirely rural,EDR 1 - Northwest,Northwest,4017
+Redwood,5/4/2020,3,0,127,B,Town/rural mix,EDR 8 - Southwest,Southwest,15430
+Renville,5/4/2020,5,0,129,A,Entirely rural,EDR 6E- Southwest Central,Central,14798
+Rice,5/4/2020,24,1,131,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,65251
+Rock,5/4/2020,16,0,133,C,Urban/town/rural mix,EDR 8 - Southwest,Southwest,9433
+Roseau,5/4/2020,1,0,135,B,Town/rural mix,EDR 1 - Northwest,Northwest,15537
+Scott,5/4/2020,63,1,139,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,141463
+Sherburne,5/4/2020,61,0,141,D,Entirely urban,EDR 7W- Central,Central,92024
+Sibley,5/4/2020,2,0,143,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,14888
+St. Louis,5/4/2020,79,11,137,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,200294
+Stearns,5/4/2020,728,2,145,C,Urban/town/rural mix,EDR 7W- Central,Central,155300
+Steele,5/4/2020,24,0,147,B,Town/rural mix,EDR 10 - Southeast,Southeast,36612
+Stevens,5/4/2020,NA,NA,149,B,Town/rural mix,EDR 4 - West Central,Northwest,9759
+Swift,5/4/2020,2,0,151,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9448
+Todd,5/4/2020,15,0,153,B,Town/rural mix,EDR 5 - North Central,Northwest,24423
+Traverse,5/4/2020,2,0,155,A,Entirely rural,EDR 4 - West Central,Northwest,3357
+Wabasha,5/4/2020,10,0,157,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,21490
+Wadena,5/4/2020,2,0,159,B,Town/rural mix,EDR 5 - North Central,Northwest,13626
+Waseca,5/4/2020,6,0,161,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,18898
+Washington,5/4/2020,152,12,163,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,250979
+Watonwan,5/4/2020,15,0,165,B,Town/rural mix,EDR 9 - South Central,Southwest,10936
+Wilkin,5/4/2020,11,3,167,B,Town/rural mix,EDR 4 - West Central,Northwest,6398
+Winona,5/4/2020,67,15,169,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,50992
+Wright,5/4/2020,54,1,171,C,Urban/town/rural mix,EDR 7W- Central,Central,131130
+Yellow Medicine,5/4/2020,3,0,173,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9930
+Aitkin,5/5/2020,1,0,001,A,Entirely rural,EDR 3 - Arrowhead,Northeast,15841
+Anoka,5/5/2020,344,20,003,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,344861
+Becker,5/5/2020,15,0,005,C,Urban/town/rural mix,EDR 4 - West Central,Northwest,33552
+Beltrami,5/5/2020,6,0,007,B,Town/rural mix,EDR 2 - Headwaters,Northwest,45847
+Benton,5/5/2020,48,1,009,C,Urban/town/rural mix,EDR 7W- Central,Central,39360
+Big Stone,5/5/2020,2,0,011,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,5039
+Blue Earth,5/5/2020,51,0,013,D,Entirely urban,EDR 9 - South Central,Southwest,65767
+Brown,5/5/2020,9,1,015,B,Town/rural mix,EDR 9 - South Central,Southwest,25243
+Carlton,5/5/2020,60,0,017,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,35408
+Carver,5/5/2020,39,0,019,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,98799
+Cass,5/5/2020,7,0,021,B,Town/rural mix,EDR 5 - North Central,Northwest,28810
+Chippewa,5/5/2020,3,0,023,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,12040
+Chisago,5/5/2020,13,1,025,D,Entirely urban,EDR 7E- East Central,Central,54297
+Clay,5/5/2020,201,14,027,D,Entirely urban,EDR 4 - West Central,Northwest,62040
+Clearwater,5/5/2020,2,0,029,B,Town/rural mix,EDR 2 - Headwaters,Northwest,8824
+Cook,5/5/2020,NA,NA,031,A,Entirely rural,EDR 3 - Arrowhead,Northeast,5270
+Cottonwood,5/5/2020,41,0,033,B,Town/rural mix,EDR 8 - Southwest,Southwest,11437
+Crow Wing,5/5/2020,21,1,035,B,Town/rural mix,EDR 5 - North Central,Northwest,63505
+Dakota,5/5/2020,241,11,037,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,414655
+Dodge,5/5/2020,21,0,039,D,Entirely urban,EDR 10 - Southeast,Southeast,20485
+Douglas,5/5/2020,10,0,041,B,Town/rural mix,EDR 4 - West Central,Northwest,36891
+Faribault,5/5/2020,7,0,043,B,Town/rural mix,EDR 9 - South Central,Southwest,13966
+Fillmore,5/5/2020,12,1,045,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,20825
+Freeborn,5/5/2020,37,0,047,B,Town/rural mix,EDR 10 - Southeast,Southeast,30619
+Goodhue,5/5/2020,23,0,049,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,46138
+Grant,5/5/2020,1,0,051,A,Entirely rural,EDR 4 - West Central,Northwest,5923
+Hennepin,5/5/2020,2519,303,053,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,1224763
+Houston,5/5/2020,1,0,055,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,18709
+Hubbard,5/5/2020,NA,NA,057,B,Town/rural mix,EDR 2 - Headwaters,Northwest,20743
+Isanti,5/5/2020,6,0,059,C,Urban/town/rural mix,EDR 7E- East Central,Central,38584
+Itasca,5/5/2020,13,0,061,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,45237
+Jackson,5/5/2020,25,0,063,B,Town/rural mix,EDR 8 - Southwest,Southwest,10104
+Kanabec,5/5/2020,2,0,065,C,Urban/town/rural mix,EDR 7E- East Central,Central,15948
+Kandiyohi,5/5/2020,200,1,067,B,Town/rural mix,EDR 6E- Southwest Central,Central,42577
+Kittson,5/5/2020,1,0,069,A,Entirely rural,EDR 1 - Northwest,Northwest,4384
+Koochiching,5/5/2020,1,0,071,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,12776
+Lac qui Parle,5/5/2020,2,0,073,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,6840
+Lake,5/5/2020,NA,NA,075,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,10578
+Lake of the Woods,5/5/2020,NA,NA,077,A,Entirely rural,EDR 2 - Headwaters,Northwest,3841
+Le Sueur,5/5/2020,26,0,079,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,27810
+Lincoln,5/5/2020,3,0,081,A,Entirely rural,EDR 8 - Southwest,Southwest,5724
+Lyon,5/5/2020,10,0,083,B,Town/rural mix,EDR 8 - Southwest,Southwest,25789
+Mahnomen,5/5/2020,2,0,087,A,Entirely rural,EDR 2 - Headwaters,Northwest,5500
+Marshall,5/5/2020,7,0,089,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,9397
+Martin,5/5/2020,110,4,091,B,Town/rural mix,EDR 9 - South Central,Southwest,20084
+McLeod,5/5/2020,5,0,085,C,Urban/town/rural mix,EDR 6E- Southwest Central,Central,35816
+Meeker,5/5/2020,17,0,093,B,Town/rural mix,EDR 6E- Southwest Central,Central,23105
+Mille Lacs,5/5/2020,4,1,095,C,Urban/town/rural mix,EDR 7E- East Central,Central,25635
+Morrison,5/5/2020,7,0,097,B,Town/rural mix,EDR 5 - North Central,Northwest,32880
+Mower,5/5/2020,33,0,099,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,39386
+Murray,5/5/2020,20,0,101,A,Entirely rural,EDR 8 - Southwest,Southwest,8394
+Nicollet,5/5/2020,16,2,103,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,33477
+Nobles,5/5/2020,1069,1,105,B,Town/rural mix,EDR 8 - Southwest,Southwest,21854
+Norman,5/5/2020,9,0,107,A,Entirely rural,EDR 1 - Northwest,Northwest,6589
+Olmsted,5/5/2020,313,8,109,D,Entirely urban,EDR 10 - Southeast,Southeast,151685
+Otter Tail,5/5/2020,19,0,111,B,Town/rural mix,EDR 4 - West Central,Northwest,57790
+Pennington,5/5/2020,1,0,113,B,Town/rural mix,EDR 1 - Northwest,Northwest,14197
+Pine,5/5/2020,60,0,115,C,Urban/town/rural mix,EDR 7E- East Central,Central,29057
+Pipestone,5/5/2020,4,0,117,B,Town/rural mix,EDR 8 - Southwest,Southwest,9229
+Polk,5/5/2020,42,0,119,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,31564
+Pope,5/5/2020,1,0,121,B,Town/rural mix,EDR 4 - West Central,Northwest,10932
+Ramsey,5/5/2020,583,37,123,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,537893
+Red Lake,5/5/2020,1,0,125,A,Entirely rural,EDR 1 - Northwest,Northwest,4017
+Redwood,5/5/2020,3,0,127,B,Town/rural mix,EDR 8 - Southwest,Southwest,15430
+Renville,5/5/2020,5,0,129,A,Entirely rural,EDR 6E- Southwest Central,Central,14798
+Rice,5/5/2020,30,1,131,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,65251
+Rock,5/5/2020,18,0,133,C,Urban/town/rural mix,EDR 8 - Southwest,Southwest,9433
+Roseau,5/5/2020,1,0,135,B,Town/rural mix,EDR 1 - Northwest,Northwest,15537
+Scott,5/5/2020,74,1,139,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,141463
+Sherburne,5/5/2020,71,1,141,D,Entirely urban,EDR 7W- Central,Central,92024
+Sibley,5/5/2020,2,0,143,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,14888
+St. Louis,5/5/2020,81,11,137,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,200294
+Stearns,5/5/2020,815,2,145,C,Urban/town/rural mix,EDR 7W- Central,Central,155300
+Steele,5/5/2020,25,0,147,B,Town/rural mix,EDR 10 - Southeast,Southeast,36612
+Stevens,5/5/2020,NA,NA,149,B,Town/rural mix,EDR 4 - West Central,Northwest,9759
+Swift,5/5/2020,2,0,151,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9448
+Todd,5/5/2020,15,0,153,B,Town/rural mix,EDR 5 - North Central,Northwest,24423
+Traverse,5/5/2020,2,0,155,A,Entirely rural,EDR 4 - West Central,Northwest,3357
+Wabasha,5/5/2020,10,0,157,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,21490
+Wadena,5/5/2020,3,0,159,B,Town/rural mix,EDR 5 - North Central,Northwest,13626
+Waseca,5/5/2020,6,0,161,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,18898
+Washington,5/5/2020,162,12,163,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,250979
+Watonwan,5/5/2020,15,0,165,B,Town/rural mix,EDR 9 - South Central,Southwest,10936
+Wilkin,5/5/2020,11,3,167,B,Town/rural mix,EDR 4 - West Central,Northwest,6398
+Winona,5/5/2020,68,15,169,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,50992
+Wright,5/5/2020,60,1,171,C,Urban/town/rural mix,EDR 7W- Central,Central,131130
+Yellow Medicine,5/5/2020,3,0,173,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9930
+Aitkin,5/6/2020,1,0,001,A,Entirely rural,EDR 3 - Arrowhead,Northeast,15841
+Anoka,5/6/2020,382,24,003,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,344861
+Becker,5/6/2020,16,0,005,C,Urban/town/rural mix,EDR 4 - West Central,Northwest,33552
+Beltrami,5/6/2020,6,0,007,B,Town/rural mix,EDR 2 - Headwaters,Northwest,45847
+Benton,5/6/2020,59,1,009,C,Urban/town/rural mix,EDR 7W- Central,Central,39360
+Big Stone,5/6/2020,2,0,011,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,5039
+Blue Earth,5/6/2020,53,0,013,D,Entirely urban,EDR 9 - South Central,Southwest,65767
+Brown,5/6/2020,9,1,015,B,Town/rural mix,EDR 9 - South Central,Southwest,25243
+Carlton,5/6/2020,61,0,017,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,35408
+Carver,5/6/2020,51,0,019,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,98799
+Cass,5/6/2020,7,0,021,B,Town/rural mix,EDR 5 - North Central,Northwest,28810
+Chippewa,5/6/2020,4,0,023,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,12040
+Chisago,5/6/2020,14,1,025,D,Entirely urban,EDR 7E- East Central,Central,54297
+Clay,5/6/2020,215,14,027,D,Entirely urban,EDR 4 - West Central,Northwest,62040
+Clearwater,5/6/2020,2,0,029,B,Town/rural mix,EDR 2 - Headwaters,Northwest,8824
+Cook,5/6/2020,NA,NA,031,A,Entirely rural,EDR 3 - Arrowhead,Northeast,5270
+Cottonwood,5/6/2020,42,0,033,B,Town/rural mix,EDR 8 - Southwest,Southwest,11437
+Crow Wing,5/6/2020,21,1,035,B,Town/rural mix,EDR 5 - North Central,Northwest,63505
+Dakota,5/6/2020,292,12,037,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,414655
+Dodge,5/6/2020,21,0,039,D,Entirely urban,EDR 10 - Southeast,Southeast,20485
+Douglas,5/6/2020,12,0,041,B,Town/rural mix,EDR 4 - West Central,Northwest,36891
+Faribault,5/6/2020,8,0,043,B,Town/rural mix,EDR 9 - South Central,Southwest,13966
+Fillmore,5/6/2020,12,1,045,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,20825
+Freeborn,5/6/2020,38,0,047,B,Town/rural mix,EDR 10 - Southeast,Southeast,30619
+Goodhue,5/6/2020,23,0,049,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,46138
+Grant,5/6/2020,1,0,051,A,Entirely rural,EDR 4 - West Central,Northwest,5923
+Hennepin,5/6/2020,2764,325,053,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,1224763
+Houston,5/6/2020,1,0,055,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,18709
+Hubbard,5/6/2020,NA,NA,057,B,Town/rural mix,EDR 2 - Headwaters,Northwest,20743
+Isanti,5/6/2020,7,0,059,C,Urban/town/rural mix,EDR 7E- East Central,Central,38584
+Itasca,5/6/2020,24,0,061,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,45237
+Jackson,5/6/2020,25,0,063,B,Town/rural mix,EDR 8 - Southwest,Southwest,10104
+Kanabec,5/6/2020,2,0,065,C,Urban/town/rural mix,EDR 7E- East Central,Central,15948
+Kandiyohi,5/6/2020,211,1,067,B,Town/rural mix,EDR 6E- Southwest Central,Central,42577
+Kittson,5/6/2020,1,0,069,A,Entirely rural,EDR 1 - Northwest,Northwest,4384
+Koochiching,5/6/2020,1,0,071,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,12776
+Lac qui Parle,5/6/2020,2,0,073,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,6840
+Lake,5/6/2020,NA,NA,075,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,10578
+Lake of the Woods,5/6/2020,NA,NA,077,A,Entirely rural,EDR 2 - Headwaters,Northwest,3841
+Le Sueur,5/6/2020,26,0,079,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,27810
+Lincoln,5/6/2020,3,0,081,A,Entirely rural,EDR 8 - Southwest,Southwest,5724
+Lyon,5/6/2020,11,0,083,B,Town/rural mix,EDR 8 - Southwest,Southwest,25789
+Mahnomen,5/6/2020,2,1,087,A,Entirely rural,EDR 2 - Headwaters,Northwest,5500
+Marshall,5/6/2020,7,0,089,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,9397
+Martin,5/6/2020,111,4,091,B,Town/rural mix,EDR 9 - South Central,Southwest,20084
+McLeod,5/6/2020,6,0,085,C,Urban/town/rural mix,EDR 6E- Southwest Central,Central,35816
+Meeker,5/6/2020,18,0,093,B,Town/rural mix,EDR 6E- Southwest Central,Central,23105
+Mille Lacs,5/6/2020,5,1,095,C,Urban/town/rural mix,EDR 7E- East Central,Central,25635
+Morrison,5/6/2020,9,0,097,B,Town/rural mix,EDR 5 - North Central,Northwest,32880
+Mower,5/6/2020,35,0,099,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,39386
+Murray,5/6/2020,20,0,101,A,Entirely rural,EDR 8 - Southwest,Southwest,8394
+Nicollet,5/6/2020,17,2,103,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,33477
+Nobles,5/6/2020,1082,2,105,B,Town/rural mix,EDR 8 - Southwest,Southwest,21854
+Norman,5/6/2020,9,0,107,A,Entirely rural,EDR 1 - Northwest,Northwest,6589
+Olmsted,5/6/2020,322,8,109,D,Entirely urban,EDR 10 - Southeast,Southeast,151685
+Otter Tail,5/6/2020,19,0,111,B,Town/rural mix,EDR 4 - West Central,Northwest,57790
+Pennington,5/6/2020,1,0,113,B,Town/rural mix,EDR 1 - Northwest,Northwest,14197
+Pine,5/6/2020,61,0,115,C,Urban/town/rural mix,EDR 7E- East Central,Central,29057
+Pipestone,5/6/2020,4,0,117,B,Town/rural mix,EDR 8 - Southwest,Southwest,9229
+Polk,5/6/2020,43,0,119,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,31564
+Pope,5/6/2020,1,0,121,B,Town/rural mix,EDR 4 - West Central,Northwest,10932
+Ramsey,5/6/2020,656,38,123,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,537893
+Red Lake,5/6/2020,1,0,125,A,Entirely rural,EDR 1 - Northwest,Northwest,4017
+Redwood,5/6/2020,3,0,127,B,Town/rural mix,EDR 8 - Southwest,Southwest,15430
+Renville,5/6/2020,6,0,129,A,Entirely rural,EDR 6E- Southwest Central,Central,14798
+Rice,5/6/2020,30,1,131,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,65251
+Rock,5/6/2020,18,0,133,C,Urban/town/rural mix,EDR 8 - Southwest,Southwest,9433
+Roseau,5/6/2020,1,0,135,B,Town/rural mix,EDR 1 - Northwest,Northwest,15537
+Scott,5/6/2020,90,1,139,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,141463
+Sherburne,5/6/2020,80,1,141,D,Entirely urban,EDR 7W- Central,Central,92024
+Sibley,5/6/2020,2,0,143,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,14888
+St. Louis,5/6/2020,86,11,137,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,200294
+Stearns,5/6/2020,975,3,145,C,Urban/town/rural mix,EDR 7W- Central,Central,155300
+Steele,5/6/2020,29,0,147,B,Town/rural mix,EDR 10 - Southeast,Southeast,36612
+Stevens,5/6/2020,NA,NA,149,B,Town/rural mix,EDR 4 - West Central,Northwest,9759
+Swift,5/6/2020,2,0,151,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9448
+Todd,5/6/2020,18,0,153,B,Town/rural mix,EDR 5 - North Central,Northwest,24423
+Traverse,5/6/2020,2,0,155,A,Entirely rural,EDR 4 - West Central,Northwest,3357
+Wabasha,5/6/2020,10,0,157,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,21490
+Wadena,5/6/2020,3,0,159,B,Town/rural mix,EDR 5 - North Central,Northwest,13626
+Waseca,5/6/2020,7,0,161,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,18898
+Washington,5/6/2020,181,12,163,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,250979
+Watonwan,5/6/2020,15,0,165,B,Town/rural mix,EDR 9 - South Central,Southwest,10936
+Wilkin,5/6/2020,11,3,167,B,Town/rural mix,EDR 4 - West Central,Northwest,6398
+Winona,5/6/2020,68,15,169,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,50992
+Wright,5/6/2020,69,1,171,C,Urban/town/rural mix,EDR 7W- Central,Central,131130
+Yellow Medicine,5/6/2020,3,0,173,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9930
+Aitkin,5/7/2020,1,0,001,A,Entirely rural,EDR 3 - Arrowhead,Northeast,15841
+Anoka,5/7/2020,426,27,003,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,344861
+Becker,5/7/2020,18,0,005,C,Urban/town/rural mix,EDR 4 - West Central,Northwest,33552
+Beltrami,5/7/2020,6,0,007,B,Town/rural mix,EDR 2 - Headwaters,Northwest,45847
+Benton,5/7/2020,64,1,009,C,Urban/town/rural mix,EDR 7W- Central,Central,39360
+Big Stone,5/7/2020,2,0,011,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,5039
+Blue Earth,5/7/2020,55,0,013,D,Entirely urban,EDR 9 - South Central,Southwest,65767
+Brown,5/7/2020,9,1,015,B,Town/rural mix,EDR 9 - South Central,Southwest,25243
+Carlton,5/7/2020,62,0,017,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,35408
+Carver,5/7/2020,58,0,019,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,98799
+Cass,5/7/2020,7,0,021,B,Town/rural mix,EDR 5 - North Central,Northwest,28810
+Chippewa,5/7/2020,5,0,023,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,12040
+Chisago,5/7/2020,14,1,025,D,Entirely urban,EDR 7E- East Central,Central,54297
+Clay,5/7/2020,222,15,027,D,Entirely urban,EDR 4 - West Central,Northwest,62040
+Clearwater,5/7/2020,2,0,029,B,Town/rural mix,EDR 2 - Headwaters,Northwest,8824
+Cook,5/7/2020,NA,NA,031,A,Entirely rural,EDR 3 - Arrowhead,Northeast,5270
+Cottonwood,5/7/2020,43,0,033,B,Town/rural mix,EDR 8 - Southwest,Southwest,11437
+Crow Wing,5/7/2020,23,1,035,B,Town/rural mix,EDR 5 - North Central,Northwest,63505
+Dakota,5/7/2020,322,12,037,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,414655
+Dodge,5/7/2020,21,0,039,D,Entirely urban,EDR 10 - Southeast,Southeast,20485
+Douglas,5/7/2020,14,0,041,B,Town/rural mix,EDR 4 - West Central,Northwest,36891
+Faribault,5/7/2020,7,0,043,B,Town/rural mix,EDR 9 - South Central,Southwest,13966
+Fillmore,5/7/2020,12,1,045,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,20825
+Freeborn,5/7/2020,39,0,047,B,Town/rural mix,EDR 10 - Southeast,Southeast,30619
+Goodhue,5/7/2020,25,0,049,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,46138
+Grant,5/7/2020,1,0,051,A,Entirely rural,EDR 4 - West Central,Northwest,5923
+Hennepin,5/7/2020,2962,342,053,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,1224763
+Houston,5/7/2020,2,0,055,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,18709
+Hubbard,5/7/2020,NA,NA,057,B,Town/rural mix,EDR 2 - Headwaters,Northwest,20743
+Isanti,5/7/2020,7,0,059,C,Urban/town/rural mix,EDR 7E- East Central,Central,38584
+Itasca,5/7/2020,24,0,061,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,45237
+Jackson,5/7/2020,29,0,063,B,Town/rural mix,EDR 8 - Southwest,Southwest,10104
+Kanabec,5/7/2020,4,0,065,C,Urban/town/rural mix,EDR 7E- East Central,Central,15948
+Kandiyohi,5/7/2020,238,1,067,B,Town/rural mix,EDR 6E- Southwest Central,Central,42577
+Kittson,5/7/2020,1,0,069,A,Entirely rural,EDR 1 - Northwest,Northwest,4384
+Koochiching,5/7/2020,1,0,071,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,12776
+Lac qui Parle,5/7/2020,2,0,073,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,6840
+Lake,5/7/2020,1,0,075,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,10578
+Lake of the Woods,5/7/2020,NA,NA,077,A,Entirely rural,EDR 2 - Headwaters,Northwest,3841
+Le Sueur,5/7/2020,28,0,079,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,27810
+Lincoln,5/7/2020,3,0,081,A,Entirely rural,EDR 8 - Southwest,Southwest,5724
+Lyon,5/7/2020,15,0,083,B,Town/rural mix,EDR 8 - Southwest,Southwest,25789
+Mahnomen,5/7/2020,2,1,087,A,Entirely rural,EDR 2 - Headwaters,Northwest,5500
+Marshall,5/7/2020,8,0,089,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,9397
+Martin,5/7/2020,111,4,091,B,Town/rural mix,EDR 9 - South Central,Southwest,20084
+McLeod,5/7/2020,6,0,085,C,Urban/town/rural mix,EDR 6E- Southwest Central,Central,35816
+Meeker,5/7/2020,18,0,093,B,Town/rural mix,EDR 6E- Southwest Central,Central,23105
+Mille Lacs,5/7/2020,6,1,095,C,Urban/town/rural mix,EDR 7E- East Central,Central,25635
+Morrison,5/7/2020,11,0,097,B,Town/rural mix,EDR 5 - North Central,Northwest,32880
+Mower,5/7/2020,36,0,099,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,39386
+Murray,5/7/2020,25,0,101,A,Entirely rural,EDR 8 - Southwest,Southwest,8394
+Nicollet,5/7/2020,18,2,103,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,33477
+Nobles,5/7/2020,1153,2,105,B,Town/rural mix,EDR 8 - Southwest,Southwest,21854
+Norman,5/7/2020,9,0,107,A,Entirely rural,EDR 1 - Northwest,Northwest,6589
+Olmsted,5/7/2020,336,8,109,D,Entirely urban,EDR 10 - Southeast,Southeast,151685
+Otter Tail,5/7/2020,21,0,111,B,Town/rural mix,EDR 4 - West Central,Northwest,57790
+Pennington,5/7/2020,1,0,113,B,Town/rural mix,EDR 1 - Northwest,Northwest,14197
+Pine,5/7/2020,61,0,115,C,Urban/town/rural mix,EDR 7E- East Central,Central,29057
+Pipestone,5/7/2020,5,0,117,B,Town/rural mix,EDR 8 - Southwest,Southwest,9229
+Polk,5/7/2020,43,0,119,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,31564
+Pope,5/7/2020,3,0,121,B,Town/rural mix,EDR 4 - West Central,Northwest,10932
+Ramsey,5/7/2020,717,39,123,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,537893
+Red Lake,5/7/2020,1,0,125,A,Entirely rural,EDR 1 - Northwest,Northwest,4017
+Redwood,5/7/2020,3,0,127,B,Town/rural mix,EDR 8 - Southwest,Southwest,15430
+Renville,5/7/2020,6,0,129,A,Entirely rural,EDR 6E- Southwest Central,Central,14798
+Rice,5/7/2020,48,1,131,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,65251
+Rock,5/7/2020,19,0,133,C,Urban/town/rural mix,EDR 8 - Southwest,Southwest,9433
+Roseau,5/7/2020,1,0,135,B,Town/rural mix,EDR 1 - Northwest,Northwest,15537
+Scott,5/7/2020,100,1,139,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,141463
+Sherburne,5/7/2020,88,1,141,D,Entirely urban,EDR 7W- Central,Central,92024
+Sibley,5/7/2020,2,0,143,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,14888
+St. Louis,5/7/2020,89,11,137,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,200294
+Stearns,5/7/2020,1161,4,145,C,Urban/town/rural mix,EDR 7W- Central,Central,155300
+Steele,5/7/2020,37,0,147,B,Town/rural mix,EDR 10 - Southeast,Southeast,36612
+Stevens,5/7/2020,1,0,149,B,Town/rural mix,EDR 4 - West Central,Northwest,9759
+Swift,5/7/2020,2,0,151,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9448
+Todd,5/7/2020,26,0,153,B,Town/rural mix,EDR 5 - North Central,Northwest,24423
+Traverse,5/7/2020,2,0,155,A,Entirely rural,EDR 4 - West Central,Northwest,3357
+Wabasha,5/7/2020,12,0,157,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,21490
+Wadena,5/7/2020,4,0,159,B,Town/rural mix,EDR 5 - North Central,Northwest,13626
+Waseca,5/7/2020,12,0,161,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,18898
+Washington,5/7/2020,193,12,163,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,250979
+Watonwan,5/7/2020,18,0,165,B,Town/rural mix,EDR 9 - South Central,Southwest,10936
+Wilkin,5/7/2020,11,3,167,B,Town/rural mix,EDR 4 - West Central,Northwest,6398
+Winona,5/7/2020,68,15,169,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,50992
+Wright,5/7/2020,73,1,171,C,Urban/town/rural mix,EDR 7W- Central,Central,131130
+Yellow Medicine,5/7/2020,3,0,173,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9930
+Aitkin,5/8/2020,2,0,001,A,Entirely rural,EDR 3 - Arrowhead,Northeast,15841
+Anoka,5/8/2020,477,27,003,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,344861
+Becker,5/8/2020,22,0,005,C,Urban/town/rural mix,EDR 4 - West Central,Northwest,33552
+Beltrami,5/8/2020,6,0,007,B,Town/rural mix,EDR 2 - Headwaters,Northwest,45847
+Benton,5/8/2020,76,2,009,C,Urban/town/rural mix,EDR 7W- Central,Central,39360
+Big Stone,5/8/2020,2,0,011,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,5039
+Blue Earth,5/8/2020,55,0,013,D,Entirely urban,EDR 9 - South Central,Southwest,65767
+Brown,5/8/2020,9,1,015,B,Town/rural mix,EDR 9 - South Central,Southwest,25243
+Carlton,5/8/2020,64,0,017,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,35408
+Carver,5/8/2020,69,0,019,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,98799
+Cass,5/8/2020,7,0,021,B,Town/rural mix,EDR 5 - North Central,Northwest,28810
+Chippewa,5/8/2020,5,0,023,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,12040
+Chisago,5/8/2020,18,1,025,D,Entirely urban,EDR 7E- East Central,Central,54297
+Clay,5/8/2020,229,15,027,D,Entirely urban,EDR 4 - West Central,Northwest,62040
+Clearwater,5/8/2020,2,0,029,B,Town/rural mix,EDR 2 - Headwaters,Northwest,8824
+Cook,5/8/2020,NA,NA,031,A,Entirely rural,EDR 3 - Arrowhead,Northeast,5270
+Cottonwood,5/8/2020,43,0,033,B,Town/rural mix,EDR 8 - Southwest,Southwest,11437
+Crow Wing,5/8/2020,24,1,035,B,Town/rural mix,EDR 5 - North Central,Northwest,63505
+Dakota,5/8/2020,364,12,037,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,414655
+Dodge,5/8/2020,24,0,039,D,Entirely urban,EDR 10 - Southeast,Southeast,20485
+Douglas,5/8/2020,15,0,041,B,Town/rural mix,EDR 4 - West Central,Northwest,36891
+Faribault,5/8/2020,7,0,043,B,Town/rural mix,EDR 9 - South Central,Southwest,13966
+Fillmore,5/8/2020,12,1,045,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,20825
+Freeborn,5/8/2020,41,0,047,B,Town/rural mix,EDR 10 - Southeast,Southeast,30619
+Goodhue,5/8/2020,25,0,049,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,46138
+Grant,5/8/2020,2,0,051,A,Entirely rural,EDR 4 - West Central,Northwest,5923
+Hennepin,5/8/2020,3153,362,053,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,1224763
+Houston,5/8/2020,2,0,055,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,18709
+Hubbard,5/8/2020,NA,NA,057,B,Town/rural mix,EDR 2 - Headwaters,Northwest,20743
+Isanti,5/8/2020,7,0,059,C,Urban/town/rural mix,EDR 7E- East Central,Central,38584
+Itasca,5/8/2020,24,0,061,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,45237
+Jackson,5/8/2020,29,0,063,B,Town/rural mix,EDR 8 - Southwest,Southwest,10104
+Kanabec,5/8/2020,5,0,065,C,Urban/town/rural mix,EDR 7E- East Central,Central,15948
+Kandiyohi,5/8/2020,261,1,067,B,Town/rural mix,EDR 6E- Southwest Central,Central,42577
+Kittson,5/8/2020,1,0,069,A,Entirely rural,EDR 1 - Northwest,Northwest,4384
+Koochiching,5/8/2020,1,0,071,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,12776
+Lac qui Parle,5/8/2020,2,0,073,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,6840
+Lake,5/8/2020,1,0,075,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,10578
+Lake of the Woods,5/8/2020,NA,NA,077,A,Entirely rural,EDR 2 - Headwaters,Northwest,3841
+Le Sueur,5/8/2020,28,0,079,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,27810
+Lincoln,5/8/2020,3,0,081,A,Entirely rural,EDR 8 - Southwest,Southwest,5724
+Lyon,5/8/2020,16,0,083,B,Town/rural mix,EDR 8 - Southwest,Southwest,25789
+Mahnomen,5/8/2020,2,1,087,A,Entirely rural,EDR 2 - Headwaters,Northwest,5500
+Marshall,5/8/2020,8,0,089,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,9397
+Martin,5/8/2020,111,4,091,B,Town/rural mix,EDR 9 - South Central,Southwest,20084
+McLeod,5/8/2020,8,0,085,C,Urban/town/rural mix,EDR 6E- Southwest Central,Central,35816
+Meeker,5/8/2020,20,0,093,B,Town/rural mix,EDR 6E- Southwest Central,Central,23105
+Mille Lacs,5/8/2020,6,1,095,C,Urban/town/rural mix,EDR 7E- East Central,Central,25635
+Morrison,5/8/2020,12,0,097,B,Town/rural mix,EDR 5 - North Central,Northwest,32880
+Mower,5/8/2020,37,0,099,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,39386
+Murray,5/8/2020,26,0,101,A,Entirely rural,EDR 8 - Southwest,Southwest,8394
+Nicollet,5/8/2020,18,2,103,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,33477
+Nobles,5/8/2020,1177,2,105,B,Town/rural mix,EDR 8 - Southwest,Southwest,21854
+Norman,5/8/2020,9,0,107,A,Entirely rural,EDR 1 - Northwest,Northwest,6589
+Olmsted,5/8/2020,351,9,109,D,Entirely urban,EDR 10 - Southeast,Southeast,151685
+Otter Tail,5/8/2020,21,0,111,B,Town/rural mix,EDR 4 - West Central,Northwest,57790
+Pennington,5/8/2020,1,0,113,B,Town/rural mix,EDR 1 - Northwest,Northwest,14197
+Pine,5/8/2020,61,0,115,C,Urban/town/rural mix,EDR 7E- East Central,Central,29057
+Pipestone,5/8/2020,6,0,117,B,Town/rural mix,EDR 8 - Southwest,Southwest,9229
+Polk,5/8/2020,45,0,119,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,31564
+Pope,5/8/2020,5,0,121,B,Town/rural mix,EDR 4 - West Central,Northwest,10932
+Ramsey,5/8/2020,800,42,123,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,537893
+Red Lake,5/8/2020,1,0,125,A,Entirely rural,EDR 1 - Northwest,Northwest,4017
+Redwood,5/8/2020,3,0,127,B,Town/rural mix,EDR 8 - Southwest,Southwest,15430
+Renville,5/8/2020,6,0,129,A,Entirely rural,EDR 6E- Southwest Central,Central,14798
+Rice,5/8/2020,81,1,131,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,65251
+Rock,5/8/2020,19,0,133,C,Urban/town/rural mix,EDR 8 - Southwest,Southwest,9433
+Roseau,5/8/2020,1,0,135,B,Town/rural mix,EDR 1 - Northwest,Northwest,15537
+Scott,5/8/2020,121,1,139,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,141463
+Sherburne,5/8/2020,95,1,141,D,Entirely urban,EDR 7W- Central,Central,92024
+Sibley,5/8/2020,3,0,143,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,14888
+St. Louis,5/8/2020,90,12,137,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,200294
+Stearns,5/8/2020,1274,4,145,C,Urban/town/rural mix,EDR 7W- Central,Central,155300
+Steele,5/8/2020,45,0,147,B,Town/rural mix,EDR 10 - Southeast,Southeast,36612
+Stevens,5/8/2020,1,0,149,B,Town/rural mix,EDR 4 - West Central,Northwest,9759
+Swift,5/8/2020,3,0,151,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9448
+Todd,5/8/2020,29,0,153,B,Town/rural mix,EDR 5 - North Central,Northwest,24423
+Traverse,5/8/2020,3,0,155,A,Entirely rural,EDR 4 - West Central,Northwest,3357
+Wabasha,5/8/2020,13,0,157,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,21490
+Wadena,5/8/2020,4,0,159,B,Town/rural mix,EDR 5 - North Central,Northwest,13626
+Waseca,5/8/2020,13,0,161,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,18898
+Washington,5/8/2020,211,12,163,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,250979
+Watonwan,5/8/2020,19,0,165,B,Town/rural mix,EDR 9 - South Central,Southwest,10936
+Wilkin,5/8/2020,11,3,167,B,Town/rural mix,EDR 4 - West Central,Northwest,6398
+Winona,5/8/2020,68,15,169,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,50992
+Wright,5/8/2020,83,1,171,C,Urban/town/rural mix,EDR 7W- Central,Central,131130
+Yellow Medicine,5/8/2020,3,0,173,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9930
+Aitkin,5/9/2020,2,0,001,A,Entirely rural,EDR 3 - Arrowhead,Northeast,15841
+Anoka,5/9/2020,518,29,003,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,344861
+Becker,5/9/2020,25,0,005,C,Urban/town/rural mix,EDR 4 - West Central,Northwest,33552
+Beltrami,5/9/2020,6,0,007,B,Town/rural mix,EDR 2 - Headwaters,Northwest,45847
+Benton,5/9/2020,87,2,009,C,Urban/town/rural mix,EDR 7W- Central,Central,39360
+Big Stone,5/9/2020,2,0,011,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,5039
+Blue Earth,5/9/2020,64,0,013,D,Entirely urban,EDR 9 - South Central,Southwest,65767
+Brown,5/9/2020,9,1,015,B,Town/rural mix,EDR 9 - South Central,Southwest,25243
+Carlton,5/9/2020,64,0,017,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,35408
+Carver,5/9/2020,78,1,019,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,98799
+Cass,5/9/2020,8,0,021,B,Town/rural mix,EDR 5 - North Central,Northwest,28810
+Chippewa,5/9/2020,5,0,023,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,12040
+Chisago,5/9/2020,19,1,025,D,Entirely urban,EDR 7E- East Central,Central,54297
+Clay,5/9/2020,233,16,027,D,Entirely urban,EDR 4 - West Central,Northwest,62040
+Clearwater,5/9/2020,2,0,029,B,Town/rural mix,EDR 2 - Headwaters,Northwest,8824
+Cook,5/9/2020,NA,NA,031,A,Entirely rural,EDR 3 - Arrowhead,Northeast,5270
+Cottonwood,5/9/2020,45,0,033,B,Town/rural mix,EDR 8 - Southwest,Southwest,11437
+Crow Wing,5/9/2020,24,1,035,B,Town/rural mix,EDR 5 - North Central,Northwest,63505
+Dakota,5/9/2020,408,15,037,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,414655
+Dodge,5/9/2020,24,0,039,D,Entirely urban,EDR 10 - Southeast,Southeast,20485
+Douglas,5/9/2020,15,0,041,B,Town/rural mix,EDR 4 - West Central,Northwest,36891
+Faribault,5/9/2020,10,0,043,B,Town/rural mix,EDR 9 - South Central,Southwest,13966
+Fillmore,5/9/2020,12,1,045,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,20825
+Freeborn,5/9/2020,43,0,047,B,Town/rural mix,EDR 10 - Southeast,Southeast,30619
+Goodhue,5/9/2020,25,0,049,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,46138
+Grant,5/9/2020,2,0,051,A,Entirely rural,EDR 4 - West Central,Northwest,5923
+Hennepin,5/9/2020,3379,374,053,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,1224763
+Houston,5/9/2020,2,0,055,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,18709
+Hubbard,5/9/2020,NA,NA,057,B,Town/rural mix,EDR 2 - Headwaters,Northwest,20743
+Isanti,5/9/2020,7,0,059,C,Urban/town/rural mix,EDR 7E- East Central,Central,38584
+Itasca,5/9/2020,25,0,061,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,45237
+Jackson,5/9/2020,31,0,063,B,Town/rural mix,EDR 8 - Southwest,Southwest,10104
+Kanabec,5/9/2020,9,0,065,C,Urban/town/rural mix,EDR 7E- East Central,Central,15948
+Kandiyohi,5/9/2020,276,1,067,B,Town/rural mix,EDR 6E- Southwest Central,Central,42577
+Kittson,5/9/2020,1,0,069,A,Entirely rural,EDR 1 - Northwest,Northwest,4384
+Koochiching,5/9/2020,1,0,071,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,12776
+Lac qui Parle,5/9/2020,2,0,073,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,6840
+Lake,5/9/2020,1,0,075,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,10578
+Lake of the Woods,5/9/2020,NA,NA,077,A,Entirely rural,EDR 2 - Headwaters,Northwest,3841
+Le Sueur,5/9/2020,28,0,079,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,27810
+Lincoln,5/9/2020,3,0,081,A,Entirely rural,EDR 8 - Southwest,Southwest,5724
+Lyon,5/9/2020,17,0,083,B,Town/rural mix,EDR 8 - Southwest,Southwest,25789
+Mahnomen,5/9/2020,2,1,087,A,Entirely rural,EDR 2 - Headwaters,Northwest,5500
+Marshall,5/9/2020,8,0,089,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,9397
+Martin,5/9/2020,112,4,091,B,Town/rural mix,EDR 9 - South Central,Southwest,20084
+McLeod,5/9/2020,8,0,085,C,Urban/town/rural mix,EDR 6E- Southwest Central,Central,35816
+Meeker,5/9/2020,21,0,093,B,Town/rural mix,EDR 6E- Southwest Central,Central,23105
+Mille Lacs,5/9/2020,7,1,095,C,Urban/town/rural mix,EDR 7E- East Central,Central,25635
+Morrison,5/9/2020,13,0,097,B,Town/rural mix,EDR 5 - North Central,Northwest,32880
+Mower,5/9/2020,42,0,099,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,39386
+Murray,5/9/2020,27,0,101,A,Entirely rural,EDR 8 - Southwest,Southwest,8394
+Nicollet,5/9/2020,21,2,103,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,33477
+Nobles,5/9/2020,1230,2,105,B,Town/rural mix,EDR 8 - Southwest,Southwest,21854
+Norman,5/9/2020,9,0,107,A,Entirely rural,EDR 1 - Northwest,Northwest,6589
+Olmsted,5/9/2020,363,9,109,D,Entirely urban,EDR 10 - Southeast,Southeast,151685
+Otter Tail,5/9/2020,23,0,111,B,Town/rural mix,EDR 4 - West Central,Northwest,57790
+Pennington,5/9/2020,1,0,113,B,Town/rural mix,EDR 1 - Northwest,Northwest,14197
+Pine,5/9/2020,69,0,115,C,Urban/town/rural mix,EDR 7E- East Central,Central,29057
+Pipestone,5/9/2020,7,0,117,B,Town/rural mix,EDR 8 - Southwest,Southwest,9229
+Polk,5/9/2020,48,1,119,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,31564
+Pope,5/9/2020,5,0,121,B,Town/rural mix,EDR 4 - West Central,Northwest,10932
+Ramsey,5/9/2020,875,43,123,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,537893
+Red Lake,5/9/2020,1,0,125,A,Entirely rural,EDR 1 - Northwest,Northwest,4017
+Redwood,5/9/2020,3,0,127,B,Town/rural mix,EDR 8 - Southwest,Southwest,15430
+Renville,5/9/2020,6,0,129,A,Entirely rural,EDR 6E- Southwest Central,Central,14798
+Rice,5/9/2020,102,1,131,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,65251
+Rock,5/9/2020,19,0,133,C,Urban/town/rural mix,EDR 8 - Southwest,Southwest,9433
+Roseau,5/9/2020,1,0,135,B,Town/rural mix,EDR 1 - Northwest,Northwest,15537
+Scott,5/9/2020,129,1,139,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,141463
+Sherburne,5/9/2020,107,1,141,D,Entirely urban,EDR 7W- Central,Central,92024
+Sibley,5/9/2020,3,0,143,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,14888
+St. Louis,5/9/2020,91,12,137,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,200294
+Stearns,5/9/2020,1348,5,145,C,Urban/town/rural mix,EDR 7W- Central,Central,155300
+Steele,5/9/2020,58,0,147,B,Town/rural mix,EDR 10 - Southeast,Southeast,36612
+Stevens,5/9/2020,1,0,149,B,Town/rural mix,EDR 4 - West Central,Northwest,9759
+Swift,5/9/2020,3,0,151,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9448
+Todd,5/9/2020,33,0,153,B,Town/rural mix,EDR 5 - North Central,Northwest,24423
+Traverse,5/9/2020,3,0,155,A,Entirely rural,EDR 4 - West Central,Northwest,3357
+Wabasha,5/9/2020,13,0,157,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,21490
+Wadena,5/9/2020,4,0,159,B,Town/rural mix,EDR 5 - North Central,Northwest,13626
+Waseca,5/9/2020,16,0,161,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,18898
+Washington,5/9/2020,231,14,163,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,250979
+Watonwan,5/9/2020,22,0,165,B,Town/rural mix,EDR 9 - South Central,Southwest,10936
+Wilkin,5/9/2020,11,3,167,B,Town/rural mix,EDR 4 - West Central,Northwest,6398
+Winona,5/9/2020,70,15,169,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,50992
+Wright,5/9/2020,92,1,171,C,Urban/town/rural mix,EDR 7W- Central,Central,131130
+Yellow Medicine,5/9/2020,3,0,173,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9930
+Aitkin,5/10/2020,2,0,001,A,Entirely rural,EDR 3 - Arrowhead,Northeast,15841
+Anoka,5/10/2020,549,29,003,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,344861
+Becker,5/10/2020,25,0,005,C,Urban/town/rural mix,EDR 4 - West Central,Northwest,33552
+Beltrami,5/10/2020,6,0,007,B,Town/rural mix,EDR 2 - Headwaters,Northwest,45847
+Benton,5/10/2020,92,2,009,C,Urban/town/rural mix,EDR 7W- Central,Central,39360
+Big Stone,5/10/2020,2,0,011,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,5039
+Blue Earth,5/10/2020,65,0,013,D,Entirely urban,EDR 9 - South Central,Southwest,65767
+Brown,5/10/2020,9,1,015,B,Town/rural mix,EDR 9 - South Central,Southwest,25243
+Carlton,5/10/2020,64,0,017,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,35408
+Carver,5/10/2020,82,1,019,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,98799
+Cass,5/10/2020,8,1,021,B,Town/rural mix,EDR 5 - North Central,Northwest,28810
+Chippewa,5/10/2020,6,0,023,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,12040
+Chisago,5/10/2020,20,1,025,D,Entirely urban,EDR 7E- East Central,Central,54297
+Clay,5/10/2020,235,17,027,D,Entirely urban,EDR 4 - West Central,Northwest,62040
+Clearwater,5/10/2020,2,0,029,B,Town/rural mix,EDR 2 - Headwaters,Northwest,8824
+Cook,5/10/2020,NA,NA,031,A,Entirely rural,EDR 3 - Arrowhead,Northeast,5270
+Cottonwood,5/10/2020,46,0,033,B,Town/rural mix,EDR 8 - Southwest,Southwest,11437
+Crow Wing,5/10/2020,23,1,035,B,Town/rural mix,EDR 5 - North Central,Northwest,63505
+Dakota,5/10/2020,430,15,037,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,414655
+Dodge,5/10/2020,26,0,039,D,Entirely urban,EDR 10 - Southeast,Southeast,20485
+Douglas,5/10/2020,16,0,041,B,Town/rural mix,EDR 4 - West Central,Northwest,36891
+Faribault,5/10/2020,12,0,043,B,Town/rural mix,EDR 9 - South Central,Southwest,13966
+Fillmore,5/10/2020,13,1,045,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,20825
+Freeborn,5/10/2020,44,0,047,B,Town/rural mix,EDR 10 - Southeast,Southeast,30619
+Goodhue,5/10/2020,25,0,049,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,46138
+Grant,5/10/2020,2,0,051,A,Entirely rural,EDR 4 - West Central,Northwest,5923
+Hennepin,5/10/2020,3558,389,053,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,1224763
+Houston,5/10/2020,2,0,055,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,18709
+Hubbard,5/10/2020,NA,NA,057,B,Town/rural mix,EDR 2 - Headwaters,Northwest,20743
+Isanti,5/10/2020,7,0,059,C,Urban/town/rural mix,EDR 7E- East Central,Central,38584
+Itasca,5/10/2020,28,0,061,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,45237
+Jackson,5/10/2020,32,0,063,B,Town/rural mix,EDR 8 - Southwest,Southwest,10104
+Kanabec,5/10/2020,9,0,065,C,Urban/town/rural mix,EDR 7E- East Central,Central,15948
+Kandiyohi,5/10/2020,284,1,067,B,Town/rural mix,EDR 6E- Southwest Central,Central,42577
+Kittson,5/10/2020,1,0,069,A,Entirely rural,EDR 1 - Northwest,Northwest,4384
+Koochiching,5/10/2020,1,0,071,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,12776
+Lac qui Parle,5/10/2020,2,0,073,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,6840
+Lake,5/10/2020,1,0,075,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,10578
+Lake of the Woods,5/10/2020,NA,NA,077,A,Entirely rural,EDR 2 - Headwaters,Northwest,3841
+Le Sueur,5/10/2020,29,0,079,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,27810
+Lincoln,5/10/2020,3,0,081,A,Entirely rural,EDR 8 - Southwest,Southwest,5724
+Lyon,5/10/2020,17,0,083,B,Town/rural mix,EDR 8 - Southwest,Southwest,25789
+Mahnomen,5/10/2020,3,1,087,A,Entirely rural,EDR 2 - Headwaters,Northwest,5500
+Marshall,5/10/2020,8,0,089,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,9397
+Martin,5/10/2020,112,4,091,B,Town/rural mix,EDR 9 - South Central,Southwest,20084
+McLeod,5/10/2020,12,0,085,C,Urban/town/rural mix,EDR 6E- Southwest Central,Central,35816
+Meeker,5/10/2020,21,0,093,B,Town/rural mix,EDR 6E- Southwest Central,Central,23105
+Mille Lacs,5/10/2020,7,1,095,C,Urban/town/rural mix,EDR 7E- East Central,Central,25635
+Morrison,5/10/2020,14,0,097,B,Town/rural mix,EDR 5 - North Central,Northwest,32880
+Mower,5/10/2020,45,0,099,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,39386
+Murray,5/10/2020,29,0,101,A,Entirely rural,EDR 8 - Southwest,Southwest,8394
+Nicollet,5/10/2020,21,2,103,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,33477
+Nobles,5/10/2020,1255,2,105,B,Town/rural mix,EDR 8 - Southwest,Southwest,21854
+Norman,5/10/2020,10,0,107,A,Entirely rural,EDR 1 - Northwest,Northwest,6589
+Olmsted,5/10/2020,368,9,109,D,Entirely urban,EDR 10 - Southeast,Southeast,151685
+Otter Tail,5/10/2020,23,0,111,B,Town/rural mix,EDR 4 - West Central,Northwest,57790
+Pennington,5/10/2020,1,0,113,B,Town/rural mix,EDR 1 - Northwest,Northwest,14197
+Pine,5/10/2020,73,0,115,C,Urban/town/rural mix,EDR 7E- East Central,Central,29057
+Pipestone,5/10/2020,7,0,117,B,Town/rural mix,EDR 8 - Southwest,Southwest,9229
+Polk,5/10/2020,52,1,119,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,31564
+Pope,5/10/2020,5,0,121,B,Town/rural mix,EDR 4 - West Central,Northwest,10932
+Ramsey,5/10/2020,920,45,123,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,537893
+Red Lake,5/10/2020,2,0,125,A,Entirely rural,EDR 1 - Northwest,Northwest,4017
+Redwood,5/10/2020,3,0,127,B,Town/rural mix,EDR 8 - Southwest,Southwest,15430
+Renville,5/10/2020,6,0,129,A,Entirely rural,EDR 6E- Southwest Central,Central,14798
+Rice,5/10/2020,114,1,131,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,65251
+Rock,5/10/2020,19,0,133,C,Urban/town/rural mix,EDR 8 - Southwest,Southwest,9433
+Roseau,5/10/2020,1,0,135,B,Town/rural mix,EDR 1 - Northwest,Northwest,15537
+Scott,5/10/2020,140,1,139,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,141463
+Sherburne,5/10/2020,109,1,141,D,Entirely urban,EDR 7W- Central,Central,92024
+Sibley,5/10/2020,4,0,143,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,14888
+St. Louis,5/10/2020,92,12,137,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,200294
+Stearns,5/10/2020,1405,5,145,C,Urban/town/rural mix,EDR 7W- Central,Central,155300
+Steele,5/10/2020,60,0,147,B,Town/rural mix,EDR 10 - Southeast,Southeast,36612
+Stevens,5/10/2020,1,0,149,B,Town/rural mix,EDR 4 - West Central,Northwest,9759
+Swift,5/10/2020,5,0,151,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9448
+Todd,5/10/2020,36,0,153,B,Town/rural mix,EDR 5 - North Central,Northwest,24423
+Traverse,5/10/2020,3,0,155,A,Entirely rural,EDR 4 - West Central,Northwest,3357
+Wabasha,5/10/2020,13,0,157,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,21490
+Wadena,5/10/2020,4,0,159,B,Town/rural mix,EDR 5 - North Central,Northwest,13626
+Waseca,5/10/2020,16,0,161,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,18898
+Washington,5/10/2020,247,15,163,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,250979
+Watonwan,5/10/2020,22,0,165,B,Town/rural mix,EDR 9 - South Central,Southwest,10936
+Wilkin,5/10/2020,11,3,167,B,Town/rural mix,EDR 4 - West Central,Northwest,6398
+Winona,5/10/2020,71,15,169,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,50992
+Wright,5/10/2020,102,1,171,C,Urban/town/rural mix,EDR 7W- Central,Central,131130
+Yellow Medicine,5/10/2020,3,0,173,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9930
+Aitkin,5/11/2020,2,0,001,A,Entirely rural,EDR 3 - Arrowhead,Northeast,15841
+Anoka,5/11/2020,571,29,003,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,344861
+Becker,5/11/2020,25,0,005,C,Urban/town/rural mix,EDR 4 - West Central,Northwest,33552
+Beltrami,5/11/2020,6,0,007,B,Town/rural mix,EDR 2 - Headwaters,Northwest,45847
+Benton,5/11/2020,93,2,009,C,Urban/town/rural mix,EDR 7W- Central,Central,39360
+Big Stone,5/11/2020,2,0,011,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,5039
+Blue Earth,5/11/2020,67,0,013,D,Entirely urban,EDR 9 - South Central,Southwest,65767
+Brown,5/11/2020,9,1,015,B,Town/rural mix,EDR 9 - South Central,Southwest,25243
+Carlton,5/11/2020,64,0,017,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,35408
+Carver,5/11/2020,92,1,019,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,98799
+Cass,5/11/2020,8,1,021,B,Town/rural mix,EDR 5 - North Central,Northwest,28810
+Chippewa,5/11/2020,14,0,023,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,12040
+Chisago,5/11/2020,20,1,025,D,Entirely urban,EDR 7E- East Central,Central,54297
+Clay,5/11/2020,247,17,027,D,Entirely urban,EDR 4 - West Central,Northwest,62040
+Clearwater,5/11/2020,2,0,029,B,Town/rural mix,EDR 2 - Headwaters,Northwest,8824
+Cook,5/11/2020,NA,NA,031,A,Entirely rural,EDR 3 - Arrowhead,Northeast,5270
+Cottonwood,5/11/2020,47,0,033,B,Town/rural mix,EDR 8 - Southwest,Southwest,11437
+Crow Wing,5/11/2020,23,1,035,B,Town/rural mix,EDR 5 - North Central,Northwest,63505
+Dakota,5/11/2020,471,15,037,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,414655
+Dodge,5/11/2020,26,0,039,D,Entirely urban,EDR 10 - Southeast,Southeast,20485
+Douglas,5/11/2020,16,0,041,B,Town/rural mix,EDR 4 - West Central,Northwest,36891
+Faribault,5/11/2020,10,0,043,B,Town/rural mix,EDR 9 - South Central,Southwest,13966
+Fillmore,5/11/2020,13,1,045,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,20825
+Freeborn,5/11/2020,46,0,047,B,Town/rural mix,EDR 10 - Southeast,Southeast,30619
+Goodhue,5/11/2020,25,0,049,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,46138
+Grant,5/11/2020,2,0,051,A,Entirely rural,EDR 4 - West Central,Northwest,5923
+Hennepin,5/11/2020,3744,398,053,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,1224763
+Houston,5/11/2020,2,0,055,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,18709
+Hubbard,5/11/2020,NA,NA,057,B,Town/rural mix,EDR 2 - Headwaters,Northwest,20743
+Isanti,5/11/2020,8,0,059,C,Urban/town/rural mix,EDR 7E- East Central,Central,38584
+Itasca,5/11/2020,33,0,061,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,45237
+Jackson,5/11/2020,33,0,063,B,Town/rural mix,EDR 8 - Southwest,Southwest,10104
+Kanabec,5/11/2020,10,0,065,C,Urban/town/rural mix,EDR 7E- East Central,Central,15948
+Kandiyohi,5/11/2020,316,1,067,B,Town/rural mix,EDR 6E- Southwest Central,Central,42577
+Kittson,5/11/2020,1,0,069,A,Entirely rural,EDR 1 - Northwest,Northwest,4384
+Koochiching,5/11/2020,2,0,071,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,12776
+Lac qui Parle,5/11/2020,2,0,073,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,6840
+Lake,5/11/2020,1,0,075,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,10578
+Lake of the Woods,5/11/2020,NA,NA,077,A,Entirely rural,EDR 2 - Headwaters,Northwest,3841
+Le Sueur,5/11/2020,30,0,079,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,27810
+Lincoln,5/11/2020,4,0,081,A,Entirely rural,EDR 8 - Southwest,Southwest,5724
+Lyon,5/11/2020,18,0,083,B,Town/rural mix,EDR 8 - Southwest,Southwest,25789
+Mahnomen,5/11/2020,3,1,087,A,Entirely rural,EDR 2 - Headwaters,Northwest,5500
+Marshall,5/11/2020,8,0,089,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,9397
+Martin,5/11/2020,112,4,091,B,Town/rural mix,EDR 9 - South Central,Southwest,20084
+McLeod,5/11/2020,13,0,085,C,Urban/town/rural mix,EDR 6E- Southwest Central,Central,35816
+Meeker,5/11/2020,21,0,093,B,Town/rural mix,EDR 6E- Southwest Central,Central,23105
+Mille Lacs,5/11/2020,7,1,095,C,Urban/town/rural mix,EDR 7E- East Central,Central,25635
+Morrison,5/11/2020,14,0,097,B,Town/rural mix,EDR 5 - North Central,Northwest,32880
+Mower,5/11/2020,45,0,099,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,39386
+Murray,5/11/2020,29,0,101,A,Entirely rural,EDR 8 - Southwest,Southwest,8394
+Nicollet,5/11/2020,21,2,103,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,33477
+Nobles,5/11/2020,1269,2,105,B,Town/rural mix,EDR 8 - Southwest,Southwest,21854
+Norman,5/11/2020,10,0,107,A,Entirely rural,EDR 1 - Northwest,Northwest,6589
+Olmsted,5/11/2020,374,9,109,D,Entirely urban,EDR 10 - Southeast,Southeast,151685
+Otter Tail,5/11/2020,25,0,111,B,Town/rural mix,EDR 4 - West Central,Northwest,57790
+Pennington,5/11/2020,1,0,113,B,Town/rural mix,EDR 1 - Northwest,Northwest,14197
+Pine,5/11/2020,73,0,115,C,Urban/town/rural mix,EDR 7E- East Central,Central,29057
+Pipestone,5/11/2020,7,0,117,B,Town/rural mix,EDR 8 - Southwest,Southwest,9229
+Polk,5/11/2020,53,1,119,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,31564
+Pope,5/11/2020,5,0,121,B,Town/rural mix,EDR 4 - West Central,Northwest,10932
+Ramsey,5/11/2020,986,47,123,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,537893
+Red Lake,5/11/2020,2,0,125,A,Entirely rural,EDR 1 - Northwest,Northwest,4017
+Redwood,5/11/2020,3,0,127,B,Town/rural mix,EDR 8 - Southwest,Southwest,15430
+Renville,5/11/2020,6,0,129,A,Entirely rural,EDR 6E- Southwest Central,Central,14798
+Rice,5/11/2020,126,2,131,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,65251
+Rock,5/11/2020,19,0,133,C,Urban/town/rural mix,EDR 8 - Southwest,Southwest,9433
+Roseau,5/11/2020,1,0,135,B,Town/rural mix,EDR 1 - Northwest,Northwest,15537
+Scott,5/11/2020,155,1,139,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,141463
+Sherburne,5/11/2020,114,1,141,D,Entirely urban,EDR 7W- Central,Central,92024
+Sibley,5/11/2020,4,0,143,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,14888
+St. Louis,5/11/2020,96,12,137,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,200294
+Stearns,5/11/2020,1443,6,145,C,Urban/town/rural mix,EDR 7W- Central,Central,155300
+Steele,5/11/2020,65,0,147,B,Town/rural mix,EDR 10 - Southeast,Southeast,36612
+Stevens,5/11/2020,1,0,149,B,Town/rural mix,EDR 4 - West Central,Northwest,9759
+Swift,5/11/2020,8,0,151,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9448
+Todd,5/11/2020,38,0,153,B,Town/rural mix,EDR 5 - North Central,Northwest,24423
+Traverse,5/11/2020,3,0,155,A,Entirely rural,EDR 4 - West Central,Northwest,3357
+Wabasha,5/11/2020,13,0,157,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,21490
+Wadena,5/11/2020,4,0,159,B,Town/rural mix,EDR 5 - North Central,Northwest,13626
+Waseca,5/11/2020,16,0,161,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,18898
+Washington,5/11/2020,256,15,163,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,250979
+Watonwan,5/11/2020,25,0,165,B,Town/rural mix,EDR 9 - South Central,Southwest,10936
+Wilkin,5/11/2020,11,3,167,B,Town/rural mix,EDR 4 - West Central,Northwest,6398
+Winona,5/11/2020,71,15,169,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,50992
+Wright,5/11/2020,110,1,171,C,Urban/town/rural mix,EDR 7W- Central,Central,131130
+Yellow Medicine,5/11/2020,3,0,173,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9930
+Aitkin,5/12/2020,2,0,001,A,Entirely rural,EDR 3 - Arrowhead,Northeast,15841
+Anoka,5/12/2020,613,31,003,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,344861
+Becker,5/12/2020,25,0,005,C,Urban/town/rural mix,EDR 4 - West Central,Northwest,33552
+Beltrami,5/12/2020,6,0,007,B,Town/rural mix,EDR 2 - Headwaters,Northwest,45847
+Benton,5/12/2020,100,2,009,C,Urban/town/rural mix,EDR 7W- Central,Central,39360
+Big Stone,5/12/2020,2,0,011,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,5039
+Blue Earth,5/12/2020,67,0,013,D,Entirely urban,EDR 9 - South Central,Southwest,65767
+Brown,5/12/2020,9,1,015,B,Town/rural mix,EDR 9 - South Central,Southwest,25243
+Carlton,5/12/2020,65,0,017,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,35408
+Carver,5/12/2020,95,1,019,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,98799
+Cass,5/12/2020,8,2,021,B,Town/rural mix,EDR 5 - North Central,Northwest,28810
+Chippewa,5/12/2020,21,0,023,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,12040
+Chisago,5/12/2020,23,1,025,D,Entirely urban,EDR 7E- East Central,Central,54297
+Clay,5/12/2020,254,17,027,D,Entirely urban,EDR 4 - West Central,Northwest,62040
+Clearwater,5/12/2020,2,0,029,B,Town/rural mix,EDR 2 - Headwaters,Northwest,8824
+Cook,5/12/2020,NA,NA,031,A,Entirely rural,EDR 3 - Arrowhead,Northeast,5270
+Cottonwood,5/12/2020,47,0,033,B,Town/rural mix,EDR 8 - Southwest,Southwest,11437
+Crow Wing,5/12/2020,23,1,035,B,Town/rural mix,EDR 5 - North Central,Northwest,63505
+Dakota,5/12/2020,508,15,037,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,414655
+Dodge,5/12/2020,26,0,039,D,Entirely urban,EDR 10 - Southeast,Southeast,20485
+Douglas,5/12/2020,17,0,041,B,Town/rural mix,EDR 4 - West Central,Northwest,36891
+Faribault,5/12/2020,10,0,043,B,Town/rural mix,EDR 9 - South Central,Southwest,13966
+Fillmore,5/12/2020,14,1,045,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,20825
+Freeborn,5/12/2020,46,0,047,B,Town/rural mix,EDR 10 - Southeast,Southeast,30619
+Goodhue,5/12/2020,26,0,049,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,46138
+Grant,5/12/2020,2,0,051,A,Entirely rural,EDR 4 - West Central,Northwest,5923
+Hennepin,5/12/2020,4033,412,053,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,1224763
+Houston,5/12/2020,2,0,055,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,18709
+Hubbard,5/12/2020,NA,NA,057,B,Town/rural mix,EDR 2 - Headwaters,Northwest,20743
+Isanti,5/12/2020,10,0,059,C,Urban/town/rural mix,EDR 7E- East Central,Central,38584
+Itasca,5/12/2020,35,2,061,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,45237
+Jackson,5/12/2020,33,0,063,B,Town/rural mix,EDR 8 - Southwest,Southwest,10104
+Kanabec,5/12/2020,10,0,065,C,Urban/town/rural mix,EDR 7E- East Central,Central,15948
+Kandiyohi,5/12/2020,367,1,067,B,Town/rural mix,EDR 6E- Southwest Central,Central,42577
+Kittson,5/12/2020,1,0,069,A,Entirely rural,EDR 1 - Northwest,Northwest,4384
+Koochiching,5/12/2020,2,0,071,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,12776
+Lac qui Parle,5/12/2020,2,0,073,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,6840
+Lake,5/12/2020,1,0,075,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,10578
+Lake of the Woods,5/12/2020,NA,NA,077,A,Entirely rural,EDR 2 - Headwaters,Northwest,3841
+Le Sueur,5/12/2020,31,1,079,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,27810
+Lincoln,5/12/2020,4,0,081,A,Entirely rural,EDR 8 - Southwest,Southwest,5724
+Lyon,5/12/2020,20,0,083,B,Town/rural mix,EDR 8 - Southwest,Southwest,25789
+Mahnomen,5/12/2020,3,1,087,A,Entirely rural,EDR 2 - Headwaters,Northwest,5500
+Marshall,5/12/2020,8,0,089,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,9397
+Martin,5/12/2020,112,4,091,B,Town/rural mix,EDR 9 - South Central,Southwest,20084
+McLeod,5/12/2020,14,0,085,C,Urban/town/rural mix,EDR 6E- Southwest Central,Central,35816
+Meeker,5/12/2020,23,0,093,B,Town/rural mix,EDR 6E- Southwest Central,Central,23105
+Mille Lacs,5/12/2020,7,1,095,C,Urban/town/rural mix,EDR 7E- East Central,Central,25635
+Morrison,5/12/2020,16,0,097,B,Town/rural mix,EDR 5 - North Central,Northwest,32880
+Mower,5/12/2020,45,0,099,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,39386
+Murray,5/12/2020,29,0,101,A,Entirely rural,EDR 8 - Southwest,Southwest,8394
+Nicollet,5/12/2020,22,2,103,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,33477
+Nobles,5/12/2020,1291,2,105,B,Town/rural mix,EDR 8 - Southwest,Southwest,21854
+Norman,5/12/2020,11,0,107,A,Entirely rural,EDR 1 - Northwest,Northwest,6589
+Olmsted,5/12/2020,378,9,109,D,Entirely urban,EDR 10 - Southeast,Southeast,151685
+Otter Tail,5/12/2020,25,0,111,B,Town/rural mix,EDR 4 - West Central,Northwest,57790
+Pennington,5/12/2020,1,0,113,B,Town/rural mix,EDR 1 - Northwest,Northwest,14197
+Pine,5/12/2020,73,0,115,C,Urban/town/rural mix,EDR 7E- East Central,Central,29057
+Pipestone,5/12/2020,7,0,117,B,Town/rural mix,EDR 8 - Southwest,Southwest,9229
+Polk,5/12/2020,54,1,119,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,31564
+Pope,5/12/2020,5,0,121,B,Town/rural mix,EDR 4 - West Central,Northwest,10932
+Ramsey,5/12/2020,1052,49,123,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,537893
+Red Lake,5/12/2020,2,0,125,A,Entirely rural,EDR 1 - Northwest,Northwest,4017
+Redwood,5/12/2020,3,0,127,B,Town/rural mix,EDR 8 - Southwest,Southwest,15430
+Renville,5/12/2020,6,0,129,A,Entirely rural,EDR 6E- Southwest Central,Central,14798
+Rice,5/12/2020,134,2,131,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,65251
+Rock,5/12/2020,19,0,133,C,Urban/town/rural mix,EDR 8 - Southwest,Southwest,9433
+Roseau,5/12/2020,1,0,135,B,Town/rural mix,EDR 1 - Northwest,Northwest,15537
+Scott,5/12/2020,168,1,139,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,141463
+Sherburne,5/12/2020,122,1,141,D,Entirely urban,EDR 7W- Central,Central,92024
+Sibley,5/12/2020,4,0,143,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,14888
+St. Louis,5/12/2020,96,12,137,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,200294
+Stearns,5/12/2020,1512,6,145,C,Urban/town/rural mix,EDR 7W- Central,Central,155300
+Steele,5/12/2020,73,0,147,B,Town/rural mix,EDR 10 - Southeast,Southeast,36612
+Stevens,5/12/2020,1,0,149,B,Town/rural mix,EDR 4 - West Central,Northwest,9759
+Swift,5/12/2020,9,0,151,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9448
+Todd,5/12/2020,42,0,153,B,Town/rural mix,EDR 5 - North Central,Northwest,24423
+Traverse,5/12/2020,3,0,155,A,Entirely rural,EDR 4 - West Central,Northwest,3357
+Wabasha,5/12/2020,13,0,157,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,21490
+Wadena,5/12/2020,4,0,159,B,Town/rural mix,EDR 5 - North Central,Northwest,13626
+Waseca,5/12/2020,16,0,161,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,18898
+Washington,5/12/2020,266,16,163,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,250979
+Watonwan,5/12/2020,28,0,165,B,Town/rural mix,EDR 9 - South Central,Southwest,10936
+Wilkin,5/12/2020,11,3,167,B,Town/rural mix,EDR 4 - West Central,Northwest,6398
+Winona,5/12/2020,71,15,169,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,50992
+Wright,5/12/2020,119,1,171,C,Urban/town/rural mix,EDR 7W- Central,Central,131130
+Yellow Medicine,5/12/2020,3,0,173,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9930
+Aitkin,4/22/2020,1,NA,001,A,Entirely rural,EDR 3 - Arrowhead,Northeast,15841
+Anoka,4/22/2020,105,NA,003,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,344861
+Becker,4/22/2020,2,NA,005,C,Urban/town/rural mix,EDR 4 - West Central,Northwest,33552
+Beltrami,4/22/2020,6,NA,007,B,Town/rural mix,EDR 2 - Headwaters,Northwest,45847
+Benton,4/22/2020,4,NA,009,C,Urban/town/rural mix,EDR 7W- Central,Central,39360
+Big Stone,4/22/2020,1,NA,011,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,5039
+Blue Earth,4/22/2020,26,NA,013,D,Entirely urban,EDR 9 - South Central,Southwest,65767
+Brown,4/22/2020,8,NA,015,B,Town/rural mix,EDR 9 - South Central,Southwest,25243
+Carlton,4/22/2020,38,NA,017,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,35408
+Carver,4/22/2020,15,NA,019,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,98799
+Cass,4/22/2020,4,NA,021,B,Town/rural mix,EDR 5 - North Central,Northwest,28810
+Chippewa,4/22/2020,1,NA,023,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,12040
+Chisago,4/22/2020,7,NA,025,D,Entirely urban,EDR 7E- East Central,Central,54297
+Clay,4/22/2020,79,NA,027,D,Entirely urban,EDR 4 - West Central,Northwest,62040
+Clearwater,4/22/2020,2,NA,029,B,Town/rural mix,EDR 2 - Headwaters,Northwest,8824
+Cook,4/22/2020,NA,NA,031,A,Entirely rural,EDR 3 - Arrowhead,Northeast,5270
+Cottonwood,4/22/2020,6,NA,033,B,Town/rural mix,EDR 8 - Southwest,Southwest,11437
+Crow Wing,4/22/2020,20,NA,035,B,Town/rural mix,EDR 5 - North Central,Northwest,63505
+Dakota,4/22/2020,130,NA,037,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,414655
+Dodge,4/22/2020,18,NA,039,D,Entirely urban,EDR 10 - Southeast,Southeast,20485
+Douglas,4/22/2020,2,NA,041,B,Town/rural mix,EDR 4 - West Central,Northwest,36891
+Faribault,4/22/2020,4,NA,043,B,Town/rural mix,EDR 9 - South Central,Southwest,13966
+Fillmore,4/22/2020,11,NA,045,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,20825
+Freeborn,4/22/2020,33,NA,047,B,Town/rural mix,EDR 10 - Southeast,Southeast,30619
+Goodhue,4/22/2020,19,NA,049,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,46138
+Grant,4/22/2020,NA,NA,051,A,Entirely rural,EDR 4 - West Central,Northwest,5923
+Hennepin,4/22/2020,1073,NA,053,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,1224763
+Houston,4/22/2020,1,NA,055,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,18709
+Hubbard,4/22/2020,NA,NA,057,B,Town/rural mix,EDR 2 - Headwaters,Northwest,20743
+Isanti,4/22/2020,6,NA,059,C,Urban/town/rural mix,EDR 7E- East Central,Central,38584
+Itasca,4/22/2020,2,NA,061,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,45237
+Jackson,4/22/2020,3,NA,063,B,Town/rural mix,EDR 8 - Southwest,Southwest,10104
+Kanabec,4/22/2020,NA,NA,065,C,Urban/town/rural mix,EDR 7E- East Central,Central,15948
+Kandiyohi,4/22/2020,3,NA,067,B,Town/rural mix,EDR 6E- Southwest Central,Central,42577
+Kittson,4/22/2020,1,NA,069,A,Entirely rural,EDR 1 - Northwest,Northwest,4384
+Koochiching,4/22/2020,1,NA,071,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,12776
+Lac qui Parle,4/22/2020,1,NA,073,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,6840
+Lake,4/22/2020,NA,NA,075,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,10578
+Lake of the Woods,4/22/2020,NA,NA,077,A,Entirely rural,EDR 2 - Headwaters,Northwest,3841
+Le Sueur,4/22/2020,22,NA,079,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,27810
+Lincoln,4/22/2020,2,NA,081,A,Entirely rural,EDR 8 - Southwest,Southwest,5724
+Lyon,4/22/2020,6,NA,083,B,Town/rural mix,EDR 8 - Southwest,Southwest,25789
+Mahnomen,4/22/2020,1,NA,087,A,Entirely rural,EDR 2 - Headwaters,Northwest,5500
+Marshall,4/22/2020,1,NA,089,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,9397
+Martin,4/22/2020,41,NA,091,B,Town/rural mix,EDR 9 - South Central,Southwest,20084
+McLeod,4/22/2020,3,NA,085,C,Urban/town/rural mix,EDR 6E- Southwest Central,Central,35816
+Meeker,4/22/2020,3,NA,093,B,Town/rural mix,EDR 6E- Southwest Central,Central,23105
+Mille Lacs,4/22/2020,1,NA,095,C,Urban/town/rural mix,EDR 7E- East Central,Central,25635
+Morrison,4/22/2020,1,NA,097,B,Town/rural mix,EDR 5 - North Central,Northwest,32880
+Mower,4/22/2020,27,NA,099,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,39386
+Murray,4/22/2020,3,NA,101,A,Entirely rural,EDR 8 - Southwest,Southwest,8394
+Nicollet,4/22/2020,8,NA,103,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,33477
+Nobles,4/22/2020,126,NA,105,B,Town/rural mix,EDR 8 - Southwest,Southwest,21854
+Norman,4/22/2020,6,NA,107,A,Entirely rural,EDR 1 - Northwest,Northwest,6589
+Olmsted,4/22/2020,204,NA,109,D,Entirely urban,EDR 10 - Southeast,Southeast,151685
+Otter Tail,4/22/2020,6,NA,111,B,Town/rural mix,EDR 4 - West Central,Northwest,57790
+Pennington,4/22/2020,1,NA,113,B,Town/rural mix,EDR 1 - Northwest,Northwest,14197
+Pine,4/22/2020,15,NA,115,C,Urban/town/rural mix,EDR 7E- East Central,Central,29057
+Pipestone,4/22/2020,2,NA,117,B,Town/rural mix,EDR 8 - Southwest,Southwest,9229
+Polk,4/22/2020,17,NA,119,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,31564
+Pope,4/22/2020,NA,NA,121,B,Town/rural mix,EDR 4 - West Central,Northwest,10932
+Ramsey,4/22/2020,219,NA,123,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,537893
+Red Lake,4/22/2020,1,NA,125,A,Entirely rural,EDR 1 - Northwest,Northwest,4017
+Redwood,4/22/2020,1,NA,127,B,Town/rural mix,EDR 8 - Southwest,Southwest,15430
+Renville,4/22/2020,3,NA,129,A,Entirely rural,EDR 6E- Southwest Central,Central,14798
+Rice,4/22/2020,7,NA,131,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,65251
+Rock,4/22/2020,5,NA,133,C,Urban/town/rural mix,EDR 8 - Southwest,Southwest,9433
+Roseau,4/22/2020,1,NA,135,B,Town/rural mix,EDR 1 - Northwest,Northwest,15537
+Scott,4/22/2020,28,NA,139,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,141463
+Sherburne,4/22/2020,13,NA,141,D,Entirely urban,EDR 7W- Central,Central,92024
+Sibley,4/22/2020,1,NA,143,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,14888
+St. Louis,4/22/2020,54,NA,137,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,200294
+Stearns,4/22/2020,20,NA,145,C,Urban/town/rural mix,EDR 7W- Central,Central,155300
+Steele,4/22/2020,10,NA,147,B,Town/rural mix,EDR 10 - Southeast,Southeast,36612
+Stevens,4/22/2020,NA,NA,149,B,Town/rural mix,EDR 4 - West Central,Northwest,9759
+Swift,4/22/2020,1,NA,151,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9448
+Todd,4/22/2020,3,NA,153,B,Town/rural mix,EDR 5 - North Central,Northwest,24423
+Traverse,4/22/2020,2,NA,155,A,Entirely rural,EDR 4 - West Central,Northwest,3357
+Wabasha,4/22/2020,8,NA,157,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,21490
+Wadena,4/22/2020,NA,NA,159,B,Town/rural mix,EDR 5 - North Central,Northwest,13626
+Waseca,4/22/2020,3,NA,161,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,18898
+Washington,4/22/2020,100,NA,163,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,250979
+Watonwan,4/22/2020,4,NA,165,B,Town/rural mix,EDR 9 - South Central,Southwest,10936
+Wilkin,4/22/2020,10,NA,167,B,Town/rural mix,EDR 4 - West Central,Northwest,6398
+Winona,4/22/2020,61,NA,169,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,50992
+Wright,4/22/2020,30,NA,171,C,Urban/town/rural mix,EDR 7W- Central,Central,131130
+Yellow Medicine,4/22/2020,3,NA,173,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9930
+Aitkin,4/23/2020,1,NA,001,A,Entirely rural,EDR 3 - Arrowhead,Northeast,15841
+Anoka,4/23/2020,131,NA,003,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,344861
+Becker,4/23/2020,2,NA,005,C,Urban/town/rural mix,EDR 4 - West Central,Northwest,33552
+Beltrami,4/23/2020,6,NA,007,B,Town/rural mix,EDR 2 - Headwaters,Northwest,45847
+Benton,4/23/2020,4,NA,009,C,Urban/town/rural mix,EDR 7W- Central,Central,39360
+Big Stone,4/23/2020,1,NA,011,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,5039
+Blue Earth,4/23/2020,26,NA,013,D,Entirely urban,EDR 9 - South Central,Southwest,65767
+Brown,4/23/2020,8,NA,015,B,Town/rural mix,EDR 9 - South Central,Southwest,25243
+Carlton,4/23/2020,38,NA,017,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,35408
+Carver,4/23/2020,15,NA,019,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,98799
+Cass,4/23/2020,5,NA,021,B,Town/rural mix,EDR 5 - North Central,Northwest,28810
+Chippewa,4/23/2020,1,NA,023,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,12040
+Chisago,4/23/2020,7,NA,025,D,Entirely urban,EDR 7E- East Central,Central,54297
+Clay,4/23/2020,84,NA,027,D,Entirely urban,EDR 4 - West Central,Northwest,62040
+Clearwater,4/23/2020,2,NA,029,B,Town/rural mix,EDR 2 - Headwaters,Northwest,8824
+Cook,4/23/2020,NA,NA,031,A,Entirely rural,EDR 3 - Arrowhead,Northeast,5270
+Cottonwood,4/23/2020,6,NA,033,B,Town/rural mix,EDR 8 - Southwest,Southwest,11437
+Crow Wing,4/23/2020,20,NA,035,B,Town/rural mix,EDR 5 - North Central,Northwest,63505
+Dakota,4/23/2020,131,NA,037,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,414655
+Dodge,4/23/2020,18,NA,039,D,Entirely urban,EDR 10 - Southeast,Southeast,20485
+Douglas,4/23/2020,2,NA,041,B,Town/rural mix,EDR 4 - West Central,Northwest,36891
+Faribault,4/23/2020,4,NA,043,B,Town/rural mix,EDR 9 - South Central,Southwest,13966
+Fillmore,4/23/2020,12,NA,045,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,20825
+Freeborn,4/23/2020,33,NA,047,B,Town/rural mix,EDR 10 - Southeast,Southeast,30619
+Goodhue,4/23/2020,19,NA,049,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,46138
+Grant,4/23/2020,NA,NA,051,A,Entirely rural,EDR 4 - West Central,Northwest,5923
+Hennepin,4/23/2020,1132,NA,053,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,1224763
+Houston,4/23/2020,1,NA,055,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,18709
+Hubbard,4/23/2020,NA,NA,057,B,Town/rural mix,EDR 2 - Headwaters,Northwest,20743
+Isanti,4/23/2020,6,NA,059,C,Urban/town/rural mix,EDR 7E- East Central,Central,38584
+Itasca,4/23/2020,2,NA,061,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,45237
+Jackson,4/23/2020,5,NA,063,B,Town/rural mix,EDR 8 - Southwest,Southwest,10104
+Kanabec,4/23/2020,NA,NA,065,C,Urban/town/rural mix,EDR 7E- East Central,Central,15948
+Kandiyohi,4/23/2020,4,NA,067,B,Town/rural mix,EDR 6E- Southwest Central,Central,42577
+Kittson,4/23/2020,1,NA,069,A,Entirely rural,EDR 1 - Northwest,Northwest,4384
+Koochiching,4/23/2020,1,NA,071,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,12776
+Lac qui Parle,4/23/2020,1,NA,073,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,6840
+Lake,4/23/2020,NA,NA,075,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,10578
+Lake of the Woods,4/23/2020,NA,NA,077,A,Entirely rural,EDR 2 - Headwaters,Northwest,3841
+Le Sueur,4/23/2020,22,NA,079,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,27810
+Lincoln,4/23/2020,2,NA,081,A,Entirely rural,EDR 8 - Southwest,Southwest,5724
+Lyon,4/23/2020,6,NA,083,B,Town/rural mix,EDR 8 - Southwest,Southwest,25789
+Mahnomen,4/23/2020,1,NA,087,A,Entirely rural,EDR 2 - Headwaters,Northwest,5500
+Marshall,4/23/2020,1,NA,089,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,9397
+Martin,4/23/2020,41,NA,091,B,Town/rural mix,EDR 9 - South Central,Southwest,20084
+McLeod,4/23/2020,3,NA,085,C,Urban/town/rural mix,EDR 6E- Southwest Central,Central,35816
+Meeker,4/23/2020,3,NA,093,B,Town/rural mix,EDR 6E- Southwest Central,Central,23105
+Mille Lacs,4/23/2020,1,NA,095,C,Urban/town/rural mix,EDR 7E- East Central,Central,25635
+Morrison,4/23/2020,1,NA,097,B,Town/rural mix,EDR 5 - North Central,Northwest,32880
+Mower,4/23/2020,27,NA,099,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,39386
+Murray,4/23/2020,4,NA,101,A,Entirely rural,EDR 8 - Southwest,Southwest,8394
+Nicollet,4/23/2020,8,NA,103,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,33477
+Nobles,4/23/2020,196,NA,105,B,Town/rural mix,EDR 8 - Southwest,Southwest,21854
+Norman,4/23/2020,6,NA,107,A,Entirely rural,EDR 1 - Northwest,Northwest,6589
+Olmsted,4/23/2020,213,NA,109,D,Entirely urban,EDR 10 - Southeast,Southeast,151685
+Otter Tail,4/23/2020,6,NA,111,B,Town/rural mix,EDR 4 - West Central,Northwest,57790
+Pennington,4/23/2020,1,NA,113,B,Town/rural mix,EDR 1 - Northwest,Northwest,14197
+Pine,4/23/2020,26,NA,115,C,Urban/town/rural mix,EDR 7E- East Central,Central,29057
+Pipestone,4/23/2020,2,NA,117,B,Town/rural mix,EDR 8 - Southwest,Southwest,9229
+Polk,4/23/2020,19,NA,119,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,31564
+Pope,4/23/2020,NA,NA,121,B,Town/rural mix,EDR 4 - West Central,Northwest,10932
+Ramsey,4/23/2020,235,NA,123,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,537893
+Red Lake,4/23/2020,1,NA,125,A,Entirely rural,EDR 1 - Northwest,Northwest,4017
+Redwood,4/23/2020,1,NA,127,B,Town/rural mix,EDR 8 - Southwest,Southwest,15430
+Renville,4/23/2020,3,NA,129,A,Entirely rural,EDR 6E- Southwest Central,Central,14798
+Rice,4/23/2020,8,NA,131,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,65251
+Rock,4/23/2020,5,NA,133,C,Urban/town/rural mix,EDR 8 - Southwest,Southwest,9433
+Roseau,4/23/2020,1,NA,135,B,Town/rural mix,EDR 1 - Northwest,Northwest,15537
+Scott,4/23/2020,29,NA,139,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,141463
+Sherburne,4/23/2020,15,NA,141,D,Entirely urban,EDR 7W- Central,Central,92024
+Sibley,4/23/2020,1,NA,143,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,14888
+St. Louis,4/23/2020,58,NA,137,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,200294
+Stearns,4/23/2020,25,NA,145,C,Urban/town/rural mix,EDR 7W- Central,Central,155300
+Steele,4/23/2020,10,NA,147,B,Town/rural mix,EDR 10 - Southeast,Southeast,36612
+Stevens,4/23/2020,NA,NA,149,B,Town/rural mix,EDR 4 - West Central,Northwest,9759
+Swift,4/23/2020,1,NA,151,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9448
+Todd,4/23/2020,3,NA,153,B,Town/rural mix,EDR 5 - North Central,Northwest,24423
+Traverse,4/23/2020,2,NA,155,A,Entirely rural,EDR 4 - West Central,Northwest,3357
+Wabasha,4/23/2020,8,NA,157,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,21490
+Wadena,4/23/2020,NA,NA,159,B,Town/rural mix,EDR 5 - North Central,Northwest,13626
+Waseca,4/23/2020,3,NA,161,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,18898
+Washington,4/23/2020,100,NA,163,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,250979
+Watonwan,4/23/2020,4,NA,165,B,Town/rural mix,EDR 9 - South Central,Southwest,10936
+Wilkin,4/23/2020,11,NA,167,B,Town/rural mix,EDR 4 - West Central,Northwest,6398
+Winona,4/23/2020,62,NA,169,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,50992
+Wright,4/23/2020,32,NA,171,C,Urban/town/rural mix,EDR 7W- Central,Central,131130
+Yellow Medicine,4/23/2020,3,NA,173,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9930
+Aitkin,4/24/2020,1,NA,001,A,Entirely rural,EDR 3 - Arrowhead,Northeast,15841
+Anoka,4/24/2020,142,NA,003,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,344861
+Becker,4/24/2020,2,NA,005,C,Urban/town/rural mix,EDR 4 - West Central,Northwest,33552
+Beltrami,4/24/2020,6,NA,007,B,Town/rural mix,EDR 2 - Headwaters,Northwest,45847
+Benton,4/24/2020,4,NA,009,C,Urban/town/rural mix,EDR 7W- Central,Central,39360
+Big Stone,4/24/2020,1,NA,011,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,5039
+Blue Earth,4/24/2020,27,NA,013,D,Entirely urban,EDR 9 - South Central,Southwest,65767
+Brown,4/24/2020,8,NA,015,B,Town/rural mix,EDR 9 - South Central,Southwest,25243
+Carlton,4/24/2020,46,NA,017,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,35408
+Carver,4/24/2020,15,NA,019,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,98799
+Cass,4/24/2020,5,NA,021,B,Town/rural mix,EDR 5 - North Central,Northwest,28810
+Chippewa,4/24/2020,1,NA,023,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,12040
+Chisago,4/24/2020,7,NA,025,D,Entirely urban,EDR 7E- East Central,Central,54297
+Clay,4/24/2020,100,NA,027,D,Entirely urban,EDR 4 - West Central,Northwest,62040
+Clearwater,4/24/2020,2,NA,029,B,Town/rural mix,EDR 2 - Headwaters,Northwest,8824
+Cook,4/24/2020,NA,NA,031,A,Entirely rural,EDR 3 - Arrowhead,Northeast,5270
+Cottonwood,4/24/2020,6,NA,033,B,Town/rural mix,EDR 8 - Southwest,Southwest,11437
+Crow Wing,4/24/2020,20,NA,035,B,Town/rural mix,EDR 5 - North Central,Northwest,63505
+Dakota,4/24/2020,136,NA,037,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,414655
+Dodge,4/24/2020,18,NA,039,D,Entirely urban,EDR 10 - Southeast,Southeast,20485
+Douglas,4/24/2020,2,NA,041,B,Town/rural mix,EDR 4 - West Central,Northwest,36891
+Faribault,4/24/2020,4,NA,043,B,Town/rural mix,EDR 9 - South Central,Southwest,13966
+Fillmore,4/24/2020,12,NA,045,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,20825
+Freeborn,4/24/2020,33,NA,047,B,Town/rural mix,EDR 10 - Southeast,Southeast,30619
+Goodhue,4/24/2020,19,NA,049,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,46138
+Grant,4/24/2020,NA,NA,051,A,Entirely rural,EDR 4 - West Central,Northwest,5923
+Hennepin,4/24/2020,1200,NA,053,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,1224763
+Houston,4/24/2020,1,NA,055,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,18709
+Hubbard,4/24/2020,NA,NA,057,B,Town/rural mix,EDR 2 - Headwaters,Northwest,20743
+Isanti,4/24/2020,6,NA,059,C,Urban/town/rural mix,EDR 7E- East Central,Central,38584
+Itasca,4/24/2020,2,NA,061,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,45237
+Jackson,4/24/2020,6,NA,063,B,Town/rural mix,EDR 8 - Southwest,Southwest,10104
+Kanabec,4/24/2020,NA,NA,065,C,Urban/town/rural mix,EDR 7E- East Central,Central,15948
+Kandiyohi,4/24/2020,12,NA,067,B,Town/rural mix,EDR 6E- Southwest Central,Central,42577
+Kittson,4/24/2020,1,NA,069,A,Entirely rural,EDR 1 - Northwest,Northwest,4384
+Koochiching,4/24/2020,1,NA,071,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,12776
+Lac qui Parle,4/24/2020,1,NA,073,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,6840
+Lake,4/24/2020,NA,NA,075,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,10578
+Lake of the Woods,4/24/2020,NA,NA,077,A,Entirely rural,EDR 2 - Headwaters,Northwest,3841
+Le Sueur,4/24/2020,22,NA,079,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,27810
+Lincoln,4/24/2020,2,NA,081,A,Entirely rural,EDR 8 - Southwest,Southwest,5724
+Lyon,4/24/2020,6,NA,083,B,Town/rural mix,EDR 8 - Southwest,Southwest,25789
+Mahnomen,4/24/2020,1,NA,087,A,Entirely rural,EDR 2 - Headwaters,Northwest,5500
+Marshall,4/24/2020,1,NA,089,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,9397
+Martin,4/24/2020,41,NA,091,B,Town/rural mix,EDR 9 - South Central,Southwest,20084
+McLeod,4/24/2020,3,NA,085,C,Urban/town/rural mix,EDR 6E- Southwest Central,Central,35816
+Meeker,4/24/2020,3,NA,093,B,Town/rural mix,EDR 6E- Southwest Central,Central,23105
+Mille Lacs,4/24/2020,1,NA,095,C,Urban/town/rural mix,EDR 7E- East Central,Central,25635
+Morrison,4/24/2020,1,NA,097,B,Town/rural mix,EDR 5 - North Central,Northwest,32880
+Mower,4/24/2020,28,NA,099,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,39386
+Murray,4/24/2020,5,NA,101,A,Entirely rural,EDR 8 - Southwest,Southwest,8394
+Nicollet,4/24/2020,8,NA,103,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,33477
+Nobles,4/24/2020,258,NA,105,B,Town/rural mix,EDR 8 - Southwest,Southwest,21854
+Norman,4/24/2020,7,NA,107,A,Entirely rural,EDR 1 - Northwest,Northwest,6589
+Olmsted,4/24/2020,219,NA,109,D,Entirely urban,EDR 10 - Southeast,Southeast,151685
+Otter Tail,4/24/2020,6,NA,111,B,Town/rural mix,EDR 4 - West Central,Northwest,57790
+Pennington,4/24/2020,1,NA,113,B,Town/rural mix,EDR 1 - Northwest,Northwest,14197
+Pine,4/24/2020,43,NA,115,C,Urban/town/rural mix,EDR 7E- East Central,Central,29057
+Pipestone,4/24/2020,2,NA,117,B,Town/rural mix,EDR 8 - Southwest,Southwest,9229
+Polk,4/24/2020,19,NA,119,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,31564
+Pope,4/24/2020,NA,NA,121,B,Town/rural mix,EDR 4 - West Central,Northwest,10932
+Ramsey,4/24/2020,247,NA,123,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,537893
+Red Lake,4/24/2020,1,NA,125,A,Entirely rural,EDR 1 - Northwest,Northwest,4017
+Redwood,4/24/2020,1,NA,127,B,Town/rural mix,EDR 8 - Southwest,Southwest,15430
+Renville,4/24/2020,3,NA,129,A,Entirely rural,EDR 6E- Southwest Central,Central,14798
+Rice,4/24/2020,9,NA,131,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,65251
+Rock,4/24/2020,5,NA,133,C,Urban/town/rural mix,EDR 8 - Southwest,Southwest,9433
+Roseau,4/24/2020,1,NA,135,B,Town/rural mix,EDR 1 - Northwest,Northwest,15537
+Scott,4/24/2020,30,NA,139,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,141463
+Sherburne,4/24/2020,15,NA,141,D,Entirely urban,EDR 7W- Central,Central,92024
+Sibley,4/24/2020,1,NA,143,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,14888
+St. Louis,4/24/2020,59,NA,137,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,200294
+Stearns,4/24/2020,33,NA,145,C,Urban/town/rural mix,EDR 7W- Central,Central,155300
+Steele,4/24/2020,11,NA,147,B,Town/rural mix,EDR 10 - Southeast,Southeast,36612
+Stevens,4/24/2020,NA,NA,149,B,Town/rural mix,EDR 4 - West Central,Northwest,9759
+Swift,4/24/2020,1,NA,151,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9448
+Todd,4/24/2020,3,NA,153,B,Town/rural mix,EDR 5 - North Central,Northwest,24423
+Traverse,4/24/2020,2,NA,155,A,Entirely rural,EDR 4 - West Central,Northwest,3357
+Wabasha,4/24/2020,8,NA,157,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,21490
+Wadena,4/24/2020,NA,NA,159,B,Town/rural mix,EDR 5 - North Central,Northwest,13626
+Waseca,4/24/2020,3,NA,161,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,18898
+Washington,4/24/2020,107,NA,163,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,250979
+Watonwan,4/24/2020,5,NA,165,B,Town/rural mix,EDR 9 - South Central,Southwest,10936
+Wilkin,4/24/2020,11,NA,167,B,Town/rural mix,EDR 4 - West Central,Northwest,6398
+Winona,4/24/2020,64,NA,169,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,50992
+Wright,4/24/2020,32,NA,171,C,Urban/town/rural mix,EDR 7W- Central,Central,131130
+Yellow Medicine,4/24/2020,3,NA,173,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9930
+Aitkin,4/25/2020,1,NA,001,A,Entirely rural,EDR 3 - Arrowhead,Northeast,15841
+Anoka,4/25/2020,150,NA,003,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,344861
+Becker,4/25/2020,2,NA,005,C,Urban/town/rural mix,EDR 4 - West Central,Northwest,33552
+Beltrami,4/25/2020,6,NA,007,B,Town/rural mix,EDR 2 - Headwaters,Northwest,45847
+Benton,4/25/2020,4,NA,009,C,Urban/town/rural mix,EDR 7W- Central,Central,39360
+Big Stone,4/25/2020,2,NA,011,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,5039
+Blue Earth,4/25/2020,27,NA,013,D,Entirely urban,EDR 9 - South Central,Southwest,65767
+Brown,4/25/2020,8,NA,015,B,Town/rural mix,EDR 9 - South Central,Southwest,25243
+Carlton,4/25/2020,47,NA,017,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,35408
+Carver,4/25/2020,16,NA,019,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,98799
+Cass,4/25/2020,5,NA,021,B,Town/rural mix,EDR 5 - North Central,Northwest,28810
+Chippewa,4/25/2020,2,NA,023,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,12040
+Chisago,4/25/2020,7,NA,025,D,Entirely urban,EDR 7E- East Central,Central,54297
+Clay,4/25/2020,113,NA,027,D,Entirely urban,EDR 4 - West Central,Northwest,62040
+Clearwater,4/25/2020,2,NA,029,B,Town/rural mix,EDR 2 - Headwaters,Northwest,8824
+Cook,4/25/2020,NA,NA,031,A,Entirely rural,EDR 3 - Arrowhead,Northeast,5270
+Cottonwood,4/25/2020,6,NA,033,B,Town/rural mix,EDR 8 - Southwest,Southwest,11437
+Crow Wing,4/25/2020,20,NA,035,B,Town/rural mix,EDR 5 - North Central,Northwest,63505
+Dakota,4/25/2020,138,NA,037,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,414655
+Dodge,4/25/2020,19,NA,039,D,Entirely urban,EDR 10 - Southeast,Southeast,20485
+Douglas,4/25/2020,2,NA,041,B,Town/rural mix,EDR 4 - West Central,Northwest,36891
+Faribault,4/25/2020,4,NA,043,B,Town/rural mix,EDR 9 - South Central,Southwest,13966
+Fillmore,4/25/2020,12,NA,045,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,20825
+Freeborn,4/25/2020,33,NA,047,B,Town/rural mix,EDR 10 - Southeast,Southeast,30619
+Goodhue,4/25/2020,19,NA,049,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,46138
+Grant,4/25/2020,NA,NA,051,A,Entirely rural,EDR 4 - West Central,Northwest,5923
+Hennepin,4/25/2020,1287,NA,053,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,1224763
+Houston,4/25/2020,1,NA,055,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,18709
+Hubbard,4/25/2020,NA,NA,057,B,Town/rural mix,EDR 2 - Headwaters,Northwest,20743
+Isanti,4/25/2020,7,NA,059,C,Urban/town/rural mix,EDR 7E- East Central,Central,38584
+Itasca,4/25/2020,2,NA,061,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,45237
+Jackson,4/25/2020,7,NA,063,B,Town/rural mix,EDR 8 - Southwest,Southwest,10104
+Kanabec,4/25/2020,NA,NA,065,C,Urban/town/rural mix,EDR 7E- East Central,Central,15948
+Kandiyohi,4/25/2020,28,NA,067,B,Town/rural mix,EDR 6E- Southwest Central,Central,42577
+Kittson,4/25/2020,1,NA,069,A,Entirely rural,EDR 1 - Northwest,Northwest,4384
+Koochiching,4/25/2020,1,NA,071,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,12776
+Lac qui Parle,4/25/2020,1,NA,073,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,6840
+Lake,4/25/2020,NA,NA,075,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,10578
+Lake of the Woods,4/25/2020,NA,NA,077,A,Entirely rural,EDR 2 - Headwaters,Northwest,3841
+Le Sueur,4/25/2020,22,NA,079,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,27810
+Lincoln,4/25/2020,2,NA,081,A,Entirely rural,EDR 8 - Southwest,Southwest,5724
+Lyon,4/25/2020,6,NA,083,B,Town/rural mix,EDR 8 - Southwest,Southwest,25789
+Mahnomen,4/25/2020,1,NA,087,A,Entirely rural,EDR 2 - Headwaters,Northwest,5500
+Marshall,4/25/2020,1,NA,089,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,9397
+Martin,4/25/2020,42,NA,091,B,Town/rural mix,EDR 9 - South Central,Southwest,20084
+McLeod,4/25/2020,3,NA,085,C,Urban/town/rural mix,EDR 6E- Southwest Central,Central,35816
+Meeker,4/25/2020,4,NA,093,B,Town/rural mix,EDR 6E- Southwest Central,Central,23105
+Mille Lacs,4/25/2020,1,NA,095,C,Urban/town/rural mix,EDR 7E- East Central,Central,25635
+Morrison,4/25/2020,1,NA,097,B,Town/rural mix,EDR 5 - North Central,Northwest,32880
+Mower,4/25/2020,28,NA,099,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,39386
+Murray,4/25/2020,8,NA,101,A,Entirely rural,EDR 8 - Southwest,Southwest,8394
+Nicollet,4/25/2020,9,NA,103,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,33477
+Nobles,4/25/2020,325,NA,105,B,Town/rural mix,EDR 8 - Southwest,Southwest,21854
+Norman,4/25/2020,7,NA,107,A,Entirely rural,EDR 1 - Northwest,Northwest,6589
+Olmsted,4/25/2020,238,NA,109,D,Entirely urban,EDR 10 - Southeast,Southeast,151685
+Otter Tail,4/25/2020,8,NA,111,B,Town/rural mix,EDR 4 - West Central,Northwest,57790
+Pennington,4/25/2020,1,NA,113,B,Town/rural mix,EDR 1 - Northwest,Northwest,14197
+Pine,4/25/2020,45,NA,115,C,Urban/town/rural mix,EDR 7E- East Central,Central,29057
+Pipestone,4/25/2020,2,NA,117,B,Town/rural mix,EDR 8 - Southwest,Southwest,9229
+Polk,4/25/2020,20,NA,119,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,31564
+Pope,4/25/2020,NA,NA,121,B,Town/rural mix,EDR 4 - West Central,Northwest,10932
+Ramsey,4/25/2020,261,NA,123,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,537893
+Red Lake,4/25/2020,1,NA,125,A,Entirely rural,EDR 1 - Northwest,Northwest,4017
+Redwood,4/25/2020,1,NA,127,B,Town/rural mix,EDR 8 - Southwest,Southwest,15430
+Renville,4/25/2020,3,NA,129,A,Entirely rural,EDR 6E- Southwest Central,Central,14798
+Rice,4/25/2020,9,NA,131,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,65251
+Rock,4/25/2020,5,NA,133,C,Urban/town/rural mix,EDR 8 - Southwest,Southwest,9433
+Roseau,4/25/2020,1,NA,135,B,Town/rural mix,EDR 1 - Northwest,Northwest,15537
+Scott,4/25/2020,32,NA,139,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,141463
+Sherburne,4/25/2020,15,NA,141,D,Entirely urban,EDR 7W- Central,Central,92024
+Sibley,4/25/2020,1,NA,143,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,14888
+St. Louis,4/25/2020,61,NA,137,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,200294
+Stearns,4/25/2020,38,NA,145,C,Urban/town/rural mix,EDR 7W- Central,Central,155300
+Steele,4/25/2020,12,NA,147,B,Town/rural mix,EDR 10 - Southeast,Southeast,36612
+Stevens,4/25/2020,NA,NA,149,B,Town/rural mix,EDR 4 - West Central,Northwest,9759
+Swift,4/25/2020,1,NA,151,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9448
+Todd,4/25/2020,3,NA,153,B,Town/rural mix,EDR 5 - North Central,Northwest,24423
+Traverse,4/25/2020,2,NA,155,A,Entirely rural,EDR 4 - West Central,Northwest,3357
+Wabasha,4/25/2020,8,NA,157,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,21490
+Wadena,4/25/2020,NA,NA,159,B,Town/rural mix,EDR 5 - North Central,Northwest,13626
+Waseca,4/25/2020,3,NA,161,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,18898
+Washington,4/25/2020,112,NA,163,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,250979
+Watonwan,4/25/2020,5,NA,165,B,Town/rural mix,EDR 9 - South Central,Southwest,10936
+Wilkin,4/25/2020,11,NA,167,B,Town/rural mix,EDR 4 - West Central,Northwest,6398
+Winona,4/25/2020,66,NA,169,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,50992
+Wright,4/25/2020,33,NA,171,C,Urban/town/rural mix,EDR 7W- Central,Central,131130
+Yellow Medicine,4/25/2020,3,NA,173,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9930
+Aitkin,4/28/2020,1,NA,001,A,Entirely rural,EDR 3 - Arrowhead,Northeast,15841
+Anoka,4/28/2020,186,NA,003,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,344861
+Becker,4/28/2020,2,NA,005,C,Urban/town/rural mix,EDR 4 - West Central,Northwest,33552
+Beltrami,4/28/2020,6,NA,007,B,Town/rural mix,EDR 2 - Headwaters,Northwest,45847
+Benton,4/28/2020,6,NA,009,C,Urban/town/rural mix,EDR 7W- Central,Central,39360
+Big Stone,4/28/2020,2,NA,011,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,5039
+Blue Earth,4/28/2020,33,NA,013,D,Entirely urban,EDR 9 - South Central,Southwest,65767
+Brown,4/28/2020,8,NA,015,B,Town/rural mix,EDR 9 - South Central,Southwest,25243
+Carlton,4/28/2020,53,NA,017,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,35408
+Carver,4/28/2020,19,NA,019,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,98799
+Cass,4/28/2020,5,NA,021,B,Town/rural mix,EDR 5 - North Central,Northwest,28810
+Chippewa,4/28/2020,2,NA,023,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,12040
+Chisago,4/28/2020,9,NA,025,D,Entirely urban,EDR 7E- East Central,Central,54297
+Clay,4/28/2020,149,NA,027,D,Entirely urban,EDR 4 - West Central,Northwest,62040
+Clearwater,4/28/2020,2,NA,029,B,Town/rural mix,EDR 2 - Headwaters,Northwest,8824
+Cook,4/28/2020,NA,NA,031,A,Entirely rural,EDR 3 - Arrowhead,Northeast,5270
+Cottonwood,4/28/2020,11,NA,033,B,Town/rural mix,EDR 8 - Southwest,Southwest,11437
+Crow Wing,4/28/2020,20,NA,035,B,Town/rural mix,EDR 5 - North Central,Northwest,63505
+Dakota,4/28/2020,156,NA,037,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,414655
+Dodge,4/28/2020,19,NA,039,D,Entirely urban,EDR 10 - Southeast,Southeast,20485
+Douglas,4/28/2020,2,NA,041,B,Town/rural mix,EDR 4 - West Central,Northwest,36891
+Faribault,4/28/2020,4,NA,043,B,Town/rural mix,EDR 9 - South Central,Southwest,13966
+Fillmore,4/28/2020,12,NA,045,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,20825
+Freeborn,4/28/2020,34,NA,047,B,Town/rural mix,EDR 10 - Southeast,Southeast,30619
+Goodhue,4/28/2020,19,NA,049,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,46138
+Grant,4/28/2020,NA,NA,051,A,Entirely rural,EDR 4 - West Central,Northwest,5923
+Hennepin,4/28/2020,1524,NA,053,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,1224763
+Houston,4/28/2020,1,NA,055,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,18709
+Hubbard,4/28/2020,NA,NA,057,B,Town/rural mix,EDR 2 - Headwaters,Northwest,20743
+Isanti,4/28/2020,6,NA,059,C,Urban/town/rural mix,EDR 7E- East Central,Central,38584
+Itasca,4/28/2020,2,NA,061,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,45237
+Jackson,4/28/2020,9,NA,063,B,Town/rural mix,EDR 8 - Southwest,Southwest,10104
+Kanabec,4/28/2020,NA,NA,065,C,Urban/town/rural mix,EDR 7E- East Central,Central,15948
+Kandiyohi,4/28/2020,64,NA,067,B,Town/rural mix,EDR 6E- Southwest Central,Central,42577
+Kittson,4/28/2020,1,NA,069,A,Entirely rural,EDR 1 - Northwest,Northwest,4384
+Koochiching,4/28/2020,1,NA,071,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,12776
+Lac qui Parle,4/28/2020,1,NA,073,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,6840
+Lake,4/28/2020,NA,NA,075,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,10578
+Lake of the Woods,4/28/2020,NA,NA,077,A,Entirely rural,EDR 2 - Headwaters,Northwest,3841
+Le Sueur,4/28/2020,24,NA,079,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,27810
+Lincoln,4/28/2020,2,NA,081,A,Entirely rural,EDR 8 - Southwest,Southwest,5724
+Lyon,4/28/2020,6,NA,083,B,Town/rural mix,EDR 8 - Southwest,Southwest,25789
+Mahnomen,4/28/2020,1,NA,087,A,Entirely rural,EDR 2 - Headwaters,Northwest,5500
+Marshall,4/28/2020,1,NA,089,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,9397
+Martin,4/28/2020,52,NA,091,B,Town/rural mix,EDR 9 - South Central,Southwest,20084
+McLeod,4/28/2020,4,NA,085,C,Urban/town/rural mix,EDR 6E- Southwest Central,Central,35816
+Meeker,4/28/2020,9,NA,093,B,Town/rural mix,EDR 6E- Southwest Central,Central,23105
+Mille Lacs,4/28/2020,2,NA,095,C,Urban/town/rural mix,EDR 7E- East Central,Central,25635
+Morrison,4/28/2020,1,NA,097,B,Town/rural mix,EDR 5 - North Central,Northwest,32880
+Mower,4/28/2020,28,NA,099,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,39386
+Murray,4/28/2020,10,NA,101,A,Entirely rural,EDR 8 - Southwest,Southwest,8394
+Nicollet,4/28/2020,9,NA,103,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,33477
+Nobles,4/28/2020,477,NA,105,B,Town/rural mix,EDR 8 - Southwest,Southwest,21854
+Norman,4/28/2020,7,NA,107,A,Entirely rural,EDR 1 - Northwest,Northwest,6589
+Olmsted,4/28/2020,251,NA,109,D,Entirely urban,EDR 10 - Southeast,Southeast,151685
+Otter Tail,4/28/2020,8,NA,111,B,Town/rural mix,EDR 4 - West Central,Northwest,57790
+Pennington,4/28/2020,1,NA,113,B,Town/rural mix,EDR 1 - Northwest,Northwest,14197
+Pine,4/28/2020,56,NA,115,C,Urban/town/rural mix,EDR 7E- East Central,Central,29057
+Pipestone,4/28/2020,2,NA,117,B,Town/rural mix,EDR 8 - Southwest,Southwest,9229
+Polk,4/28/2020,26,NA,119,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,31564
+Pope,4/28/2020,NA,NA,121,B,Town/rural mix,EDR 4 - West Central,Northwest,10932
+Ramsey,4/28/2020,317,NA,123,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,537893
+Red Lake,4/28/2020,1,NA,125,A,Entirely rural,EDR 1 - Northwest,Northwest,4017
+Redwood,4/28/2020,1,NA,127,B,Town/rural mix,EDR 8 - Southwest,Southwest,15430
+Renville,4/28/2020,3,NA,129,A,Entirely rural,EDR 6E- Southwest Central,Central,14798
+Rice,4/28/2020,11,NA,131,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,65251
+Rock,4/28/2020,8,NA,133,C,Urban/town/rural mix,EDR 8 - Southwest,Southwest,9433
+Roseau,4/28/2020,1,NA,135,B,Town/rural mix,EDR 1 - Northwest,Northwest,15537
+Scott,4/28/2020,36,NA,139,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,141463
+Sherburne,4/28/2020,19,NA,141,D,Entirely urban,EDR 7W- Central,Central,92024
+Sibley,4/28/2020,2,NA,143,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,14888
+St. Louis,4/28/2020,69,NA,137,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,200294
+Stearns,4/28/2020,86,NA,145,C,Urban/town/rural mix,EDR 7W- Central,Central,155300
+Steele,4/28/2020,14,NA,147,B,Town/rural mix,EDR 10 - Southeast,Southeast,36612
+Stevens,4/28/2020,NA,NA,149,B,Town/rural mix,EDR 4 - West Central,Northwest,9759
+Swift,4/28/2020,2,NA,151,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9448
+Todd,4/28/2020,4,NA,153,B,Town/rural mix,EDR 5 - North Central,Northwest,24423
+Traverse,4/28/2020,2,NA,155,A,Entirely rural,EDR 4 - West Central,Northwest,3357
+Wabasha,4/28/2020,8,NA,157,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,21490
+Wadena,4/28/2020,1,NA,159,B,Town/rural mix,EDR 5 - North Central,Northwest,13626
+Waseca,4/28/2020,4,NA,161,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,18898
+Washington,4/28/2020,117,NA,163,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,250979
+Watonwan,4/28/2020,7,NA,165,B,Town/rural mix,EDR 9 - South Central,Southwest,10936
+Wilkin,4/28/2020,12,NA,167,B,Town/rural mix,EDR 4 - West Central,Northwest,6398
+Winona,4/28/2020,66,NA,169,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,50992
+Wright,4/28/2020,35,NA,171,C,Urban/town/rural mix,EDR 7W- Central,Central,131130
+Yellow Medicine,4/28/2020,3,NA,173,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9930
+Aitkin,4/29/2020,1,NA,001,A,Entirely rural,EDR 3 - Arrowhead,Northeast,15841
+Anoka,4/29/2020,196,NA,003,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,344861
+Becker,4/29/2020,2,NA,005,C,Urban/town/rural mix,EDR 4 - West Central,Northwest,33552
+Beltrami,4/29/2020,6,NA,007,B,Town/rural mix,EDR 2 - Headwaters,Northwest,45847
+Benton,4/29/2020,10,NA,009,C,Urban/town/rural mix,EDR 7W- Central,Central,39360
+Big Stone,4/29/2020,2,NA,011,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,5039
+Blue Earth,4/29/2020,34,NA,013,D,Entirely urban,EDR 9 - South Central,Southwest,65767
+Brown,4/29/2020,8,NA,015,B,Town/rural mix,EDR 9 - South Central,Southwest,25243
+Carlton,4/29/2020,55,NA,017,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,35408
+Carver,4/29/2020,20,NA,019,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,98799
+Cass,4/29/2020,5,NA,021,B,Town/rural mix,EDR 5 - North Central,Northwest,28810
+Chippewa,4/29/2020,2,NA,023,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,12040
+Chisago,4/29/2020,10,NA,025,D,Entirely urban,EDR 7E- East Central,Central,54297
+Clay,4/29/2020,152,NA,027,D,Entirely urban,EDR 4 - West Central,Northwest,62040
+Clearwater,4/29/2020,2,NA,029,B,Town/rural mix,EDR 2 - Headwaters,Northwest,8824
+Cook,4/29/2020,NA,NA,031,A,Entirely rural,EDR 3 - Arrowhead,Northeast,5270
+Cottonwood,4/29/2020,20,NA,033,B,Town/rural mix,EDR 8 - Southwest,Southwest,11437
+Crow Wing,4/29/2020,20,NA,035,B,Town/rural mix,EDR 5 - North Central,Northwest,63505
+Dakota,4/29/2020,157,NA,037,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,414655
+Dodge,4/29/2020,19,NA,039,D,Entirely urban,EDR 10 - Southeast,Southeast,20485
+Douglas,4/29/2020,2,NA,041,B,Town/rural mix,EDR 4 - West Central,Northwest,36891
+Faribault,4/29/2020,5,NA,043,B,Town/rural mix,EDR 9 - South Central,Southwest,13966
+Fillmore,4/29/2020,12,NA,045,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,20825
+Freeborn,4/29/2020,34,NA,047,B,Town/rural mix,EDR 10 - Southeast,Southeast,30619
+Goodhue,4/29/2020,19,NA,049,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,46138
+Grant,4/29/2020,NA,NA,051,A,Entirely rural,EDR 4 - West Central,Northwest,5923
+Hennepin,4/29/2020,1633,NA,053,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,1224763
+Houston,4/29/2020,1,NA,055,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,18709
+Hubbard,4/29/2020,NA,NA,057,B,Town/rural mix,EDR 2 - Headwaters,Northwest,20743
+Isanti,4/29/2020,6,NA,059,C,Urban/town/rural mix,EDR 7E- East Central,Central,38584
+Itasca,4/29/2020,3,NA,061,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,45237
+Jackson,4/29/2020,12,NA,063,B,Town/rural mix,EDR 8 - Southwest,Southwest,10104
+Kanabec,4/29/2020,NA,NA,065,C,Urban/town/rural mix,EDR 7E- East Central,Central,15948
+Kandiyohi,4/29/2020,88,NA,067,B,Town/rural mix,EDR 6E- Southwest Central,Central,42577
+Kittson,4/29/2020,1,NA,069,A,Entirely rural,EDR 1 - Northwest,Northwest,4384
+Koochiching,4/29/2020,1,NA,071,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,12776
+Lac qui Parle,4/29/2020,1,NA,073,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,6840
+Lake,4/29/2020,NA,NA,075,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,10578
+Lake of the Woods,4/29/2020,NA,NA,077,A,Entirely rural,EDR 2 - Headwaters,Northwest,3841
+Le Sueur,4/29/2020,24,NA,079,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,27810
+Lincoln,4/29/2020,3,NA,081,A,Entirely rural,EDR 8 - Southwest,Southwest,5724
+Lyon,4/29/2020,6,NA,083,B,Town/rural mix,EDR 8 - Southwest,Southwest,25789
+Mahnomen,4/29/2020,1,NA,087,A,Entirely rural,EDR 2 - Headwaters,Northwest,5500
+Marshall,4/29/2020,1,NA,089,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,9397
+Martin,4/29/2020,70,NA,091,B,Town/rural mix,EDR 9 - South Central,Southwest,20084
+McLeod,4/29/2020,4,NA,085,C,Urban/town/rural mix,EDR 6E- Southwest Central,Central,35816
+Meeker,4/29/2020,9,NA,093,B,Town/rural mix,EDR 6E- Southwest Central,Central,23105
+Mille Lacs,4/29/2020,2,NA,095,C,Urban/town/rural mix,EDR 7E- East Central,Central,25635
+Morrison,4/29/2020,2,NA,097,B,Town/rural mix,EDR 5 - North Central,Northwest,32880
+Mower,4/29/2020,28,NA,099,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,39386
+Murray,4/29/2020,11,NA,101,A,Entirely rural,EDR 8 - Southwest,Southwest,8394
+Nicollet,4/29/2020,9,NA,103,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,33477
+Nobles,4/29/2020,615,NA,105,B,Town/rural mix,EDR 8 - Southwest,Southwest,21854
+Norman,4/29/2020,8,NA,107,A,Entirely rural,EDR 1 - Northwest,Northwest,6589
+Olmsted,4/29/2020,256,NA,109,D,Entirely urban,EDR 10 - Southeast,Southeast,151685
+Otter Tail,4/29/2020,8,NA,111,B,Town/rural mix,EDR 4 - West Central,Northwest,57790
+Pennington,4/29/2020,1,NA,113,B,Town/rural mix,EDR 1 - Northwest,Northwest,14197
+Pine,4/29/2020,56,NA,115,C,Urban/town/rural mix,EDR 7E- East Central,Central,29057
+Pipestone,4/29/2020,2,NA,117,B,Town/rural mix,EDR 8 - Southwest,Southwest,9229
+Polk,4/29/2020,27,NA,119,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,31564
+Pope,4/29/2020,NA,NA,121,B,Town/rural mix,EDR 4 - West Central,Northwest,10932
+Ramsey,4/29/2020,332,NA,123,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,537893
+Red Lake,4/29/2020,1,NA,125,A,Entirely rural,EDR 1 - Northwest,Northwest,4017
+Redwood,4/29/2020,1,NA,127,B,Town/rural mix,EDR 8 - Southwest,Southwest,15430
+Renville,4/29/2020,4,NA,129,A,Entirely rural,EDR 6E- Southwest Central,Central,14798
+Rice,4/29/2020,12,NA,131,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,65251
+Rock,4/29/2020,9,NA,133,C,Urban/town/rural mix,EDR 8 - Southwest,Southwest,9433
+Roseau,4/29/2020,1,NA,135,B,Town/rural mix,EDR 1 - Northwest,Northwest,15537
+Scott,4/29/2020,41,NA,139,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,141463
+Sherburne,4/29/2020,26,NA,141,D,Entirely urban,EDR 7W- Central,Central,92024
+Sibley,4/29/2020,2,NA,143,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,14888
+St. Louis,4/29/2020,71,NA,137,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,200294
+Stearns,4/29/2020,166,NA,145,C,Urban/town/rural mix,EDR 7W- Central,Central,155300
+Steele,4/29/2020,15,NA,147,B,Town/rural mix,EDR 10 - Southeast,Southeast,36612
+Stevens,4/29/2020,NA,NA,149,B,Town/rural mix,EDR 4 - West Central,Northwest,9759
+Swift,4/29/2020,2,NA,151,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9448
+Todd,4/29/2020,7,NA,153,B,Town/rural mix,EDR 5 - North Central,Northwest,24423
+Traverse,4/29/2020,2,NA,155,A,Entirely rural,EDR 4 - West Central,Northwest,3357
+Wabasha,4/29/2020,8,NA,157,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,21490
+Wadena,4/29/2020,1,NA,159,B,Town/rural mix,EDR 5 - North Central,Northwest,13626
+Waseca,4/29/2020,4,NA,161,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,18898
+Washington,4/29/2020,120,NA,163,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,250979
+Watonwan,4/29/2020,9,NA,165,B,Town/rural mix,EDR 9 - South Central,Southwest,10936
+Wilkin,4/29/2020,12,NA,167,B,Town/rural mix,EDR 4 - West Central,Northwest,6398
+Winona,4/29/2020,66,NA,169,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,50992
+Wright,4/29/2020,40,NA,171,C,Urban/town/rural mix,EDR 7W- Central,Central,131130
+Yellow Medicine,4/29/2020,3,NA,173,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9930
+Aitkin,4/30/2020,1,NA,001,A,Entirely rural,EDR 3 - Arrowhead,Northeast,15841
+Anoka,4/30/2020,212,NA,003,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,344861
+Becker,4/30/2020,2,NA,005,C,Urban/town/rural mix,EDR 4 - West Central,Northwest,33552
+Beltrami,4/30/2020,6,NA,007,B,Town/rural mix,EDR 2 - Headwaters,Northwest,45847
+Benton,4/30/2020,15,NA,009,C,Urban/town/rural mix,EDR 7W- Central,Central,39360
+Big Stone,4/30/2020,2,NA,011,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,5039
+Blue Earth,4/30/2020,38,NA,013,D,Entirely urban,EDR 9 - South Central,Southwest,65767
+Brown,4/30/2020,8,NA,015,B,Town/rural mix,EDR 9 - South Central,Southwest,25243
+Carlton,4/30/2020,59,NA,017,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,35408
+Carver,4/30/2020,21,NA,019,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,98799
+Cass,4/30/2020,5,NA,021,B,Town/rural mix,EDR 5 - North Central,Northwest,28810
+Chippewa,4/30/2020,2,NA,023,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,12040
+Chisago,4/30/2020,11,NA,025,D,Entirely urban,EDR 7E- East Central,Central,54297
+Clay,4/30/2020,157,NA,027,D,Entirely urban,EDR 4 - West Central,Northwest,62040
+Clearwater,4/30/2020,2,NA,029,B,Town/rural mix,EDR 2 - Headwaters,Northwest,8824
+Cook,4/30/2020,NA,NA,031,A,Entirely rural,EDR 3 - Arrowhead,Northeast,5270
+Cottonwood,4/30/2020,20,NA,033,B,Town/rural mix,EDR 8 - Southwest,Southwest,11437
+Crow Wing,4/30/2020,20,NA,035,B,Town/rural mix,EDR 5 - North Central,Northwest,63505
+Dakota,4/30/2020,162,NA,037,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,414655
+Dodge,4/30/2020,21,NA,039,D,Entirely urban,EDR 10 - Southeast,Southeast,20485
+Douglas,4/30/2020,2,NA,041,B,Town/rural mix,EDR 4 - West Central,Northwest,36891
+Faribault,4/30/2020,5,NA,043,B,Town/rural mix,EDR 9 - South Central,Southwest,13966
+Fillmore,4/30/2020,12,NA,045,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,20825
+Freeborn,4/30/2020,34,NA,047,B,Town/rural mix,EDR 10 - Southeast,Southeast,30619
+Goodhue,4/30/2020,19,NA,049,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,46138
+Grant,4/30/2020,NA,NA,051,A,Entirely rural,EDR 4 - West Central,Northwest,5923
+Hennepin,4/30/2020,1738,NA,053,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,1224763
+Houston,4/30/2020,1,NA,055,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,18709
+Hubbard,4/30/2020,NA,NA,057,B,Town/rural mix,EDR 2 - Headwaters,Northwest,20743
+Isanti,4/30/2020,6,NA,059,C,Urban/town/rural mix,EDR 7E- East Central,Central,38584
+Itasca,4/30/2020,5,NA,061,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,45237
+Jackson,4/30/2020,14,NA,063,B,Town/rural mix,EDR 8 - Southwest,Southwest,10104
+Kanabec,4/30/2020,NA,NA,065,C,Urban/town/rural mix,EDR 7E- East Central,Central,15948
+Kandiyohi,4/30/2020,91,NA,067,B,Town/rural mix,EDR 6E- Southwest Central,Central,42577
+Kittson,4/30/2020,1,NA,069,A,Entirely rural,EDR 1 - Northwest,Northwest,4384
+Koochiching,4/30/2020,1,NA,071,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,12776
+Lac qui Parle,4/30/2020,1,NA,073,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,6840
+Lake,4/30/2020,NA,NA,075,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,10578
+Lake of the Woods,4/30/2020,NA,NA,077,A,Entirely rural,EDR 2 - Headwaters,Northwest,3841
+Le Sueur,4/30/2020,24,NA,079,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,27810
+Lincoln,4/30/2020,3,NA,081,A,Entirely rural,EDR 8 - Southwest,Southwest,5724
+Lyon,4/30/2020,7,NA,083,B,Town/rural mix,EDR 8 - Southwest,Southwest,25789
+Mahnomen,4/30/2020,2,NA,087,A,Entirely rural,EDR 2 - Headwaters,Northwest,5500
+Marshall,4/30/2020,1,NA,089,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,9397
+Martin,4/30/2020,88,NA,091,B,Town/rural mix,EDR 9 - South Central,Southwest,20084
+McLeod,4/30/2020,4,NA,085,C,Urban/town/rural mix,EDR 6E- Southwest Central,Central,35816
+Meeker,4/30/2020,11,NA,093,B,Town/rural mix,EDR 6E- Southwest Central,Central,23105
+Mille Lacs,4/30/2020,2,NA,095,C,Urban/town/rural mix,EDR 7E- East Central,Central,25635
+Morrison,4/30/2020,5,NA,097,B,Town/rural mix,EDR 5 - North Central,Northwest,32880
+Mower,4/30/2020,28,NA,099,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,39386
+Murray,4/30/2020,13,NA,101,A,Entirely rural,EDR 8 - Southwest,Southwest,8394
+Nicollet,4/30/2020,11,NA,103,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,33477
+Nobles,4/30/2020,742,NA,105,B,Town/rural mix,EDR 8 - Southwest,Southwest,21854
+Norman,4/30/2020,8,NA,107,A,Entirely rural,EDR 1 - Northwest,Northwest,6589
+Olmsted,4/30/2020,265,NA,109,D,Entirely urban,EDR 10 - Southeast,Southeast,151685
+Otter Tail,4/30/2020,9,NA,111,B,Town/rural mix,EDR 4 - West Central,Northwest,57790
+Pennington,4/30/2020,1,NA,113,B,Town/rural mix,EDR 1 - Northwest,Northwest,14197
+Pine,4/30/2020,56,NA,115,C,Urban/town/rural mix,EDR 7E- East Central,Central,29057
+Pipestone,4/30/2020,2,NA,117,B,Town/rural mix,EDR 8 - Southwest,Southwest,9229
+Polk,4/30/2020,27,NA,119,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,31564
+Pope,4/30/2020,NA,NA,121,B,Town/rural mix,EDR 4 - West Central,Northwest,10932
+Ramsey,4/30/2020,374,NA,123,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,537893
+Red Lake,4/30/2020,1,NA,125,A,Entirely rural,EDR 1 - Northwest,Northwest,4017
+Redwood,4/30/2020,2,NA,127,B,Town/rural mix,EDR 8 - Southwest,Southwest,15430
+Renville,4/30/2020,4,NA,129,A,Entirely rural,EDR 6E- Southwest Central,Central,14798
+Rice,4/30/2020,14,NA,131,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,65251
+Rock,4/30/2020,11,NA,133,C,Urban/town/rural mix,EDR 8 - Southwest,Southwest,9433
+Roseau,4/30/2020,1,NA,135,B,Town/rural mix,EDR 1 - Northwest,Northwest,15537
+Scott,4/30/2020,44,NA,139,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,141463
+Sherburne,4/30/2020,28,NA,141,D,Entirely urban,EDR 7W- Central,Central,92024
+Sibley,4/30/2020,2,NA,143,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,14888
+St. Louis,4/30/2020,71,NA,137,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,200294
+Stearns,4/30/2020,267,NA,145,C,Urban/town/rural mix,EDR 7W- Central,Central,155300
+Steele,4/30/2020,16,NA,147,B,Town/rural mix,EDR 10 - Southeast,Southeast,36612
+Stevens,4/30/2020,NA,NA,149,B,Town/rural mix,EDR 4 - West Central,Northwest,9759
+Swift,4/30/2020,2,NA,151,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9448
+Todd,4/30/2020,7,NA,153,B,Town/rural mix,EDR 5 - North Central,Northwest,24423
+Traverse,4/30/2020,2,NA,155,A,Entirely rural,EDR 4 - West Central,Northwest,3357
+Wabasha,4/30/2020,8,NA,157,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,21490
+Wadena,4/30/2020,1,NA,159,B,Town/rural mix,EDR 5 - North Central,Northwest,13626
+Waseca,4/30/2020,4,NA,161,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,18898
+Washington,4/30/2020,131,NA,163,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,250979
+Watonwan,4/30/2020,11,NA,165,B,Town/rural mix,EDR 9 - South Central,Southwest,10936
+Wilkin,4/30/2020,12,NA,167,B,Town/rural mix,EDR 4 - West Central,Northwest,6398
+Winona,4/30/2020,66,NA,169,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,50992
+Wright,4/30/2020,42,NA,171,C,Urban/town/rural mix,EDR 7W- Central,Central,131130
+Yellow Medicine,4/30/2020,3,NA,173,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9930
+Aitkin,5/13/2020,2,0,001,A,Entirely rural,EDR 3 - Arrowhead,Northeast,15841
+Anoka,5/13/2020,613,31,003,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,344861
+Becker,5/13/2020,25,0,005,C,Urban/town/rural mix,EDR 4 - West Central,Northwest,33552
+Beltrami,5/13/2020,6,0,007,B,Town/rural mix,EDR 2 - Headwaters,Northwest,45847
+Benton,5/13/2020,100,2,009,C,Urban/town/rural mix,EDR 7W- Central,Central,39360
+Big Stone,5/13/2020,2,0,011,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,5039
+Blue Earth,5/13/2020,67,0,013,D,Entirely urban,EDR 9 - South Central,Southwest,65767
+Brown,5/13/2020,9,1,015,B,Town/rural mix,EDR 9 - South Central,Southwest,25243
+Carlton,5/13/2020,65,0,017,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,35408
+Carver,5/13/2020,95,1,019,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,98799
+Cass,5/13/2020,8,2,021,B,Town/rural mix,EDR 5 - North Central,Northwest,28810
+Chippewa,5/13/2020,21,0,023,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,12040
+Chisago,5/13/2020,23,1,025,D,Entirely urban,EDR 7E- East Central,Central,54297
+Clay,5/13/2020,254,17,027,D,Entirely urban,EDR 4 - West Central,Northwest,62040
+Clearwater,5/13/2020,2,0,029,B,Town/rural mix,EDR 2 - Headwaters,Northwest,8824
+Cook,5/13/2020,NA,NA,031,A,Entirely rural,EDR 3 - Arrowhead,Northeast,5270
+Cottonwood,5/13/2020,47,0,033,B,Town/rural mix,EDR 8 - Southwest,Southwest,11437
+Crow Wing,5/13/2020,23,1,035,B,Town/rural mix,EDR 5 - North Central,Northwest,63505
+Dakota,5/13/2020,508,15,037,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,414655
+Dodge,5/13/2020,26,0,039,D,Entirely urban,EDR 10 - Southeast,Southeast,20485
+Douglas,5/13/2020,17,0,041,B,Town/rural mix,EDR 4 - West Central,Northwest,36891
+Faribault,5/13/2020,10,0,043,B,Town/rural mix,EDR 9 - South Central,Southwest,13966
+Fillmore,5/13/2020,14,1,045,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,20825
+Freeborn,5/13/2020,46,0,047,B,Town/rural mix,EDR 10 - Southeast,Southeast,30619
+Goodhue,5/13/2020,26,0,049,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,46138
+Grant,5/13/2020,2,0,051,A,Entirely rural,EDR 4 - West Central,Northwest,5923
+Hennepin,5/13/2020,4033,412,053,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,1224763
+Houston,5/13/2020,2,0,055,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,18709
+Hubbard,5/13/2020,NA,NA,057,B,Town/rural mix,EDR 2 - Headwaters,Northwest,20743
+Isanti,5/13/2020,10,0,059,C,Urban/town/rural mix,EDR 7E- East Central,Central,38584
+Itasca,5/13/2020,35,2,061,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,45237
+Jackson,5/13/2020,33,0,063,B,Town/rural mix,EDR 8 - Southwest,Southwest,10104
+Kanabec,5/13/2020,10,0,065,C,Urban/town/rural mix,EDR 7E- East Central,Central,15948
+Kandiyohi,5/13/2020,367,1,067,B,Town/rural mix,EDR 6E- Southwest Central,Central,42577
+Kittson,5/13/2020,1,0,069,A,Entirely rural,EDR 1 - Northwest,Northwest,4384
+Koochiching,5/13/2020,2,0,071,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,12776
+Lac qui Parle,5/13/2020,2,0,073,A,Entirely rural,EDR 6W- Upper Minnesota Valley,Southwest,6840
+Lake,5/13/2020,1,0,075,B,Town/rural mix,EDR 3 - Arrowhead,Northeast,10578
+Lake of the Woods,5/13/2020,NA,NA,077,A,Entirely rural,EDR 2 - Headwaters,Northwest,3841
+Le Sueur,5/13/2020,31,1,079,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,27810
+Lincoln,5/13/2020,4,0,081,A,Entirely rural,EDR 8 - Southwest,Southwest,5724
+Lyon,5/13/2020,20,0,083,B,Town/rural mix,EDR 8 - Southwest,Southwest,25789
+Mahnomen,5/13/2020,3,1,087,A,Entirely rural,EDR 2 - Headwaters,Northwest,5500
+Marshall,5/13/2020,8,0,089,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,9397
+Martin,5/13/2020,112,4,091,B,Town/rural mix,EDR 9 - South Central,Southwest,20084
+McLeod,5/13/2020,14,0,085,C,Urban/town/rural mix,EDR 6E- Southwest Central,Central,35816
+Meeker,5/13/2020,23,0,093,B,Town/rural mix,EDR 6E- Southwest Central,Central,23105
+Mille Lacs,5/13/2020,7,1,095,C,Urban/town/rural mix,EDR 7E- East Central,Central,25635
+Morrison,5/13/2020,16,0,097,B,Town/rural mix,EDR 5 - North Central,Northwest,32880
+Mower,5/13/2020,45,0,099,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,39386
+Murray,5/13/2020,29,0,101,A,Entirely rural,EDR 8 - Southwest,Southwest,8394
+Nicollet,5/13/2020,22,2,103,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,33477
+Nobles,5/13/2020,1291,2,105,B,Town/rural mix,EDR 8 - Southwest,Southwest,21854
+Norman,5/13/2020,11,0,107,A,Entirely rural,EDR 1 - Northwest,Northwest,6589
+Olmsted,5/13/2020,378,9,109,D,Entirely urban,EDR 10 - Southeast,Southeast,151685
+Otter Tail,5/13/2020,25,0,111,B,Town/rural mix,EDR 4 - West Central,Northwest,57790
+Pennington,5/13/2020,1,0,113,B,Town/rural mix,EDR 1 - Northwest,Northwest,14197
+Pine,5/13/2020,73,0,115,C,Urban/town/rural mix,EDR 7E- East Central,Central,29057
+Pipestone,5/13/2020,7,0,117,B,Town/rural mix,EDR 8 - Southwest,Southwest,9229
+Polk,5/13/2020,54,1,119,C,Urban/town/rural mix,EDR 1 - Northwest,Northwest,31564
+Pope,5/13/2020,5,0,121,B,Town/rural mix,EDR 4 - West Central,Northwest,10932
+Ramsey,5/13/2020,1052,49,123,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,537893
+Red Lake,5/13/2020,2,0,125,A,Entirely rural,EDR 1 - Northwest,Northwest,4017
+Redwood,5/13/2020,3,0,127,B,Town/rural mix,EDR 8 - Southwest,Southwest,15430
+Renville,5/13/2020,6,0,129,A,Entirely rural,EDR 6E- Southwest Central,Central,14798
+Rice,5/13/2020,134,2,131,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,65251
+Rock,5/13/2020,19,0,133,C,Urban/town/rural mix,EDR 8 - Southwest,Southwest,9433
+Roseau,5/13/2020,1,0,135,B,Town/rural mix,EDR 1 - Northwest,Northwest,15537
+Scott,5/13/2020,168,1,139,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,141463
+Sherburne,5/13/2020,122,1,141,D,Entirely urban,EDR 7W- Central,Central,92024
+Sibley,5/13/2020,4,0,143,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,14888
+St. Louis,5/13/2020,96,12,137,C,Urban/town/rural mix,EDR 3 - Arrowhead,Northeast,200294
+Stearns,5/13/2020,1512,6,145,C,Urban/town/rural mix,EDR 7W- Central,Central,155300
+Steele,5/13/2020,73,0,147,B,Town/rural mix,EDR 10 - Southeast,Southeast,36612
+Stevens,5/13/2020,1,0,149,B,Town/rural mix,EDR 4 - West Central,Northwest,9759
+Swift,5/13/2020,9,0,151,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9448
+Todd,5/13/2020,42,0,153,B,Town/rural mix,EDR 5 - North Central,Northwest,24423
+Traverse,5/13/2020,3,0,155,A,Entirely rural,EDR 4 - West Central,Northwest,3357
+Wabasha,5/13/2020,13,0,157,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,21490
+Wadena,5/13/2020,4,0,159,B,Town/rural mix,EDR 5 - North Central,Northwest,13626
+Waseca,5/13/2020,16,0,161,C,Urban/town/rural mix,EDR 9 - South Central,Southwest,18898
+Washington,5/13/2020,266,16,163,D,Entirely urban,EDR 11 - 7 County Twin Cities,Seven County Mpls-St Paul,250979
+Watonwan,5/13/2020,28,0,165,B,Town/rural mix,EDR 9 - South Central,Southwest,10936
+Wilkin,5/13/2020,11,3,167,B,Town/rural mix,EDR 4 - West Central,Northwest,6398
+Winona,5/13/2020,71,15,169,C,Urban/town/rural mix,EDR 10 - Southeast,Southeast,50992
+Wright,5/13/2020,119,1,171,C,Urban/town/rural mix,EDR 7W- Central,Central,131130
+Yellow Medicine,5/13/2020,3,0,173,B,Town/rural mix,EDR 6W- Upper Minnesota Valley,Southwest,9930
+Minnesota,5/13/2020,NA,NA,000,NA,Minnesota,Minnesota,Minnesota,NA

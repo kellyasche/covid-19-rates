@@ -1,0 +1,12 @@
+name: "COVID-19-cases-analysis"
+output_dir: docs
+navbar:
+  title: "COVID-19 cases per 100,000"
+  left:
+    - text: "Cases per 100,000"
+      href: index.html
+    - text: "Cases per 100,000"
+      href: COVID-19-case-rate-analysis.html
+
+output:
+  html_document:
