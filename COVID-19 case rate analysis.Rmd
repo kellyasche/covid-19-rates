@@ -5,7 +5,6 @@ output:
     toc: true
     toc_float: true
     toc_depth: 4
-runtime: shiny
 resource_files:
 - Data/Shapefiles/County shapefiles/MNCounties_MNDOT.cpg
 - Data/Shapefiles/County shapefiles/MNCounties_MNDOT.dbf
@@ -116,14 +115,29 @@ Date = mdy(Date)) %>%
 
 # Cases per 100k{.tabset}
 
-Summary here
+Below are the confirmed COVID-19 cases per 100,000 population. 
+
+The map below confirms that despite there being a lower number of cases in rural Minnesota, the rate at which the virus is spreading among the population is equal to, and in some cases larger than in our metropolitan areas of the state. In particular, counties in Southwest Minnesota have some of the highest rates of COVID-19 in the state.
+
+The map also highlights the differences between southern and northern Minnesota. A line can be drawn across Minnesota (west-to-east) just north of stearns county providing a division of counties that are being impacted more (south) vs. counties that have yet to see a severe outbreak (north).
+
+When breaking the cases per 100,000 population down by rural-urban commuting areas highlights the fact that rural areas have higher rates of COVID-19. Counties designated as "town/rural mix" have a rate of 100 people per 100,000 more than in urban and urban/town/rural mix counties. Our entirely rural counties, however, have the lowest rate.
+
+Broken down by planning regions, Southwest and Central have the highest COVID-19 rates in the state, followed by the seven-county metro, Southeast, Northwest and then Northeast.
+
+Finally, the EDR charts highlights the concentration of the rates currently. EDRs 7W-Central, 6E-Southwest Central, and 8-Southwest have the highest rates in the state by a significant margin.
+
 
 ```{r prep cases per 100k , include=FALSE, cache=TRUE}
 case.county.map <- master.cases %>%
   filter(Date == max(Date),
          County != "Minnesota") %>%
   mutate(cases.100k = Cases / pop.100k,
-         deaths.100k = Deaths / pop.100k) %>%
+         deaths.100k = Deaths / pop.100k,
+         cases.100k.log = log(cases.100k),
+         cases.100k.bins = cut(cases.100k,
+                               breaks = c(-1, 50, 105, 200, 500, 6000),
+                               labels = c("1-49", "50-104", "105-199", "200-499", "500-6,000"))) %>%
   left_join(mn_counties[,c(4,7)], by = c("countyfp" = "FIPS_CODE")) %>%
   st_as_sf()  
 
@@ -173,8 +187,8 @@ case.100k.edr <- master.cases %>%
 ```{r map cases per 100k map}
 cases.100k.county.map <- ggplot(case.county.centroid.map) +
   geom_sf_interactive(fill = "grey", aes(tooltip = paste(County, "\nAs of: ", Date, "\nTotal cases: ", comma(Cases, accuracy = 1.0), "\nTotal population: ", comma(total.pop, accuracy = 1.0), "\nCases per 100,000 population: ", comma(cases.100k, accuracy = 0.01), sep = ""), data_id = County, geometry = geometry)) +
-  geom_point_interactive(aes(x = X, y = Y, size = cases.100k, color = cases.100k, data_id = County, tooltip = paste(County, "\nAs of: ", Date, "\nTotal cases: ", comma(Cases, accuracy = 1.0), "\nTotal population: ", comma(total.pop, accuracy = 1.0), "\nCases per 100,000 population: ", comma(cases.100k, accuracy = 0.01), sep = "")), alpha = .9) +
-  scale_size_continuous(range = c(1,6)) +
+  geom_point_interactive(aes(x = X, y = Y, size = cases.100k.bins, color = cases.100k, data_id = County, tooltip = paste(County, "\nAs of: ", Date, "\nTotal cases: ", comma(Cases, accuracy = 1.0), "\nTotal population: ", comma(total.pop, accuracy = 1.0), "\nCases per 100,000 population: ", comma(cases.100k, accuracy = 0.01), sep = ""))) +
+  scale_size_manual(values = c(1,3,5,7,9)) +
   scale_color_viridis(trans = "log") +
   theme_sf+
   labs(title=paste("COVID-19 cases per 100,000 as of ", max(case.county.map$Date), sep = ""), x = "", y = "") +
