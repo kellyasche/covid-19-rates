@@ -1,0 +1,610 @@
+County,total.pop,Date,Cases
+"Aitkin County, Minnesota",15841,4/22/2020,1
+"Anoka County, Minnesota",344861,4/22/2020,105
+"Becker County, Minnesota",33552,4/22/2020,2
+"Beltrami County, Minnesota",45847,4/22/2020,6
+"Benton County, Minnesota",39360,4/22/2020,4
+"Big Stone County, Minnesota",5039,4/22/2020,1
+"Blue Earth County, Minnesota",65767,4/22/2020,26
+"Brown County, Minnesota",25243,4/22/2020,8
+"Carlton County, Minnesota",35408,4/22/2020,38
+"Carver County, Minnesota",98799,4/22/2020,15
+"Cass County, Minnesota",28810,4/22/2020,4
+"Chippewa County, Minnesota",12040,4/22/2020,1
+"Chisago County, Minnesota",54297,4/22/2020,7
+"Clay County, Minnesota",62040,4/22/2020,79
+"Clearwater County, Minnesota",8824,4/22/2020,2
+"Cook County, Minnesota",5270,4/22/2020,NA
+"Cottonwood County, Minnesota",11437,4/22/2020,6
+"Crow Wing County, Minnesota",63505,4/22/2020,20
+"Dakota County, Minnesota",414655,4/22/2020,130
+"Dodge County, Minnesota",20485,4/22/2020,18
+"Douglas County, Minnesota",36891,4/22/2020,2
+"Faribault County, Minnesota",13966,4/22/2020,4
+"Fillmore County, Minnesota",20825,4/22/2020,11
+"Freeborn County, Minnesota",30619,4/22/2020,33
+"Goodhue County, Minnesota",46138,4/22/2020,19
+"Grant County, Minnesota",5923,4/22/2020,NA
+"Hennepin County, Minnesota",1224763,4/22/2020,1073
+"Houston County, Minnesota",18709,4/22/2020,1
+"Hubbard County, Minnesota",20743,4/22/2020,NA
+"Isanti County, Minnesota",38584,4/22/2020,6
+"Itasca County, Minnesota",45237,4/22/2020,2
+"Jackson County, Minnesota",10104,4/22/2020,3
+"Kanabec County, Minnesota",15948,4/22/2020,NA
+"Kandiyohi County, Minnesota",42577,4/22/2020,3
+"Kittson County, Minnesota",4384,4/22/2020,1
+"Koochiching County, Minnesota",12776,4/22/2020,1
+"Lac qui Parle County, Minnesota",6840,4/22/2020,1
+"Lake County, Minnesota",10578,4/22/2020,NA
+"Lake of the Woods County, Minnesota",3841,4/22/2020,NA
+"Le Sueur County, Minnesota",27810,4/22/2020,22
+"Lincoln County, Minnesota",5724,4/22/2020,2
+"Lyon County, Minnesota",25789,4/22/2020,6
+"Mahnomen County, Minnesota",5500,4/22/2020,1
+"Marshall County, Minnesota",9397,4/22/2020,1
+"Martin County, Minnesota",20084,4/22/2020,41
+"McLeod County, Minnesota",35816,4/22/2020,3
+"Meeker County, Minnesota",23105,4/22/2020,3
+"Mille Lacs County, Minnesota",25635,4/22/2020,1
+"Morrison County, Minnesota",32880,4/22/2020,1
+"Mower County, Minnesota",39386,4/22/2020,27
+"Murray County, Minnesota",8394,4/22/2020,3
+"Nicollet County, Minnesota",33477,4/22/2020,8
+"Nobles County, Minnesota",21854,4/22/2020,126
+"Norman County, Minnesota",6589,4/22/2020,6
+"Olmsted County, Minnesota",151685,4/22/2020,204
+"Otter Tail County, Minnesota",57790,4/22/2020,6
+"Pennington County, Minnesota",14197,4/22/2020,1
+"Pine County, Minnesota",29057,4/22/2020,15
+"Pipestone County, Minnesota",9229,4/22/2020,2
+"Polk County, Minnesota",31564,4/22/2020,17
+"Pope County, Minnesota",10932,4/22/2020,NA
+"Ramsey County, Minnesota",537893,4/22/2020,219
+"Red Lake County, Minnesota",4017,4/22/2020,1
+"Redwood County, Minnesota",15430,4/22/2020,1
+"Renville County, Minnesota",14798,4/22/2020,3
+"Rice County, Minnesota",65251,4/22/2020,7
+"Rock County, Minnesota",9433,4/22/2020,5
+"Roseau County, Minnesota",15537,4/22/2020,1
+"Scott County, Minnesota",141463,4/22/2020,28
+"Sherburne County, Minnesota",92024,4/22/2020,13
+"Sibley County, Minnesota",14888,4/22/2020,1
+"St. Louis County, Minnesota",200294,4/22/2020,54
+"Stearns County, Minnesota",155300,4/22/2020,20
+"Steele County, Minnesota",36612,4/22/2020,10
+"Stevens County, Minnesota",9759,4/22/2020,NA
+"Swift County, Minnesota",9448,4/22/2020,1
+"Todd County, Minnesota",24423,4/22/2020,3
+"Traverse County, Minnesota",3357,4/22/2020,2
+"Wabasha County, Minnesota",21490,4/22/2020,8
+"Wadena County, Minnesota",13626,4/22/2020,NA
+"Waseca County, Minnesota",18898,4/22/2020,3
+"Washington County, Minnesota",250979,4/22/2020,100
+"Watonwan County, Minnesota",10936,4/22/2020,4
+"Wilkin County, Minnesota",6398,4/22/2020,10
+"Winona County, Minnesota",50992,4/22/2020,61
+"Wright County, Minnesota",131130,4/22/2020,30
+"Yellow Medicine County, Minnesota",9930,4/22/2020,3
+"Aitkin County, Minnesota",15841,4/23/2020,1
+"Anoka County, Minnesota",344861,4/23/2020,131
+"Becker County, Minnesota",33552,4/23/2020,2
+"Beltrami County, Minnesota",45847,4/23/2020,6
+"Benton County, Minnesota",39360,4/23/2020,4
+"Big Stone County, Minnesota",5039,4/23/2020,1
+"Blue Earth County, Minnesota",65767,4/23/2020,26
+"Brown County, Minnesota",25243,4/23/2020,8
+"Carlton County, Minnesota",35408,4/23/2020,38
+"Carver County, Minnesota",98799,4/23/2020,15
+"Cass County, Minnesota",28810,4/23/2020,5
+"Chippewa County, Minnesota",12040,4/23/2020,1
+"Chisago County, Minnesota",54297,4/23/2020,7
+"Clay County, Minnesota",62040,4/23/2020,84
+"Clearwater County, Minnesota",8824,4/23/2020,2
+"Cook County, Minnesota",5270,4/23/2020,NA
+"Cottonwood County, Minnesota",11437,4/23/2020,6
+"Crow Wing County, Minnesota",63505,4/23/2020,20
+"Dakota County, Minnesota",414655,4/23/2020,131
+"Dodge County, Minnesota",20485,4/23/2020,18
+"Douglas County, Minnesota",36891,4/23/2020,2
+"Faribault County, Minnesota",13966,4/23/2020,4
+"Fillmore County, Minnesota",20825,4/23/2020,12
+"Freeborn County, Minnesota",30619,4/23/2020,33
+"Goodhue County, Minnesota",46138,4/23/2020,19
+"Grant County, Minnesota",5923,4/23/2020,NA
+"Hennepin County, Minnesota",1224763,4/23/2020,1132
+"Houston County, Minnesota",18709,4/23/2020,1
+"Hubbard County, Minnesota",20743,4/23/2020,NA
+"Isanti County, Minnesota",38584,4/23/2020,6
+"Itasca County, Minnesota",45237,4/23/2020,2
+"Jackson County, Minnesota",10104,4/23/2020,5
+"Kanabec County, Minnesota",15948,4/23/2020,NA
+"Kandiyohi County, Minnesota",42577,4/23/2020,4
+"Kittson County, Minnesota",4384,4/23/2020,1
+"Koochiching County, Minnesota",12776,4/23/2020,1
+"Lac qui Parle County, Minnesota",6840,4/23/2020,1
+"Lake County, Minnesota",10578,4/23/2020,NA
+"Lake of the Woods County, Minnesota",3841,4/23/2020,NA
+"Le Sueur County, Minnesota",27810,4/23/2020,22
+"Lincoln County, Minnesota",5724,4/23/2020,2
+"Lyon County, Minnesota",25789,4/23/2020,6
+"Mahnomen County, Minnesota",5500,4/23/2020,1
+"Marshall County, Minnesota",9397,4/23/2020,1
+"Martin County, Minnesota",20084,4/23/2020,41
+"McLeod County, Minnesota",35816,4/23/2020,3
+"Meeker County, Minnesota",23105,4/23/2020,3
+"Mille Lacs County, Minnesota",25635,4/23/2020,1
+"Morrison County, Minnesota",32880,4/23/2020,1
+"Mower County, Minnesota",39386,4/23/2020,27
+"Murray County, Minnesota",8394,4/23/2020,4
+"Nicollet County, Minnesota",33477,4/23/2020,8
+"Nobles County, Minnesota",21854,4/23/2020,196
+"Norman County, Minnesota",6589,4/23/2020,6
+"Olmsted County, Minnesota",151685,4/23/2020,213
+"Otter Tail County, Minnesota",57790,4/23/2020,6
+"Pennington County, Minnesota",14197,4/23/2020,1
+"Pine County, Minnesota",29057,4/23/2020,26
+"Pipestone County, Minnesota",9229,4/23/2020,2
+"Polk County, Minnesota",31564,4/23/2020,19
+"Pope County, Minnesota",10932,4/23/2020,NA
+"Ramsey County, Minnesota",537893,4/23/2020,235
+"Red Lake County, Minnesota",4017,4/23/2020,1
+"Redwood County, Minnesota",15430,4/23/2020,1
+"Renville County, Minnesota",14798,4/23/2020,3
+"Rice County, Minnesota",65251,4/23/2020,8
+"Rock County, Minnesota",9433,4/23/2020,5
+"Roseau County, Minnesota",15537,4/23/2020,1
+"Scott County, Minnesota",141463,4/23/2020,29
+"Sherburne County, Minnesota",92024,4/23/2020,15
+"Sibley County, Minnesota",14888,4/23/2020,1
+"St. Louis County, Minnesota",200294,4/23/2020,58
+"Stearns County, Minnesota",155300,4/23/2020,25
+"Steele County, Minnesota",36612,4/23/2020,10
+"Stevens County, Minnesota",9759,4/23/2020,NA
+"Swift County, Minnesota",9448,4/23/2020,1
+"Todd County, Minnesota",24423,4/23/2020,3
+"Traverse County, Minnesota",3357,4/23/2020,2
+"Wabasha County, Minnesota",21490,4/23/2020,8
+"Wadena County, Minnesota",13626,4/23/2020,NA
+"Waseca County, Minnesota",18898,4/23/2020,3
+"Washington County, Minnesota",250979,4/23/2020,100
+"Watonwan County, Minnesota",10936,4/23/2020,4
+"Wilkin County, Minnesota",6398,4/23/2020,11
+"Winona County, Minnesota",50992,4/23/2020,62
+"Wright County, Minnesota",131130,4/23/2020,32
+"Yellow Medicine County, Minnesota",9930,4/23/2020,3
+"Aitkin County, Minnesota",15841,4/24/2020,1
+"Anoka County, Minnesota",344861,4/24/2020,142
+"Becker County, Minnesota",33552,4/24/2020,2
+"Beltrami County, Minnesota",45847,4/24/2020,6
+"Benton County, Minnesota",39360,4/24/2020,4
+"Big Stone County, Minnesota",5039,4/24/2020,1
+"Blue Earth County, Minnesota",65767,4/24/2020,27
+"Brown County, Minnesota",25243,4/24/2020,8
+"Carlton County, Minnesota",35408,4/24/2020,46
+"Carver County, Minnesota",98799,4/24/2020,15
+"Cass County, Minnesota",28810,4/24/2020,5
+"Chippewa County, Minnesota",12040,4/24/2020,1
+"Chisago County, Minnesota",54297,4/24/2020,7
+"Clay County, Minnesota",62040,4/24/2020,100
+"Clearwater County, Minnesota",8824,4/24/2020,2
+"Cook County, Minnesota",5270,4/24/2020,NA
+"Cottonwood County, Minnesota",11437,4/24/2020,6
+"Crow Wing County, Minnesota",63505,4/24/2020,20
+"Dakota County, Minnesota",414655,4/24/2020,136
+"Dodge County, Minnesota",20485,4/24/2020,18
+"Douglas County, Minnesota",36891,4/24/2020,2
+"Faribault County, Minnesota",13966,4/24/2020,4
+"Fillmore County, Minnesota",20825,4/24/2020,12
+"Freeborn County, Minnesota",30619,4/24/2020,33
+"Goodhue County, Minnesota",46138,4/24/2020,19
+"Grant County, Minnesota",5923,4/24/2020,NA
+"Hennepin County, Minnesota",1224763,4/24/2020,1200
+"Houston County, Minnesota",18709,4/24/2020,1
+"Hubbard County, Minnesota",20743,4/24/2020,NA
+"Isanti County, Minnesota",38584,4/24/2020,6
+"Itasca County, Minnesota",45237,4/24/2020,2
+"Jackson County, Minnesota",10104,4/24/2020,6
+"Kanabec County, Minnesota",15948,4/24/2020,NA
+"Kandiyohi County, Minnesota",42577,4/24/2020,12
+"Kittson County, Minnesota",4384,4/24/2020,1
+"Koochiching County, Minnesota",12776,4/24/2020,1
+"Lac qui Parle County, Minnesota",6840,4/24/2020,1
+"Lake County, Minnesota",10578,4/24/2020,NA
+"Lake of the Woods County, Minnesota",3841,4/24/2020,NA
+"Le Sueur County, Minnesota",27810,4/24/2020,22
+"Lincoln County, Minnesota",5724,4/24/2020,2
+"Lyon County, Minnesota",25789,4/24/2020,6
+"Mahnomen County, Minnesota",5500,4/24/2020,1
+"Marshall County, Minnesota",9397,4/24/2020,1
+"Martin County, Minnesota",20084,4/24/2020,41
+"McLeod County, Minnesota",35816,4/24/2020,3
+"Meeker County, Minnesota",23105,4/24/2020,3
+"Mille Lacs County, Minnesota",25635,4/24/2020,1
+"Morrison County, Minnesota",32880,4/24/2020,1
+"Mower County, Minnesota",39386,4/24/2020,28
+"Murray County, Minnesota",8394,4/24/2020,5
+"Nicollet County, Minnesota",33477,4/24/2020,8
+"Nobles County, Minnesota",21854,4/24/2020,258
+"Norman County, Minnesota",6589,4/24/2020,7
+"Olmsted County, Minnesota",151685,4/24/2020,219
+"Otter Tail County, Minnesota",57790,4/24/2020,6
+"Pennington County, Minnesota",14197,4/24/2020,1
+"Pine County, Minnesota",29057,4/24/2020,43
+"Pipestone County, Minnesota",9229,4/24/2020,2
+"Polk County, Minnesota",31564,4/24/2020,19
+"Pope County, Minnesota",10932,4/24/2020,NA
+"Ramsey County, Minnesota",537893,4/24/2020,247
+"Red Lake County, Minnesota",4017,4/24/2020,1
+"Redwood County, Minnesota",15430,4/24/2020,1
+"Renville County, Minnesota",14798,4/24/2020,3
+"Rice County, Minnesota",65251,4/24/2020,9
+"Rock County, Minnesota",9433,4/24/2020,5
+"Roseau County, Minnesota",15537,4/24/2020,1
+"Scott County, Minnesota",141463,4/24/2020,30
+"Sherburne County, Minnesota",92024,4/24/2020,15
+"Sibley County, Minnesota",14888,4/24/2020,1
+"St. Louis County, Minnesota",200294,4/24/2020,59
+"Stearns County, Minnesota",155300,4/24/2020,33
+"Steele County, Minnesota",36612,4/24/2020,11
+"Stevens County, Minnesota",9759,4/24/2020,NA
+"Swift County, Minnesota",9448,4/24/2020,1
+"Todd County, Minnesota",24423,4/24/2020,3
+"Traverse County, Minnesota",3357,4/24/2020,2
+"Wabasha County, Minnesota",21490,4/24/2020,8
+"Wadena County, Minnesota",13626,4/24/2020,NA
+"Waseca County, Minnesota",18898,4/24/2020,3
+"Washington County, Minnesota",250979,4/24/2020,107
+"Watonwan County, Minnesota",10936,4/24/2020,5
+"Wilkin County, Minnesota",6398,4/24/2020,11
+"Winona County, Minnesota",50992,4/24/2020,64
+"Wright County, Minnesota",131130,4/24/2020,32
+"Yellow Medicine County, Minnesota",9930,4/24/2020,3
+"Aitkin County, Minnesota",15841,4/25/2020,1
+"Anoka County, Minnesota",344861,4/25/2020,150
+"Becker County, Minnesota",33552,4/25/2020,2
+"Beltrami County, Minnesota",45847,4/25/2020,6
+"Benton County, Minnesota",39360,4/25/2020,4
+"Big Stone County, Minnesota",5039,4/25/2020,2
+"Blue Earth County, Minnesota",65767,4/25/2020,27
+"Brown County, Minnesota",25243,4/25/2020,8
+"Carlton County, Minnesota",35408,4/25/2020,47
+"Carver County, Minnesota",98799,4/25/2020,16
+"Cass County, Minnesota",28810,4/25/2020,5
+"Chippewa County, Minnesota",12040,4/25/2020,2
+"Chisago County, Minnesota",54297,4/25/2020,7
+"Clay County, Minnesota",62040,4/25/2020,113
+"Clearwater County, Minnesota",8824,4/25/2020,2
+"Cook County, Minnesota",5270,4/25/2020,NA
+"Cottonwood County, Minnesota",11437,4/25/2020,6
+"Crow Wing County, Minnesota",63505,4/25/2020,20
+"Dakota County, Minnesota",414655,4/25/2020,138
+"Dodge County, Minnesota",20485,4/25/2020,19
+"Douglas County, Minnesota",36891,4/25/2020,2
+"Faribault County, Minnesota",13966,4/25/2020,4
+"Fillmore County, Minnesota",20825,4/25/2020,12
+"Freeborn County, Minnesota",30619,4/25/2020,33
+"Goodhue County, Minnesota",46138,4/25/2020,19
+"Grant County, Minnesota",5923,4/25/2020,NA
+"Hennepin County, Minnesota",1224763,4/25/2020,1287
+"Houston County, Minnesota",18709,4/25/2020,1
+"Hubbard County, Minnesota",20743,4/25/2020,NA
+"Isanti County, Minnesota",38584,4/25/2020,7
+"Itasca County, Minnesota",45237,4/25/2020,2
+"Jackson County, Minnesota",10104,4/25/2020,7
+"Kanabec County, Minnesota",15948,4/25/2020,NA
+"Kandiyohi County, Minnesota",42577,4/25/2020,28
+"Kittson County, Minnesota",4384,4/25/2020,1
+"Koochiching County, Minnesota",12776,4/25/2020,1
+"Lac qui Parle County, Minnesota",6840,4/25/2020,1
+"Lake County, Minnesota",10578,4/25/2020,NA
+"Lake of the Woods County, Minnesota",3841,4/25/2020,NA
+"Le Sueur County, Minnesota",27810,4/25/2020,22
+"Lincoln County, Minnesota",5724,4/25/2020,2
+"Lyon County, Minnesota",25789,4/25/2020,6
+"Mahnomen County, Minnesota",5500,4/25/2020,1
+"Marshall County, Minnesota",9397,4/25/2020,1
+"Martin County, Minnesota",20084,4/25/2020,42
+"McLeod County, Minnesota",35816,4/25/2020,3
+"Meeker County, Minnesota",23105,4/25/2020,4
+"Mille Lacs County, Minnesota",25635,4/25/2020,1
+"Morrison County, Minnesota",32880,4/25/2020,1
+"Mower County, Minnesota",39386,4/25/2020,28
+"Murray County, Minnesota",8394,4/25/2020,8
+"Nicollet County, Minnesota",33477,4/25/2020,9
+"Nobles County, Minnesota",21854,4/25/2020,325
+"Norman County, Minnesota",6589,4/25/2020,7
+"Olmsted County, Minnesota",151685,4/25/2020,238
+"Otter Tail County, Minnesota",57790,4/25/2020,8
+"Pennington County, Minnesota",14197,4/25/2020,1
+"Pine County, Minnesota",29057,4/25/2020,45
+"Pipestone County, Minnesota",9229,4/25/2020,2
+"Polk County, Minnesota",31564,4/25/2020,20
+"Pope County, Minnesota",10932,4/25/2020,NA
+"Ramsey County, Minnesota",537893,4/25/2020,261
+"Red Lake County, Minnesota",4017,4/25/2020,1
+"Redwood County, Minnesota",15430,4/25/2020,1
+"Renville County, Minnesota",14798,4/25/2020,3
+"Rice County, Minnesota",65251,4/25/2020,9
+"Rock County, Minnesota",9433,4/25/2020,5
+"Roseau County, Minnesota",15537,4/25/2020,1
+"Scott County, Minnesota",141463,4/25/2020,32
+"Sherburne County, Minnesota",92024,4/25/2020,15
+"Sibley County, Minnesota",14888,4/25/2020,1
+"St. Louis County, Minnesota",200294,4/25/2020,61
+"Stearns County, Minnesota",155300,4/25/2020,38
+"Steele County, Minnesota",36612,4/25/2020,12
+"Stevens County, Minnesota",9759,4/25/2020,NA
+"Swift County, Minnesota",9448,4/25/2020,1
+"Todd County, Minnesota",24423,4/25/2020,3
+"Traverse County, Minnesota",3357,4/25/2020,2
+"Wabasha County, Minnesota",21490,4/25/2020,8
+"Wadena County, Minnesota",13626,4/25/2020,NA
+"Waseca County, Minnesota",18898,4/25/2020,3
+"Washington County, Minnesota",250979,4/25/2020,112
+"Watonwan County, Minnesota",10936,4/25/2020,5
+"Wilkin County, Minnesota",6398,4/25/2020,11
+"Winona County, Minnesota",50992,4/25/2020,66
+"Wright County, Minnesota",131130,4/25/2020,33
+"Yellow Medicine County, Minnesota",9930,4/25/2020,3
+"Aitkin County, Minnesota",15841,4/28/2020,1
+"Anoka County, Minnesota",344861,4/28/2020,186
+"Becker County, Minnesota",33552,4/28/2020,2
+"Beltrami County, Minnesota",45847,4/28/2020,6
+"Benton County, Minnesota",39360,4/28/2020,6
+"Big Stone County, Minnesota",5039,4/28/2020,2
+"Blue Earth County, Minnesota",65767,4/28/2020,33
+"Brown County, Minnesota",25243,4/28/2020,8
+"Carlton County, Minnesota",35408,4/28/2020,53
+"Carver County, Minnesota",98799,4/28/2020,19
+"Cass County, Minnesota",28810,4/28/2020,5
+"Chippewa County, Minnesota",12040,4/28/2020,2
+"Chisago County, Minnesota",54297,4/28/2020,9
+"Clay County, Minnesota",62040,4/28/2020,149
+"Clearwater County, Minnesota",8824,4/28/2020,2
+"Cook County, Minnesota",5270,4/28/2020,NA
+"Cottonwood County, Minnesota",11437,4/28/2020,11
+"Crow Wing County, Minnesota",63505,4/28/2020,20
+"Dakota County, Minnesota",414655,4/28/2020,156
+"Dodge County, Minnesota",20485,4/28/2020,19
+"Douglas County, Minnesota",36891,4/28/2020,2
+"Faribault County, Minnesota",13966,4/28/2020,4
+"Fillmore County, Minnesota",20825,4/28/2020,12
+"Freeborn County, Minnesota",30619,4/28/2020,34
+"Goodhue County, Minnesota",46138,4/28/2020,19
+"Grant County, Minnesota",5923,4/28/2020,NA
+"Hennepin County, Minnesota",1224763,4/28/2020,1524
+"Houston County, Minnesota",18709,4/28/2020,1
+"Hubbard County, Minnesota",20743,4/28/2020,NA
+"Isanti County, Minnesota",38584,4/28/2020,6
+"Itasca County, Minnesota",45237,4/28/2020,2
+"Jackson County, Minnesota",10104,4/28/2020,9
+"Kanabec County, Minnesota",15948,4/28/2020,NA
+"Kandiyohi County, Minnesota",42577,4/28/2020,64
+"Kittson County, Minnesota",4384,4/28/2020,1
+"Koochiching County, Minnesota",12776,4/28/2020,1
+"Lac qui Parle County, Minnesota",6840,4/28/2020,1
+"Lake County, Minnesota",10578,4/28/2020,NA
+"Lake of the Woods County, Minnesota",3841,4/28/2020,NA
+"Le Sueur County, Minnesota",27810,4/28/2020,24
+"Lincoln County, Minnesota",5724,4/28/2020,2
+"Lyon County, Minnesota",25789,4/28/2020,6
+"Mahnomen County, Minnesota",5500,4/28/2020,1
+"Marshall County, Minnesota",9397,4/28/2020,1
+"Martin County, Minnesota",20084,4/28/2020,52
+"McLeod County, Minnesota",35816,4/28/2020,4
+"Meeker County, Minnesota",23105,4/28/2020,9
+"Mille Lacs County, Minnesota",25635,4/28/2020,2
+"Morrison County, Minnesota",32880,4/28/2020,1
+"Mower County, Minnesota",39386,4/28/2020,28
+"Murray County, Minnesota",8394,4/28/2020,10
+"Nicollet County, Minnesota",33477,4/28/2020,9
+"Nobles County, Minnesota",21854,4/28/2020,477
+"Norman County, Minnesota",6589,4/28/2020,7
+"Olmsted County, Minnesota",151685,4/28/2020,251
+"Otter Tail County, Minnesota",57790,4/28/2020,8
+"Pennington County, Minnesota",14197,4/28/2020,1
+"Pine County, Minnesota",29057,4/28/2020,56
+"Pipestone County, Minnesota",9229,4/28/2020,2
+"Polk County, Minnesota",31564,4/28/2020,26
+"Pope County, Minnesota",10932,4/28/2020,NA
+"Ramsey County, Minnesota",537893,4/28/2020,317
+"Red Lake County, Minnesota",4017,4/28/2020,1
+"Redwood County, Minnesota",15430,4/28/2020,1
+"Renville County, Minnesota",14798,4/28/2020,3
+"Rice County, Minnesota",65251,4/28/2020,11
+"Rock County, Minnesota",9433,4/28/2020,8
+"Roseau County, Minnesota",15537,4/28/2020,1
+"Scott County, Minnesota",141463,4/28/2020,36
+"Sherburne County, Minnesota",92024,4/28/2020,19
+"Sibley County, Minnesota",14888,4/28/2020,2
+"St. Louis County, Minnesota",200294,4/28/2020,69
+"Stearns County, Minnesota",155300,4/28/2020,86
+"Steele County, Minnesota",36612,4/28/2020,14
+"Stevens County, Minnesota",9759,4/28/2020,NA
+"Swift County, Minnesota",9448,4/28/2020,2
+"Todd County, Minnesota",24423,4/28/2020,4
+"Traverse County, Minnesota",3357,4/28/2020,2
+"Wabasha County, Minnesota",21490,4/28/2020,8
+"Wadena County, Minnesota",13626,4/28/2020,1
+"Waseca County, Minnesota",18898,4/28/2020,4
+"Washington County, Minnesota",250979,4/28/2020,117
+"Watonwan County, Minnesota",10936,4/28/2020,7
+"Wilkin County, Minnesota",6398,4/28/2020,12
+"Winona County, Minnesota",50992,4/28/2020,66
+"Wright County, Minnesota",131130,4/28/2020,35
+"Yellow Medicine County, Minnesota",9930,4/28/2020,3
+"Aitkin County, Minnesota",15841,4/29/2020,1
+"Anoka County, Minnesota",344861,4/29/2020,196
+"Becker County, Minnesota",33552,4/29/2020,2
+"Beltrami County, Minnesota",45847,4/29/2020,6
+"Benton County, Minnesota",39360,4/29/2020,10
+"Big Stone County, Minnesota",5039,4/29/2020,2
+"Blue Earth County, Minnesota",65767,4/29/2020,34
+"Brown County, Minnesota",25243,4/29/2020,8
+"Carlton County, Minnesota",35408,4/29/2020,55
+"Carver County, Minnesota",98799,4/29/2020,20
+"Cass County, Minnesota",28810,4/29/2020,5
+"Chippewa County, Minnesota",12040,4/29/2020,2
+"Chisago County, Minnesota",54297,4/29/2020,10
+"Clay County, Minnesota",62040,4/29/2020,152
+"Clearwater County, Minnesota",8824,4/29/2020,2
+"Cook County, Minnesota",5270,4/29/2020,NA
+"Cottonwood County, Minnesota",11437,4/29/2020,20
+"Crow Wing County, Minnesota",63505,4/29/2020,20
+"Dakota County, Minnesota",414655,4/29/2020,157
+"Dodge County, Minnesota",20485,4/29/2020,19
+"Douglas County, Minnesota",36891,4/29/2020,2
+"Faribault County, Minnesota",13966,4/29/2020,5
+"Fillmore County, Minnesota",20825,4/29/2020,12
+"Freeborn County, Minnesota",30619,4/29/2020,34
+"Goodhue County, Minnesota",46138,4/29/2020,19
+"Grant County, Minnesota",5923,4/29/2020,NA
+"Hennepin County, Minnesota",1224763,4/29/2020,1633
+"Houston County, Minnesota",18709,4/29/2020,1
+"Hubbard County, Minnesota",20743,4/29/2020,NA
+"Isanti County, Minnesota",38584,4/29/2020,6
+"Itasca County, Minnesota",45237,4/29/2020,3
+"Jackson County, Minnesota",10104,4/29/2020,12
+"Kanabec County, Minnesota",15948,4/29/2020,NA
+"Kandiyohi County, Minnesota",42577,4/29/2020,88
+"Kittson County, Minnesota",4384,4/29/2020,1
+"Koochiching County, Minnesota",12776,4/29/2020,1
+"Lac qui Parle County, Minnesota",6840,4/29/2020,1
+"Lake County, Minnesota",10578,4/29/2020,NA
+"Lake of the Woods County, Minnesota",3841,4/29/2020,NA
+"Le Sueur County, Minnesota",27810,4/29/2020,24
+"Lincoln County, Minnesota",5724,4/29/2020,3
+"Lyon County, Minnesota",25789,4/29/2020,6
+"Mahnomen County, Minnesota",5500,4/29/2020,1
+"Marshall County, Minnesota",9397,4/29/2020,1
+"Martin County, Minnesota",20084,4/29/2020,70
+"McLeod County, Minnesota",35816,4/29/2020,4
+"Meeker County, Minnesota",23105,4/29/2020,9
+"Mille Lacs County, Minnesota",25635,4/29/2020,2
+"Morrison County, Minnesota",32880,4/29/2020,2
+"Mower County, Minnesota",39386,4/29/2020,28
+"Murray County, Minnesota",8394,4/29/2020,11
+"Nicollet County, Minnesota",33477,4/29/2020,9
+"Nobles County, Minnesota",21854,4/29/2020,615
+"Norman County, Minnesota",6589,4/29/2020,8
+"Olmsted County, Minnesota",151685,4/29/2020,256
+"Otter Tail County, Minnesota",57790,4/29/2020,8
+"Pennington County, Minnesota",14197,4/29/2020,1
+"Pine County, Minnesota",29057,4/29/2020,56
+"Pipestone County, Minnesota",9229,4/29/2020,2
+"Polk County, Minnesota",31564,4/29/2020,27
+"Pope County, Minnesota",10932,4/29/2020,NA
+"Ramsey County, Minnesota",537893,4/29/2020,332
+"Red Lake County, Minnesota",4017,4/29/2020,1
+"Redwood County, Minnesota",15430,4/29/2020,1
+"Renville County, Minnesota",14798,4/29/2020,4
+"Rice County, Minnesota",65251,4/29/2020,12
+"Rock County, Minnesota",9433,4/29/2020,9
+"Roseau County, Minnesota",15537,4/29/2020,1
+"Scott County, Minnesota",141463,4/29/2020,41
+"Sherburne County, Minnesota",92024,4/29/2020,26
+"Sibley County, Minnesota",14888,4/29/2020,2
+"St. Louis County, Minnesota",200294,4/29/2020,71
+"Stearns County, Minnesota",155300,4/29/2020,166
+"Steele County, Minnesota",36612,4/29/2020,15
+"Stevens County, Minnesota",9759,4/29/2020,NA
+"Swift County, Minnesota",9448,4/29/2020,2
+"Todd County, Minnesota",24423,4/29/2020,7
+"Traverse County, Minnesota",3357,4/29/2020,2
+"Wabasha County, Minnesota",21490,4/29/2020,8
+"Wadena County, Minnesota",13626,4/29/2020,1
+"Waseca County, Minnesota",18898,4/29/2020,4
+"Washington County, Minnesota",250979,4/29/2020,120
+"Watonwan County, Minnesota",10936,4/29/2020,9
+"Wilkin County, Minnesota",6398,4/29/2020,12
+"Winona County, Minnesota",50992,4/29/2020,66
+"Wright County, Minnesota",131130,4/29/2020,40
+"Yellow Medicine County, Minnesota",9930,4/29/2020,3
+"Aitkin County, Minnesota",15841,4/30/2020,1
+"Anoka County, Minnesota",344861,4/30/2020,212
+"Becker County, Minnesota",33552,4/30/2020,2
+"Beltrami County, Minnesota",45847,4/30/2020,6
+"Benton County, Minnesota",39360,4/30/2020,15
+"Big Stone County, Minnesota",5039,4/30/2020,2
+"Blue Earth County, Minnesota",65767,4/30/2020,38
+"Brown County, Minnesota",25243,4/30/2020,8
+"Carlton County, Minnesota",35408,4/30/2020,59
+"Carver County, Minnesota",98799,4/30/2020,21
+"Cass County, Minnesota",28810,4/30/2020,5
+"Chippewa County, Minnesota",12040,4/30/2020,2
+"Chisago County, Minnesota",54297,4/30/2020,11
+"Clay County, Minnesota",62040,4/30/2020,157
+"Clearwater County, Minnesota",8824,4/30/2020,2
+"Cook County, Minnesota",5270,4/30/2020,NA
+"Cottonwood County, Minnesota",11437,4/30/2020,20
+"Crow Wing County, Minnesota",63505,4/30/2020,20
+"Dakota County, Minnesota",414655,4/30/2020,162
+"Dodge County, Minnesota",20485,4/30/2020,21
+"Douglas County, Minnesota",36891,4/30/2020,2
+"Faribault County, Minnesota",13966,4/30/2020,5
+"Fillmore County, Minnesota",20825,4/30/2020,12
+"Freeborn County, Minnesota",30619,4/30/2020,34
+"Goodhue County, Minnesota",46138,4/30/2020,19
+"Grant County, Minnesota",5923,4/30/2020,NA
+"Hennepin County, Minnesota",1224763,4/30/2020,1738
+"Houston County, Minnesota",18709,4/30/2020,1
+"Hubbard County, Minnesota",20743,4/30/2020,NA
+"Isanti County, Minnesota",38584,4/30/2020,6
+"Itasca County, Minnesota",45237,4/30/2020,5
+"Jackson County, Minnesota",10104,4/30/2020,14
+"Kanabec County, Minnesota",15948,4/30/2020,NA
+"Kandiyohi County, Minnesota",42577,4/30/2020,91
+"Kittson County, Minnesota",4384,4/30/2020,1
+"Koochiching County, Minnesota",12776,4/30/2020,1
+"Lac qui Parle County, Minnesota",6840,4/30/2020,1
+"Lake County, Minnesota",10578,4/30/2020,NA
+"Lake of the Woods County, Minnesota",3841,4/30/2020,NA
+"Le Sueur County, Minnesota",27810,4/30/2020,24
+"Lincoln County, Minnesota",5724,4/30/2020,3
+"Lyon County, Minnesota",25789,4/30/2020,7
+"Mahnomen County, Minnesota",5500,4/30/2020,2
+"Marshall County, Minnesota",9397,4/30/2020,1
+"Martin County, Minnesota",20084,4/30/2020,88
+"McLeod County, Minnesota",35816,4/30/2020,4
+"Meeker County, Minnesota",23105,4/30/2020,11
+"Mille Lacs County, Minnesota",25635,4/30/2020,2
+"Morrison County, Minnesota",32880,4/30/2020,5
+"Mower County, Minnesota",39386,4/30/2020,28
+"Murray County, Minnesota",8394,4/30/2020,13
+"Nicollet County, Minnesota",33477,4/30/2020,11
+"Nobles County, Minnesota",21854,4/30/2020,742
+"Norman County, Minnesota",6589,4/30/2020,8
+"Olmsted County, Minnesota",151685,4/30/2020,265
+"Otter Tail County, Minnesota",57790,4/30/2020,9
+"Pennington County, Minnesota",14197,4/30/2020,1
+"Pine County, Minnesota",29057,4/30/2020,56
+"Pipestone County, Minnesota",9229,4/30/2020,2
+"Polk County, Minnesota",31564,4/30/2020,27
+"Pope County, Minnesota",10932,4/30/2020,NA
+"Ramsey County, Minnesota",537893,4/30/2020,374
+"Red Lake County, Minnesota",4017,4/30/2020,1
+"Redwood County, Minnesota",15430,4/30/2020,2
+"Renville County, Minnesota",14798,4/30/2020,4
+"Rice County, Minnesota",65251,4/30/2020,14
+"Rock County, Minnesota",9433,4/30/2020,11
+"Roseau County, Minnesota",15537,4/30/2020,1
+"Scott County, Minnesota",141463,4/30/2020,44
+"Sherburne County, Minnesota",92024,4/30/2020,28
+"Sibley County, Minnesota",14888,4/30/2020,2
+"St. Louis County, Minnesota",200294,4/30/2020,71
+"Stearns County, Minnesota",155300,4/30/2020,267
+"Steele County, Minnesota",36612,4/30/2020,16
+"Stevens County, Minnesota",9759,4/30/2020,NA
+"Swift County, Minnesota",9448,4/30/2020,2
+"Todd County, Minnesota",24423,4/30/2020,7
+"Traverse County, Minnesota",3357,4/30/2020,2
+"Wabasha County, Minnesota",21490,4/30/2020,8
+"Wadena County, Minnesota",13626,4/30/2020,1
+"Waseca County, Minnesota",18898,4/30/2020,4
+"Washington County, Minnesota",250979,4/30/2020,131
+"Watonwan County, Minnesota",10936,4/30/2020,11
+"Wilkin County, Minnesota",6398,4/30/2020,12
+"Winona County, Minnesota",50992,4/30/2020,66
+"Wright County, Minnesota",131130,4/30/2020,42
+"Yellow Medicine County, Minnesota",9930,4/30/2020,3
