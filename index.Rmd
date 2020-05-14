@@ -114,7 +114,7 @@ Date = mdy(Date)) %>%
 
 <br>
 
-# Cases per 100k{.tabset}
+# Cases per 100k {.tabset}
 
 Below are the confirmed COVID-19 cases per 100,000 population. 
 
@@ -273,7 +273,7 @@ girafe(ggobj = cases.100k.edr.plot, height_svg = 8) %>%
 
 ```
 
-# Deaths per 100k{.tabset}
+# Deaths per 100k {.tabset}
 
 Summary here
 
