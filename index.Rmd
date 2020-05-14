@@ -120,7 +120,7 @@ Below are the confirmed COVID-19 cases per 100,000 population.
 
 The map below confirms that despite there being a lower number of cases in rural Minnesota, the rate at which the virus is spreading among the population is equal to, and in some cases larger than in our metropolitan areas of the state. In particular, counties in Southwest Minnesota have some of the highest rates of COVID-19 in the state.
 
-The map also highlights the differences between southern and northern Minnesota. A line can be drawn across Minnesota (west-to-east) just north of stearns county providing a division of counties that are being impacted more (south) vs. counties that have yet to see a severe outbreak (north).
+The map also highlights the differences between southern and northern Minnesota. A line can be drawn across Minnesota (west-to-east) just north of Stearns county providing a division of counties that are being impacted more (south) vs. counties that have yet to see a severe outbreak (north).
 
 When breaking the cases per 100,000 population down by rural-urban commuting areas highlights the fact that rural areas have higher rates of COVID-19. Counties designated as "town/rural mix" have a rate of 100 people per 100,000 more than in urban and urban/town/rural mix counties. Our entirely rural counties, however, have the lowest rate.
 
@@ -275,7 +275,23 @@ girafe(ggobj = cases.100k.edr.plot, height_svg = 8) %>%
 
 # Deaths per 100k {.tabset}
 
-Summary here
+Despite the higher COVID-19 infection rate in many rural counties, the highest death rate has been in the seven-county metro by a significant margin.
+
+The map below shows that Hennepin County has the highest death rate with 33.64 per 100,000. There are a few other hot spots around Minnesota with Winona (29.42), Wilkin (46.89), and Clay (27.40) counties having particularly higher death rates.
+
+The RUCA chart highlights the significantly higher death rate related to COVID-19 in our entirely metro counties. Their rate is over 5 times higher than all other county groups. 
+
+The planning region chart highlights the same.
+
+The EDR chart shows that along with the seven-county metro, EDR 4 - West Central has a significantly higher death rate as well.
+
+```{r prep deaths per 100k, include=FALSE, cache=TRUE}
+deaths.county.centroid.map <- case.county.centroid.map %>%
+  mutate(deaths.100k.bins = cut(deaths.100k,
+                                breaks = c(-1,.1, 5, 10, 20, 100),
+                                labels = c("0", "1-4", "5-9", "10-19", "20-50")))
+
+```
 
 <br>
 
@@ -283,16 +299,91 @@ Summary here
 
 <br>
 
+```{r map deaths per 100k map}
+deaths.100k.county.map <- ggplot(deaths.county.centroid.map) +
+  geom_sf_interactive(fill = "grey", aes(tooltip = paste(County, "\nAs of: ", Date, "\nTotal deaths: ", comma(Deaths, accuracy = 1.0), "\nTotal population: ", comma(total.pop, accuracy = 1.0), "\nDeaths per 100,000 population: ", comma(deaths.100k, accuracy = 0.01), sep = ""), data_id = County, geometry = geometry)) +
+  geom_point_interactive(aes(x = X, y = Y, size = deaths.100k.bins, color = deaths.100k, data_id = County, tooltip = paste(County, "\nAs of: ", Date, "\nTotal deaths: ", comma(Deaths, accuracy = 1.0), "\nTotal population: ", comma(total.pop, accuracy = 1.0), "\nDeaths per 100,000 population: ", comma(deaths.100k, accuracy = 0.01), sep = ""))) +
+  scale_size_manual(values = c(1,3,5,7,9)) +
+  scale_color_viridis(trans = "log") +
+  theme_sf+
+  labs(title=paste("COVID-19 deaths per 100,000 as of ", max(case.county.map$Date), sep = ""), x = "", y = "") +
+  theme(text = element_text(size = 10))
+
+girafe(ggobj = deaths.100k.county.map, width_svg = 8) %>%
+  girafe_options(opts_selection(type = "none"),
+                 opts_toolbar(saveaspng = FALSE) ,
+                 opts_sizing(rescale = FALSE))
+
+```
+
 ## RUCA
 
 <br>
+
+```{r chart deaths per 100k ruca}
+deaths.100k.ruca.plot <- ggplot(case.100k.ruca, aes(Date, deaths.100k, color = Dem_Desc)) +
+  geom_smooth(se = FALSE, size = 2) +
+  geom_point_interactive(size = 3, aes(data_id = Dem_Desc, tooltip = paste(Dem_Desc, "\nDate: ", Date, "\nTotal deaths: ", comma(Deaths, accuracy = 1.0), "\nTotal population: ", comma(total.pop, accuracy = 1.0), "\nDeaths per 100,000 population: ", comma(deaths.100k, accuracy = 0.01), sep = ""))) +
+  geom_label_repel(data = filter(case.100k.ruca, Date == max(Date)), aes(x = Date, y = deaths.100k, label = comma(deaths.100k, accuracy = 0.01)), show.legend = FALSE) +
+  labs(x="", y = "", color="", title = "COVID-19 deaths per 100,000")+
+  scale_y_continuous(labels=scales::comma)+
+  theme_line+
+  scale_color_manual(values= color.ruca,
+                     guide = guide_legend(ncol = 3)) +
+  theme(legend.position = "bottom")
+
+girafe(ggobj = deaths.100k.ruca.plot, width_svg = 8) %>%
+  girafe_options(opts_selection(type = "none"),
+                 opts_toolbar(saveaspng = FALSE) ,
+                 opts_sizing(rescale = FALSE))
+
+```
 
 ## Planning Region
 
 <br>
 
+```{r chart deaths per 100k pr}
+deaths.100k.pr.plot <- ggplot(case.100k.pr, aes(Date, deaths.100k, color = planning.region)) +
+  geom_smooth(se = FALSE, size = 2) +
+  geom_point_interactive(size = 3, aes(data_id = planning.region, tooltip = paste(planning.region, "\nDate: ", Date, "\nTotal deaths: ", comma(Deaths, accuracy = 1.0), "\nTotal population: ", comma(total.pop, accuracy = 1.0), "\nDeaths per 100,000 population: ", comma(deaths.100k, accuracy = 0.01), sep = ""))) +
+  geom_label_repel(data = filter(case.100k.pr, Date == max(Date)), aes(x = Date, y = deaths.100k, label = comma(deaths.100k, accuracy = 0.01)), show.legend = FALSE) +
+  labs(x="", y = "", color="", title = "COVID-19 deaths per 100,000")+
+  scale_y_continuous(labels=scales::comma)+
+  theme_line+
+  scale_color_manual(values= color.pr,
+                     guide = guide_legend(ncol = 3)) +
+  theme(legend.position = "bottom")
+
+girafe(ggobj = deaths.100k.pr.plot, width_svg = 8) %>%
+  girafe_options(opts_selection(type = "none"),
+                 opts_toolbar(saveaspng = FALSE) ,
+                 opts_sizing(rescale = FALSE))
+
+```
+
 ## EDR
 
 <br>
+
+```{r chart deaths per 100k edr, fig.height=9}
+deaths.100k.edr.plot <- ggplot(case.100k.edr, aes(Date, deaths.100k, color = edr)) +
+  geom_smooth(se = FALSE, size = 2) +
+  facet_wrap(~planning.region, ncol = 2)+
+  geom_point_interactive(size = 3, aes(data_id = edr, tooltip = paste(edr, "\nDate: ", Date, "\nTotal deaths: ", comma(Deaths, accuracy = 1.0), "\nTotal population: ", comma(total.pop, accuracy = 1.0), "\nDeaths per 100,000 population: ", comma(deaths.100k, accuracy = 0.01), sep = ""))) +
+  geom_label_repel(data = filter(case.100k.edr, Date == max(Date)), aes(x = Date, y = deaths.100k, label = comma(deaths.100k, accuracy = 0.01)), show.legend = FALSE) +
+  labs(x="", y = "", color="", title = "COVID-19 deaths per 100,000")+
+  scale_y_continuous(labels=scales::comma)+
+  theme_line+
+  scale_color_manual(values= color.edr,
+                     guide = guide_legend(ncol = 3)) +
+  theme(legend.position = "bottom")
+
+girafe(ggobj = deaths.100k.edr.plot, height_svg = 8) %>%
+  girafe_options(opts_selection(type = "none"),
+                 opts_toolbar(saveaspng = FALSE) ,
+                 opts_sizing(rescale = FALSE))
+
+```
 
 
