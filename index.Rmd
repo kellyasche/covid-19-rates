@@ -101,7 +101,7 @@ mn_counties <- st_read("Data/Shapefiles/county shapefiles/MNCounties_MNDOT.shp",
   ms_simplify(keep = .01, keep_shapes = TRUE)
 ```
 
-```{r master data, include=FALSE, cache=TRUE}
+```{r master data, include=FALSE}
 master.cases <- read_csv("Data/Case data/Master-cases-county.csv") %>%
   mutate(Dem_Desc = fct_relevel(Dem_Desc, "Entirely rural", "Town/rural mix", "Urban/town/rural mix", "Entirely urban"),
          planning.region = fct_relevel(planning.region, "Northwest", "Northeast", "Central", "Seven County Mpls-St Paul", "Southwest", "Southeast"),
@@ -137,7 +137,7 @@ case.county.map <- master.cases %>%
          deaths.100k = Deaths / pop.100k,
          cases.100k.log = log(cases.100k),
          cases.100k.bins = cut(cases.100k,
-                               breaks = c(-1, 50, 105, 200, 500, 6000),
+                               breaks = c(-1, 50, 105, 200, 500, 6500),
                                labels = c("1-49", "50-104", "105-199", "200-499", "500-6,000"))) %>%
   left_join(mn_counties[,c(4,7)], by = c("countyfp" = "FIPS_CODE")) %>%
   st_as_sf()  
@@ -187,7 +187,7 @@ case.100k.edr <- master.cases %>%
 
 ```{r map cases per 100k map}
 cases.100k.county.map <- ggplot(case.county.centroid.map) +
-  geom_sf_interactive(fill = "grey", aes(tooltip = paste(County, "\nAs of: ", Date, "\nTotal cases: ", comma(Cases, accuracy = 1.0), "\nTotal population: ", comma(total.pop, accuracy = 1.0), "\nCases per 100,000 population: ", comma(cases.100k, accuracy = 0.01), sep = ""), data_id = County, geometry = geometry)) +
+  geom_sf_interactive(fill = "grey95", aes(tooltip = paste(County, "\nAs of: ", Date, "\nTotal cases: ", comma(Cases, accuracy = 1.0), "\nTotal population: ", comma(total.pop, accuracy = 1.0), "\nCases per 100,000 population: ", comma(cases.100k, accuracy = 0.01), sep = ""), data_id = County, geometry = geometry)) +
   geom_point_interactive(aes(x = X, y = Y, size = cases.100k.bins, color = cases.100k, data_id = County, tooltip = paste(County, "\nAs of: ", Date, "\nTotal cases: ", comma(Cases, accuracy = 1.0), "\nTotal population: ", comma(total.pop, accuracy = 1.0), "\nCases per 100,000 population: ", comma(cases.100k, accuracy = 0.01), sep = ""))) +
   scale_size_manual(values = c(1,3,5,7,9)) +
   scale_color_viridis(trans = "log") +
@@ -301,7 +301,7 @@ deaths.county.centroid.map <- case.county.centroid.map %>%
 
 ```{r map deaths per 100k map}
 deaths.100k.county.map <- ggplot(deaths.county.centroid.map) +
-  geom_sf_interactive(fill = "grey", aes(tooltip = paste(County, "\nAs of: ", Date, "\nTotal deaths: ", comma(Deaths, accuracy = 1.0), "\nTotal population: ", comma(total.pop, accuracy = 1.0), "\nDeaths per 100,000 population: ", comma(deaths.100k, accuracy = 0.01), sep = ""), data_id = County, geometry = geometry)) +
+  geom_sf_interactive(fill = "grey95", aes(tooltip = paste(County, "\nAs of: ", Date, "\nTotal deaths: ", comma(Deaths, accuracy = 1.0), "\nTotal population: ", comma(total.pop, accuracy = 1.0), "\nDeaths per 100,000 population: ", comma(deaths.100k, accuracy = 0.01), sep = ""), data_id = County, geometry = geometry)) +
   geom_point_interactive(aes(x = X, y = Y, size = deaths.100k.bins, color = deaths.100k, data_id = County, tooltip = paste(County, "\nAs of: ", Date, "\nTotal deaths: ", comma(Deaths, accuracy = 1.0), "\nTotal population: ", comma(total.pop, accuracy = 1.0), "\nDeaths per 100,000 population: ", comma(deaths.100k, accuracy = 0.01), sep = ""))) +
   scale_size_manual(values = c(1,3,5,7,9)) +
   scale_color_viridis(trans = "log") +
