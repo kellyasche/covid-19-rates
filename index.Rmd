@@ -32,6 +32,9 @@ library(DT)
 library(htmlwidgets)
 library(lubridate)
 library(viridis)
+library(gganimate)
+library(transformr)
+library(gifski)
 ```
 
 ```{r loading jon docs and shapefiles, cache=TRUE, include=FALSE}
@@ -140,9 +143,28 @@ case.county.map <- master.cases %>%
                                breaks = c(-1, 50, 100, 200, 500, 6500),
                                labels = c("1-49", "50-99", "100-199", "200-499", "500-6,000"))) %>%
   left_join(mn_counties[,c(4,7)], by = c("countyfp" = "FIPS_CODE")) %>%
-  st_as_sf()  
+  st_as_sf() %>%
+  group_by(countyfp, County) %>%
+  arrange(Date) %>%
+  ungroup()
 
 case.county.centroid.map <- cbind(case.county.map, st_coordinates(st_centroid(case.county.map)))
+
+case.county.trend.map <- master.cases %>%
+  filter(County != "Minnesota") %>%
+  mutate(cases.100k = Cases / pop.100k,
+         deaths.100k = Deaths / pop.100k,
+         cases.100k.log = log(cases.100k),
+         cases.100k.bins = cut(cases.100k,
+                               breaks = c(-1, 50, 100, 200, 500, 6500),
+                               labels = c("1-49", "50-99", "100-199", "200-499", "500-6,000"))) %>%
+  left_join(mn_counties[,c(4,7)], by = c("countyfp" = "FIPS_CODE")) %>%
+  st_as_sf()  %>%
+  group_by(countyfp, County) %>%
+  arrange(Date) %>%
+  ungroup()
+
+case.county.trend.map.centroid.map <- cbind(case.county.trend.map, st_coordinates(st_centroid(case.county.trend.map)))
   
 case.100k.ruca <- master.cases %>%
   filter(County != "Minnesota") %>%
@@ -199,6 +221,28 @@ girafe(ggobj = cases.100k.county.map, width_svg = 8) %>%
   girafe_options(opts_selection(type = "none"),
                  opts_toolbar(saveaspng = FALSE) ,
                  opts_sizing(rescale = FALSE))
+
+```
+
+## County trends map
+
+<br>
+
+```{r map animated cases per 100k}
+cases.100k.county.trend.map <- ggplot(case.county.trend.map.centroid.map) +
+  geom_sf(fill = "grey95") +
+  geom_point_interactive(aes(x = X, y = Y, size = cases.100k.log, color = cases.100k.log)) +
+  theme_sf+
+  scale_color_viridis_c() +
+  scale_size_continuous(range = c(-1, 12),
+                        breaks = c(1.0, 3.911, 4.609, 5.299, 6.260, max(case.county.trend.map.centroid.map$cases.100k.log)),
+                        labels = c("0", "1-49", "50-99", "100-199", "200-499", "500 or more")) +
+  labs(title= "Cases per 100k population, {frame_time}", x = "", y = "") +
+  transition_time(Date) +
+  theme(text = element_text(size = 10)) +
+  ease_aes("linear")
+
+animate(cases.100k.county.trend.map, duration = 10, fps = 10, width = 768, height = 640, renderer = gifski_renderer())
 
 ```
 
