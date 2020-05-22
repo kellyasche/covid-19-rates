@@ -246,6 +246,20 @@ animate(cases.100k.county.trend.map, duration = 10, fps = 10, width = 768, heigh
 
 ```
 
+## County table
+
+```{r case 100k table}
+cases.county.table <- case.county.map %>%
+  select(1,2,3,4,12,13) %>%
+  st_set_geometry(NULL)
+
+datatable(cases.county.table, class = "cell-border stripe", filter = "top", rownames = FALSE,
+          options = list(scrollX = TRUE))
+
+```
+
+<br>
+
 
 ## RUCA
 
