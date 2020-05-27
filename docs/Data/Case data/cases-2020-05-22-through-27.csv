@@ -1,0 +1,529 @@
+County,Cases,Deaths,Date
+Aitkin,4,0,5/22/2020
+Anoka,"1,044",53,5/22/2020
+Becker,33,0,5/22/2020
+Beltrami,10,0,5/22/2020
+Benton,158,2,5/22/2020
+Big Stone,3,0,5/22/2020
+Blue Earth,108,1,5/22/2020
+Brown,11,2,5/22/2020
+Carlton,71,0,5/22/2020
+Carver,146,2,5/22/2020
+Cass,10,2,5/22/2020
+Chippewa,39,0,5/22/2020
+Chisago,41,1,5/22/2020
+Clay,356,22,5/22/2020
+Clearwater,2,0,5/22/2020
+Cook,0,0,5/22/2020
+Cottonwood,61,0,5/22/2020
+Crow Wing,42,1,5/22/2020
+Dakota,961,33,5/22/2020
+Dodge,41,0,5/22/2020
+Douglas,27,0,5/22/2020
+Faribault,11,0,5/22/2020
+Fillmore,17,1,5/22/2020
+Freeborn,76,0,5/22/2020
+Goodhue,43,2,5/22/2020
+Grant,2,0,5/22/2020
+Hennepin,"6,350",518,5/22/2020
+Houston,2,0,5/22/2020
+Hubbard,0,0,5/22/2020
+Isanti,21,0,5/22/2020
+Itasca,51,6,5/22/2020
+Jackson,37,0,5/22/2020
+Kanabec,11,1,5/22/2020
+Kandiyohi,443,1,5/22/2020
+Kittson,1,0,5/22/2020
+Koochiching,4,0,5/22/2020
+Lac qui Parle,3,0,5/22/2020
+Lake,1,0,5/22/2020
+Lake of the Woods,0,0,5/22/2020
+Le Sueur,39,1,5/22/2020
+Lincoln,4,0,5/22/2020
+Lyon,29,0,5/22/2020
+McLeod ,24,0,5/22/2020
+Mahnomen ,5,1,5/22/2020
+Marshall ,8,0,5/22/2020
+Martin ,124,5,5/22/2020
+Meeker,41,0,5/22/2020
+Mille Lacs ,15,1,5/22/2020
+Morrison ,34,0,5/22/2020
+Mower ,112,1,5/22/2020
+Murray ,34,0,5/22/2020
+Nicollet,63,3,5/22/2020
+Nobles,"1,432",2,5/22/2020
+Norman,11,0,5/22/2020
+Olmsted,525,10,5/22/2020
+Otter Tail,52,0,5/22/2020
+Pennington,6,0,5/22/2020
+Pine,84,0,5/22/2020
+Pipestone,10,0,5/22/2020
+Polk,57,2,5/22/2020
+Pope,6,0,5/22/2020
+Ramsey,"2,018",93,5/22/2020
+Red Lake,3,0,5/22/2020
+Redwood,3,0,5/22/2020
+Renville,5,0,5/22/2020
+Rice,328,2,5/22/2020
+Rock,20,0,5/22/2020
+Roseau,1,0,5/22/2020
+St. Louis ,109,13,5/22/2020
+Scott ,316,2,5/22/2020
+Sherburne ,193,1,5/22/2020
+Sibley ,12,0,5/22/2020
+Stearns ,"1,881",12,5/22/2020
+Steele ,134,0,5/22/2020
+Stevens,0,0,5/22/2020
+Swift,15,0,5/22/2020
+Todd,140,0,5/22/2020
+Traverse,3,0,5/22/2020
+Wabasha,16,0,5/22/2020
+Wadena,6,0,5/22/2020
+Waseca,23,0,5/22/2020
+Washington,453,25,5/22/2020
+Watonwan,45,0,5/22/2020
+Wilkin,11,3,5/22/2020
+Winona,76,15,5/22/2020
+Wright,213,2,5/22/2020
+Yellow Medicine,5,0,5/22/2020
+Unknown/missing,20,0,5/22/2020
+Aitkin,6,0,5/23/2020
+Anoka,"1,092",55,5/23/2020
+Becker,32,0,5/23/2020
+Beltrami,12,0,5/23/2020
+Benton,161,2,5/23/2020
+Big Stone,3,0,5/23/2020
+Blue Earth,110,1,5/23/2020
+Brown,11,2,5/23/2020
+Carlton,71,0,5/23/2020
+Carver,154,2,5/23/2020
+Cass,11,3,5/23/2020
+Chippewa,39,0,5/23/2020
+Chisago,44,1,5/23/2020
+Clay,361,23,5/23/2020
+Clearwater,2,0,5/23/2020
+Cook,0,0,5/23/2020
+Cottonwood,62,0,5/23/2020
+Crow Wing,42,1,5/23/2020
+Dakota,999,33,5/23/2020
+Dodge,43,0,5/23/2020
+Douglas,27,0,5/23/2020
+Faribault,11,0,5/23/2020
+Fillmore,17,1,5/23/2020
+Freeborn,82,0,5/23/2020
+Goodhue,50,2,5/23/2020
+Grant,2,0,5/23/2020
+Hennepin,"6,649",524,5/23/2020
+Houston,2,0,5/23/2020
+Hubbard,1,0,5/23/2020
+Isanti,24,0,5/23/2020
+Itasca,51,6,5/23/2020
+Jackson,38,0,5/23/2020
+Kanabec,11,1,5/23/2020
+Kandiyohi,449,1,5/23/2020
+Kittson,1,0,5/23/2020
+Koochiching,4,0,5/23/2020
+Lac qui Parle,3,0,5/23/2020
+Lake,1,0,5/23/2020
+Lake of the Woods,0,0,5/23/2020
+Le Sueur,41,1,5/23/2020
+Lincoln,5,0,5/23/2020
+Lyon,31,0,5/23/2020
+McLeod ,26,0,5/23/2020
+Mahnomen ,5,1,5/23/2020
+Marshall ,8,0,5/23/2020
+Martin ,124,5,5/23/2020
+Meeker,43,0,5/23/2020
+Mille Lacs ,15,1,5/23/2020
+Morrison ,36,0,5/23/2020
+Mower ,138,1,5/23/2020
+Murray ,35,0,5/23/2020
+Nicollet,64,3,5/23/2020
+Nobles,"1,444",2,5/23/2020
+Norman,11,0,5/23/2020
+Olmsted,542,10,5/23/2020
+Otter Tail,53,0,5/23/2020
+Pennington,7,0,5/23/2020
+Pine,84,0,5/23/2020
+Pipestone,10,0,5/23/2020
+Polk,59,2,5/23/2020
+Pope,6,0,5/23/2020
+Ramsey,"2,164",94,5/23/2020
+Red Lake,3,0,5/23/2020
+Redwood,3,0,5/23/2020
+Renville,5,0,5/23/2020
+Rice,352,2,5/23/2020
+Rock,20,0,5/23/2020
+Roseau,1,0,5/23/2020
+St. Louis ,110,13,5/23/2020
+Scott ,334,2,5/23/2020
+Sherburne ,202,1,5/23/2020
+Sibley ,12,0,5/23/2020
+Stearns ,"1,918",12,5/23/2020
+Steele ,138,0,5/23/2020
+Stevens,0,0,5/23/2020
+Swift,15,0,5/23/2020
+Todd,183,0,5/23/2020
+Traverse,3,0,5/23/2020
+Wabasha,16,0,5/23/2020
+Wadena,6,0,5/23/2020
+Waseca,24,0,5/23/2020
+Washington,485,25,5/23/2020
+Watonwan,46,0,5/23/2020
+Wilkin,11,3,5/23/2020
+Winona,77,15,5/23/2020
+Wright,231,1,5/23/2020
+Yellow Medicine,5,0,5/23/2020
+Unknown/missing,16,0,5/23/2020
+Aitkin,6,0,5/24/2020
+Anoka,"1,164",55,5/24/2020
+Becker,32,0,5/24/2020
+Beltrami,12,0,5/24/2020
+Benton,166,2,5/24/2020
+Big Stone,3,0,5/24/2020
+Blue Earth,112,1,5/24/2020
+Brown,11,2,5/24/2020
+Carlton,73,0,5/24/2020
+Carver,161,2,5/24/2020
+Cass,11,3,5/24/2020
+Chippewa,40,0,5/24/2020
+Chisago,48,1,5/24/2020
+Clay,366,23,5/24/2020
+Clearwater,2,0,5/24/2020
+Cook,0,0,5/24/2020
+Cottonwood,62,0,5/24/2020
+Crow Wing,42,1,5/24/2020
+Dakota,"1,059",35,5/24/2020
+Dodge,43,0,5/24/2020
+Douglas,29,0,5/24/2020
+Faribault,11,0,5/24/2020
+Fillmore,17,1,5/24/2020
+Freeborn,84,0,5/24/2020
+Goodhue,52,2,5/24/2020
+Grant,2,0,5/24/2020
+Hennepin,"6,918",534,5/24/2020
+Houston,2,0,5/24/2020
+Hubbard,1,0,5/24/2020
+Isanti,25,0,5/24/2020
+Itasca,52,7,5/24/2020
+Jackson,39,0,5/24/2020
+Kanabec,11,1,5/24/2020
+Kandiyohi,454,1,5/24/2020
+Kittson,1,0,5/24/2020
+Koochiching,5,0,5/24/2020
+Lac qui Parle,3,0,5/24/2020
+Lake,1,0,5/24/2020
+Lake of the Woods,0,0,5/24/2020
+Le Sueur,41,1,5/24/2020
+Lincoln,5,0,5/24/2020
+Lyon,31,0,5/24/2020
+McLeod ,26,0,5/24/2020
+Mahnomen ,5,1,5/24/2020
+Marshall ,8,0,5/24/2020
+Martin ,124,5,5/24/2020
+Meeker,42,0,5/24/2020
+Mille Lacs ,16,1,5/24/2020
+Morrison ,38,0,5/24/2020
+Mower ,150,1,5/24/2020
+Murray ,35,0,5/24/2020
+Nicollet,68,3,5/24/2020
+Nobles,"1,457",2,5/24/2020
+Norman,11,0,5/24/2020
+Olmsted,551,10,5/24/2020
+Otter Tail,55,0,5/24/2020
+Pennington,7,0,5/24/2020
+Pine,85,0,5/24/2020
+Pipestone,10,0,5/24/2020
+Polk,58,2,5/24/2020
+Pope,7,0,5/24/2020
+Ramsey,"2,316",97,5/24/2020
+Red Lake,3,0,5/24/2020
+Redwood,3,0,5/24/2020
+Renville,5,0,5/24/2020
+Rice,365,2,5/24/2020
+Rock,21,0,5/24/2020
+Roseau,1,0,5/24/2020
+St. Louis ,111,13,5/24/2020
+Scott ,346,2,5/24/2020
+Sherburne ,208,1,5/24/2020
+Sibley ,12,0,5/24/2020
+Stearns ,"1,923",12,5/24/2020
+Steele ,140,0,5/24/2020
+Stevens,0,0,5/24/2020
+Swift,15,0,5/24/2020
+Todd,197,0,5/24/2020
+Traverse,3,0,5/24/2020
+Wabasha,16,0,5/24/2020
+Wadena,6,0,5/24/2020
+Waseca,24,0,5/24/2020
+Washington,506,26,5/24/2020
+Watonwan,50,0,5/24/2020
+Wilkin,11,3,5/24/2020
+Winona,77,15,5/24/2020
+Wright,240,1,5/24/2020
+Yellow Medicine,5,0,5/24/2020
+Unknown/missing,19,0,5/24/2020
+Aitkin,6,0,5/25/2020
+Anoka,"1,210",56,5/25/2020
+Becker,37,0,5/25/2020
+Beltrami,12,0,5/25/2020
+Benton,167,2,5/25/2020
+Big Stone,3,0,5/25/2020
+Blue Earth,115,1,5/25/2020
+Brown,12,2,5/25/2020
+Carlton,73,0,5/25/2020
+Carver,174,2,5/25/2020
+Cass,11,2,5/25/2020
+Chippewa,42,0,5/25/2020
+Chisago,48,1,5/25/2020
+Clay,373,24,5/25/2020
+Clearwater,3,0,5/25/2020
+Cook,0,0,5/25/2020
+Cottonwood,64,0,5/25/2020
+Crow Wing,56,1,5/25/2020
+Dakota,"1,102",35,5/25/2020
+Dodge,44,0,5/25/2020
+Douglas,29,0,5/25/2020
+Faribault,12,0,5/25/2020
+Fillmore,17,1,5/25/2020
+Freeborn,93,0,5/25/2020
+Goodhue,55,2,5/25/2020
+Grant,2,0,5/25/2020
+Hennepin,"7,168",539,5/25/2020
+Houston,2,0,5/25/2020
+Hubbard,1,0,5/25/2020
+Isanti,28,0,5/25/2020
+Itasca,53,7,5/25/2020
+Jackson,39,0,5/25/2020
+Kanabec,11,1,5/25/2020
+Kandiyohi,468,1,5/25/2020
+Kittson,1,0,5/25/2020
+Koochiching,6,0,5/25/2020
+Lac qui Parle,3,0,5/25/2020
+Lake,1,0,5/25/2020
+Lake of the Woods,0,0,5/25/2020
+Le Sueur,41,1,5/25/2020
+Lincoln,5,0,5/25/2020
+Lyon,34,0,5/25/2020
+McLeod ,27,0,5/25/2020
+Mahnomen ,5,1,5/25/2020
+Marshall ,9,0,5/25/2020
+Martin ,125,5,5/25/2020
+Meeker,42,0,5/25/2020
+Mille Lacs ,17,1,5/25/2020
+Morrison ,38,0,5/25/2020
+Mower ,189,1,5/25/2020
+Murray ,35,0,5/25/2020
+Nicollet,69,5,5/25/2020
+Nobles,"1,469",2,5/25/2020
+Norman,11,0,5/25/2020
+Olmsted,562,10,5/25/2020
+Otter Tail,60,0,5/25/2020
+Pennington,9,0,5/25/2020
+Pine,85,0,5/25/2020
+Pipestone,10,0,5/25/2020
+Polk,59,2,5/25/2020
+Pope,8,0,5/25/2020
+Ramsey,"2,437",97,5/25/2020
+Red Lake,3,0,5/25/2020
+Redwood,3,0,5/25/2020
+Renville,5,0,5/25/2020
+Rice,386,2,5/25/2020
+Rock,21,0,5/25/2020
+Roseau,1,0,5/25/2020
+St. Louis ,111,13,5/25/2020
+Scott ,358,2,5/25/2020
+Sherburne ,214,2,5/25/2020
+Sibley ,12,0,5/25/2020
+Stearns ,"1,950",12,5/25/2020
+Steele ,141,0,5/25/2020
+Stevens,0,0,5/25/2020
+Swift,16,0,5/25/2020
+Todd,204,0,5/25/2020
+Traverse,3,0,5/25/2020
+Wabasha,16,0,5/25/2020
+Wadena,6,0,5/25/2020
+Waseca,25,0,5/25/2020
+Washington,527,29,5/25/2020
+Watonwan,56,0,5/25/2020
+Wilkin,11,3,5/25/2020
+Winona,78,15,5/25/2020
+Wright,253,1,5/25/2020
+Yellow Medicine,6,0,5/25/2020
+Unknown/missing,22,0,5/25/2020
+Aitkin,7,0,5/26/2020
+Anoka,"1,241",56,5/26/2020
+Becker,37,0,5/26/2020
+Beltrami,12,0,5/26/2020
+Benton,167,2,5/26/2020
+Big Stone,3,0,5/26/2020
+Blue Earth,119,1,5/26/2020
+Brown,13,2,5/26/2020
+Carlton,73,0,5/26/2020
+Carver,182,2,5/26/2020
+Cass,11,2,5/26/2020
+Chippewa,42,1,5/26/2020
+Chisago,49,1,5/26/2020
+Clay,386,25,5/26/2020
+Clearwater,3,0,5/26/2020
+Cook,0,0,5/26/2020
+Cottonwood,65,0,5/26/2020
+Crow Wing,56,1,5/26/2020
+Dakota,"1,164",38,5/26/2020
+Dodge,46,0,5/26/2020
+Douglas,30,0,5/26/2020
+Faribault,13,0,5/26/2020
+Fillmore,17,1,5/26/2020
+Freeborn,97,0,5/26/2020
+Goodhue,58,3,5/26/2020
+Grant,3,0,5/26/2020
+Hennepin,"7,421",549,5/26/2020
+Houston,2,0,5/26/2020
+Hubbard,1,0,5/26/2020
+Isanti,30,0,5/26/2020
+Itasca,53,7,5/26/2020
+Jackson,39,0,5/26/2020
+Kanabec,11,1,5/26/2020
+Kandiyohi,471,1,5/26/2020
+Kittson,1,0,5/26/2020
+Koochiching,6,0,5/26/2020
+Lac qui Parle,3,0,5/26/2020
+Lake,1,0,5/26/2020
+Lake of the Woods,0,0,5/26/2020
+Le Sueur,41,1,5/26/2020
+Lincoln,5,0,5/26/2020
+Lyon,36,0,5/26/2020
+McLeod ,28,0,5/26/2020
+Mahnomen ,5,1,5/26/2020
+Marshall ,9,0,5/26/2020
+Martin ,126,5,5/26/2020
+Meeker,42,0,5/26/2020
+Mille Lacs ,17,1,5/26/2020
+Morrison ,39,0,5/26/2020
+Mower ,206,1,5/26/2020
+Murray ,35,0,5/26/2020
+Nicollet,71,6,5/26/2020
+Nobles,"1,478",2,5/26/2020
+Norman,11,0,5/26/2020
+Olmsted,570,10,5/26/2020
+Otter Tail,59,0,5/26/2020
+Pennington,14,0,5/26/2020
+Pine,85,0,5/26/2020
+Pipestone,10,0,5/26/2020
+Polk,59,2,5/26/2020
+Pope,8,0,5/26/2020
+Ramsey,"2,551",98,5/26/2020
+Red Lake,3,0,5/26/2020
+Redwood,3,0,5/26/2020
+Renville,5,0,5/26/2020
+Rice,396,2,5/26/2020
+Rock,21,0,5/26/2020
+Roseau,1,0,5/26/2020
+St. Louis ,114,13,5/26/2020
+Scott ,374,2,5/26/2020
+Sherburne ,217,2,5/26/2020
+Sibley ,13,0,5/26/2020
+Stearns ,"1,959",12,5/26/2020
+Steele ,144,0,5/26/2020
+Stevens,0,0,5/26/2020
+Swift,16,0,5/26/2020
+Todd,220,0,5/26/2020
+Traverse,3,0,5/26/2020
+Wabasha,17,0,5/26/2020
+Wadena,8,0,5/26/2020
+Waseca,24,0,5/26/2020
+Washington,553,29,5/26/2020
+Watonwan,58,0,5/26/2020
+Wilkin,11,3,5/26/2020
+Winona,78,15,5/26/2020
+Wright,263,1,5/26/2020
+Yellow Medicine,6,0,5/26/2020
+Unknown/missing,15,0,5/26/2020
+Aitkin,7,0,5/27/2020
+Anoka,"1,262",59,5/27/2020
+Becker,37,0,5/27/2020
+Beltrami,13,0,5/27/2020
+Benton,169,2,5/27/2020
+Big Stone,3,0,5/27/2020
+Blue Earth,122,1,5/27/2020
+Brown,14,2,5/27/2020
+Carlton,73,0,5/27/2020
+Carver,185,2,5/27/2020
+Cass,12,2,5/27/2020
+Chippewa,44,1,5/27/2020
+Chisago,50,1,5/27/2020
+Clay,406,25,5/27/2020
+Clearwater,3,0,5/27/2020
+Cook,0,0,5/27/2020
+Cottonwood,65,0,5/27/2020
+Crow Wing,57,1,5/27/2020
+Dakota,"1,182",44,5/27/2020
+Dodge,46,0,5/27/2020
+Douglas,39,0,5/27/2020
+Faribault,13,0,5/27/2020
+Fillmore,17,1,5/27/2020
+Freeborn,97,0,5/27/2020
+Goodhue,60,3,5/27/2020
+Grant,3,0,5/27/2020
+Hennepin,"7,540",565,5/27/2020
+Houston,2,0,5/27/2020
+Hubbard,1,0,5/27/2020
+Isanti,33,0,5/27/2020
+Itasca,53,7,5/27/2020
+Jackson,39,0,5/27/2020
+Kanabec,11,1,5/27/2020
+Kandiyohi,475,1,5/27/2020
+Kittson,1,0,5/27/2020
+Koochiching,7,0,5/27/2020
+Lac qui Parle,3,0,5/27/2020
+Lake,1,0,5/27/2020
+Lake of the Woods,0,0,5/27/2020
+Le Sueur,43,1,5/27/2020
+Lincoln,5,0,5/27/2020
+Lyon,36,0,5/27/2020
+McLeod ,29,0,5/27/2020
+Mahnomen ,5,1,5/27/2020
+Marshall ,9,0,5/27/2020
+Martin ,126,5,5/27/2020
+Meeker,44,0,5/27/2020
+Mille Lacs ,17,1,5/27/2020
+Morrison ,40,0,5/27/2020
+Mower ,216,1,5/27/2020
+Murray ,36,0,5/27/2020
+Nicollet,74,7,5/27/2020
+Nobles,"1,488",3,5/27/2020
+Norman,11,0,5/27/2020
+Olmsted,575,10,5/27/2020
+Otter Tail,62,0,5/27/2020
+Pennington,17,0,5/27/2020
+Pine,85,0,5/27/2020
+Pipestone,10,0,5/27/2020
+Polk,59,2,5/27/2020
+Pope,8,0,5/27/2020
+Ramsey,"2,610",103,5/27/2020
+Red Lake,4,0,5/27/2020
+Redwood,3,0,5/27/2020
+Renville,5,0,5/27/2020
+Rice,411,2,5/27/2020
+Rock,21,0,5/27/2020
+Roseau,1,0,5/27/2020
+St. Louis ,115,13,5/27/2020
+Scott ,379,2,5/27/2020
+Sherburne ,219,2,5/27/2020
+Sibley ,13,0,5/27/2020
+Stearns ,"1,984",12,5/27/2020
+Steele ,148,0,5/27/2020
+Stevens,0,0,5/27/2020
+Swift,17,0,5/27/2020
+Todd,296,0,5/27/2020
+Traverse,3,0,5/27/2020
+Wabasha,17,0,5/27/2020
+Wadena,8,0,5/27/2020
+Waseca,24,0,5/27/2020
+Washington,562,30,5/27/2020
+Watonwan,59,0,5/27/2020
+Wilkin,11,3,5/27/2020
+Winona,78,15,5/27/2020
+Wright,269,1,5/27/2020
+Yellow Medicine,6,0,5/27/2020
+Unknown/missing,61,0,5/27/2020

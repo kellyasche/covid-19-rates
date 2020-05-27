@@ -64,10 +64,17 @@ data.7 <- read_csv("Data/Case data/cases-2020-05-18-through-21.csv") %>%
   right_join(counties.regions, by = c("County" = "Name")) %>%
   fill(Date)
 
+data.8 <- read_csv("Data/Case data/cases-2020-05-22-through-27.csv") %>%
+  mutate(County = iconv(County, "UTF-8", "UTF-8",sub=''),
+         Deaths = iconv(Deaths, "UTF-8", "UTF-8", sub = "")) %>%
+  right_join(counties.regions, by = c("County" = "Name")) %>%
+  fill(Date)
+
+
 # Combine all data --------------------------------------------------------
 
 master.data <- data.2 %>%
-  rbind(data.3,data.4, data.5, data.6, data.7) %>%
+  rbind(data.3,data.4, data.5, data.6, data.7,data.8) %>%
   left_join(total.pop, by = "countyfp") 
 
 write_csv(master.data, "Data/Case data/Master-cases-county.csv")

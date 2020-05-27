@@ -140,8 +140,8 @@ case.county.map <- master.cases %>%
          deaths.100k = Deaths / pop.100k,
          cases.100k.log = log(cases.100k),
          cases.100k.bins = cut(cases.100k,
-                               breaks = c(-1, 50, 100, 200, 500, 6500),
-                               labels = c("1-49", "50-99", "100-199", "200-499", "500-6,000"))) %>%
+                               breaks = c(-1, 50, 100, 200, 500, 7000),
+                               labels = c("1-49", "50-99", "100-199", "200-499", "500-7,000"))) %>%
   left_join(mn_counties[,c(4,7)], by = c("countyfp" = "FIPS_CODE")) %>%
   st_as_sf() %>%
   group_by(countyfp, County) %>%
@@ -156,8 +156,8 @@ case.county.trend.map <- master.cases %>%
          deaths.100k = Deaths / pop.100k,
          cases.100k.log = log(cases.100k),
          cases.100k.bins = cut(cases.100k,
-                               breaks = c(-1, 50, 100, 200, 500, 6500),
-                               labels = c("1-49", "50-99", "100-199", "200-499", "500-6,000"))) %>%
+                               breaks = c(-1, 50, 100, 200, 500, 7000),
+                               labels = c("1-49", "50-99", "100-199", "200-499", "500-7,000"))) %>%
   left_join(mn_counties[,c(4,7)], by = c("countyfp" = "FIPS_CODE")) %>%
   st_as_sf()  %>%
   group_by(countyfp, County) %>%
